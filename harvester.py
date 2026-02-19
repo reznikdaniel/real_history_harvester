@@ -61,17 +61,14 @@ def fetch_and_save():
         if new_data:
             df_new = pd.DataFrame(new_data)
             
-            # 🌟 ВИПРАВЛЕННЯ: Перевіряємо не тільки існування файлу, але і чи він НЕ порожній (> 0 байт)
             if os.path.exists(FILE_NAME) and os.path.getsize(FILE_NAME) > 0:
                 try:
                     df_existing = pd.read_csv(FILE_NAME)
                     df_combined = pd.concat([df_existing, df_new]).drop_duplicates(subset=['time', 'uid'], keep='last')
                     df_combined.to_csv(FILE_NAME, index=False)
                 except pd.errors.EmptyDataError:
-                    # Якщо файл якось поламався, створюємо поверх нього новий
                     df_new.to_csv(FILE_NAME, index=False)
             else:
-                # Якщо файлу немає або він порожній (0 байт)
                 df_new.to_csv(FILE_NAME, index=False)
             
             print(f"✅ Успішно завантажено {len(new_data)} записів у Data Lake.")
@@ -80,9 +77,4 @@ def fetch_and_save():
         print(f"❌ Критична помилка циклу: {e}")
 
 if __name__ == "__main__":
-    fetch_and_save()
-        print(f"❌ Критична помилка циклу: {e}")
-
-if __name__ == "__main__":
-
     fetch_and_save()
