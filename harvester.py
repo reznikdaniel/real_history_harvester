@@ -69,6 +69,14 @@ def fetch_and_save():
             details = requests.get(f"https://api.waqi.info/feed/@{uid}/?token={API_TOKEN}", timeout=5).json()
             
             if details.get('status') == 'ok':
+                # 🛡️ ВАКЦИНА ВІД ЗОМБІ: Перевіряємо реальний час станції
+                station_time_str = details['data'].get('time', {}).get('s')
+                if station_time_str:
+                    station_time = datetime.strptime(station_time_str, "%Y-%m-%d %H:%M:%S")
+                    hours_dead = (datetime.now() - station_time).total_seconds() / 3600
+                    if hours_dead > 12:
+                        continue # Станція мертва, ігноруємо її і йдемо до наступної
+                        
                 iaqi = details['data'].get('iaqi', {})
                 pm25 = float(iaqi.get('pm25', {}).get('v', 0))
                 pm10 = float(iaqi.get('pm10', {}).get('v', 0))
@@ -107,3 +115,4 @@ def fetch_and_save():
 
 if __name__ == "__main__":
     fetch_and_save()
+
