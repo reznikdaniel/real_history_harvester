@@ -1,12 +1,10 @@
 time,station,uid,pm2.5,pm10,no2
 2026-02-19 18:00:00,"Str Prelungirea Liliacului, Constanţa, Romania",4174,0.0,11.0,17.7
-2026-02-19 18:00:00,"Lovech, Bulgaria",10574,0.0,12.0,0.0
 2026-02-19 18:00:00,"Calea Bucureşti, Braşov, Romania",6843,0.0,23.0,39.9
 2026-02-19 18:00:00,"Beograd Oml. brigada, Serbia",9261,55.0,30.0,16.6
 2026-02-19 18:00:00,"Miskolc Alföldi, Miskolc, Hungary",8649,95.0,32.0,0.0
 2026-02-19 18:00:00,"Centar, Obrenovac, Serbia",8096,48.0,16.0,5.8
 2026-02-19 18:00:00,"Dumbierska, Kosice, Slovakia",3112,42.0,12.0,0.0
-2026-02-19 18:00:00,"prospekt Miru, 20, Shepetivka, Ukraine (Luftdaten #25838)",11885,47.0,22.0,0.0
 2026-02-19 18:00:00,"Nowiny ul. Parkowa, Poland",6550,0.0,61.0,21.3
 2026-02-19 18:00:00,"str. Muncii, Turceni, Romania",7649,0.0,17.0,7.9
 2026-02-19 18:00:00,"Čačak, Serbia",14558,76.0,40.0,19.2
@@ -30,9 +28,7 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 18:00:00,"Beograd Mladenovac, Serbia",14784,58.0,36.0,9.8
 2026-02-19 18:00:00,"Str. Hipodromului, Sibiu, Romania",6870,0.0,11.0,13.4
 2026-02-19 18:00:00,"Szeged 2 Rózsa u., Szeged, Hungary",3337,42.0,19.0,8.5
-2026-02-19 18:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,19.0,4.0
 2026-02-19 18:00:00,"Roosevelta, Żyrardów, Mazowieckie, Poland",3395,156.0,65.0,0.3
-2026-02-19 18:00:00,"Str Mihai Viteazu, Constanţa, Romania",7648,0.0,20.0,29.2
 2026-02-19 18:00:00,"Com. Budeasa, Caloteşti, Romania",6833,0.0,13.0,6.0
 2026-02-19 18:00:00,"Kragujevac, Serbia",14789,67.0,33.0,10.9
 2026-02-19 18:00:00,"Meteo. st, Ganovce, Slovakia",3128,50.0,18.0,6.0
@@ -51,7 +47,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 18:00:00,"Zamość, Poland",6481,177.0,82.0,29.2
 2026-02-19 18:00:00,"Str. I Bulbuca, Timişoara, Romania",7661,56.0,21.0,32.4
 2026-02-19 18:00:00,"Szolnok, Szolnok, Hungary",3358,0.0,10.0,0.0
-2026-02-19 18:00:00,"Kojsovska Hola, Slovakia",3121,57.0,12.0,1.0
 2026-02-19 18:00:00,"Şoseaua Constanţei, Mangalia, Romania",4173,0.0,12.0,8.0
 2026-02-19 18:00:00,"Beograd Lazarevac, Serbia",14560,48.0,14.0,8.3
 2026-02-19 18:00:00,"Str. Ostrovei, Râmnicu Vâlcea, Romania",6876,0.0,22.0,6.2
@@ -60,7 +55,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 18:00:00,"Połaniec, Poland",6551,141.0,56.0,17.2
 2026-02-19 18:00:00,"Gołuchów, Ujęcie Wody, Poland",14910,0.0,35.0,6.0
 2026-02-19 18:00:00,"Veliki Crljeni, Serbia",14563,73.0,25.0,11.7
-2026-02-19 18:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,15.4
 2026-02-19 18:00:00,"Str. Soseaua Suruia, Focșani, Romania",4196,0.0,17.0,14.1
 2026-02-19 18:00:00,"Dębica-Grottgera-WIOS, Poland",13039,169.0,75.0,0.0
 2026-02-19 18:00:00,"Małogoszcz, ul. Słoneczna 18, Poland",14912,129.0,49.0,10.2
@@ -96,7 +90,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 18:00:00,"Beograd Obrenovac Ušće, Serbia",14564,11.0,3.0,1.9
 2026-02-19 18:00:00,"Comuna Sânpetru, Sânpetru, Romania",4191,0.0,24.0,10.1
 2026-02-19 18:00:00,"Calea Pietroasa, Campulung, Romania",4163,0.0,45.0,16.0
-2026-02-19 18:00:00,"Str. Meteorologiei, Zalău, Romania",6872,42.0,13.0,8.0
 2026-02-19 18:00:00,"Str. Nufărului, Oradea, Romania",6838,0.0,17.0,20.1
 2026-02-19 18:00:00,"Sos. Sloboziei, Giurgiu, Romania",8585,0.0,15.0,33.2
 2026-02-19 18:00:00,"Str. Industriei, Urziceni, Romania",6860,0.0,16.0,17.6
@@ -126,7 +119,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 18:00:00,"Bdul Bucuresti, Ploieşti, Romania",4186,0.0,32.0,58.2
 2026-02-19 18:00:00,"Calea Macin, Isaccea, Romania",4188,0.0,18.0,14.0
 2026-02-19 18:00:00,"Nowa Huta, Kraków, Małopolska, Poland",3403,129.0,51.0,9.7
-2026-02-19 18:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,73.0,28.0,38.8
 2026-02-19 18:00:00,"Str. Decebal, Medgidia, Romania",4175,0.0,10.0,12.9
 2026-02-19 18:00:00,"Dobrich - OU Han Asparuh, Bulgaria",10565,0.0,8.0,0.0
 2026-02-19 18:00:00,"Aleea Biciclistilor, Hunedoara, Romania",6859,0.0,39.0,15.8
@@ -174,35 +166,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 18:00:00,"Obrenovac Centar, Serbia",9254,51.0,24.0,8.8
 2026-02-19 18:00:00,"Bdul. Gării, Braşov, Romania",7647,0.0,24.0,34.5
 2026-02-19 18:00:00,"Comuna Valiug, Semenic, Romania",6855,0.0,12.0,3.5
-2026-02-19 18:00:00,"Berezhans'ka Street, 3, Ternopil, Ukraine (Luftdaten #21613)",11660,31.0,17.0,0.0
-2026-02-19 18:00:00,"Mykhaila Hrushevskoho Street, 30, Kyiv, Ukraine (Luftdaten #21428)",11662,5.0,2.0,0.0
-2026-02-19 18:00:00,"Pobeda-6, Geroev Avenue, 40, Dnipro, Ukraine",11431,24.0,11.0,0.0
-2026-02-19 18:00:00,"Vulytsya Pavla Nirinberha, 4-6, Dnipro, Ukraine",11623,19.0,10.0,0.0
-2026-02-19 18:00:00,"Hrushevs'koho Street, 8, Ternopil, Ukraine (Luftdaten #12542)",11659,109.0,62.0,0.0
-2026-02-19 18:00:00,"Alma-Atinska vulicya, 1, Chernivci, Ukraine (Luftdaten #26750)",11875,130.0,64.0,0.0
-2026-02-19 18:00:00,"vulicya Sim'yi Kulzhenkiv, 31, Kiyiv, Ukraine",11902,55.0,0.0,0.0
-2026-02-19 18:00:00,"bulvar Perova, 48, Kiyiv, Ukraine",11884,34.0,0.0,0.0
-2026-02-19 18:00:00,"ecorada1, Kryvyi Rih, Ukraine (Чеська)",11689,4.0,2.0,0.0
-2026-02-19 18:00:00,"Urban Space 100, Ivano-Frankivsk, Ukraine (вул.Грушевського)",11680,3.0,2.0,0.0
-2026-02-19 18:00:00,"SteelDrum, Lviv, Ukraine (vul.Kleparivska 18)",11795,10.0,9.0,0.0
-2026-02-19 18:00:00,"Zolota Nyva, Ivano-Frankivsk, Ukraine (вул.Симоненка)",11681,1.0,1.0,0.0
-2026-02-19 18:00:00,"Vokzalna Square, 2, Dnipro, Ukraine",11622,12.0,6.0,0.0
-2026-02-19 18:00:00,"APS 4001, Bahmut, Ukraine",11880,45.0,8.0,0.0
-2026-02-19 18:00:00,"APS 1001, Kramatorsk, Ukraine",11876,86.0,0.0,0.0
-2026-02-19 18:00:00,"APS 2002, Mariupol, Ukraine",11878,3.0,1.0,0.0
-2026-02-19 18:00:00,"Novokrymskaya Street, 1, Dnipro, Ukraine",11453,22.0,11.0,0.0
-2026-02-19 18:00:00,"Hoholya Street, 10, Dnipro, Ukraine",11748,60.0,27.0,0.0
-2026-02-19 18:00:00,"boryspil-67141, boryspil-67141, Ukraine (boryspil-67141)",11872,3.0,2.0,0.0
-2026-02-19 18:00:00,"BeeGreen, Ivano-Frankivsk, Ukraine (вул.Бельведерська 40)",11684,12.0,6.0,0.0
-2026-02-19 18:00:00,"vulicya Generala Zhmachenka, 4, Kiyiv, Ukraine",11873,26.0,11.0,0.0
-2026-02-19 18:00:00,"Yurkivska Street, 28, Kyiv, Ukraine",11668,59.0,51.0,0.0
-2026-02-19 18:00:00,"DataStory_1, Kyiv, Ukraine; DataStory_1, Kyiv, Ukraine (Урлівська)",11687,5.0,6.0,0.0
-2026-02-19 18:00:00,"Reheneratorna Street, 4, Kyiv, Ukraine",11460,54.0,21.0,0.0
-2026-02-19 18:00:00,"Mykhaila Dontsya Street, 2, Kyiv, Ukraine; Mykhaila Dontsya Street, 2, Kyiv, Ukraine (Luftdaten #22535)",11663,77.0,31.0,0.0
-2026-02-19 18:00:00,"Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine; Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine (prospekt. Akademika Hlushkova, 40, korp. 4/1)",11722,3.0,1.0,0.0
-2026-02-19 18:00:00,"Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine; Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine (Luftdaten #18168)",11661,12.0,6.0,0.0
-2026-02-19 18:00:00,"vulicya Vasilya Stusa, 28A, Kiyiv, Ukraine (Luftdaten #25539)",11883,2.0,1.0,0.0
-2026-02-19 18:00:00,"Prime Torque Motors, Odesa, Ukraine (Parkova, 7)",11691,90.0,54.0,0.0
 2026-02-19 18:00:00,"odesa; Odessa Gonzales, Midland, Texas",196,14.0,0.0,0.0
 2026-02-19 18:00:00,"elpueleutodesantamalia; Rio San Pedro, Puerto Real, Spain",8448,21.0,13.0,3.2
 2026-02-19 18:00:00,"rhode-saint-genese; Ukkel, Belgium",2992,8.0,7.0,11.5
@@ -211,7 +174,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 18:00:00,"telaviva; The Haganah Train - Gush Dan, Israel (ישראל,רכבת ההגנה, גוש דן)",9989,77.0,0.0,38.0
 2026-02-19 18:00:00,"telaviva; Yoseftal Train - Gush Dan, Israel (ישראל,רכבת יוספטל, גוש דן)",9990,76.0,0.0,17.0
 2026-02-19 18:00:00,"telaviva; The Peace Train - Gush Dan, Israel (ישראל,רכבת השלום, גוש דן)",9992,73.0,0.0,54.3
-2026-02-19 18:00:00,"telaviva; Dan, Japheth Jaffa, Israel (ישראל,יפת יפו, גוש דן)",2987,61.0,28.0,9.0
 2026-02-19 18:00:00,"telaviva; Or Yehuda - inner plain, Israel (ישראל,אור יהודה, שפלה פנימית)",9987,59.0,0.0,10.1
 2026-02-19 18:00:00,"telaviva; Levinsky, Tel Aviv Metropolitan Area, Israel (ישראל,לוינסקי, גוש דן)",11911,54.0,45.0,10.2
 2026-02-19 18:00:00,"telaviva; Antokolski Gush Dan, Israel (ישראל,אנטוקולסקי, גוש דן)",2962,51.0,0.0,11.1
@@ -221,30 +183,9 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 18:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,34.0,28.0,29.8
 2026-02-19 18:00:00,"telaviva; Mobile stations 4, Israel (ישראל,ניידת4, תחנות ניידות)",8894,29.0,0.0,15.8
 2026-02-19 18:00:00,"telaviva; Highway 4, Gush Dan, Israel (ישראל,כביש 4, גוש דן)",2959,27.0,28.0,24.1
-2026-02-19 18:00:00,"telaviva; Dan, White Hand, Israel (ישראל,יד לבנים, גוש דן)",2982,92.0,0.0,0.0
-2026-02-19 18:00:00,"telaviva; Railway mobile station, Israel (ישראל,תחנה ניידת רכבת, תחנות ניידות)",8902,68.0,0.0,16.2
-2026-02-19 18:00:00,"Kosmichna Street, 9, Dnipro, Ukraine",11749,11.0,9.0,0.0
-2026-02-19 18:00:00,"Ulyanova Street, 26, Dnipro, Ukraine",11433,13.0,5.0,0.0
-2026-02-19 18:00:00,"Dmytra Yavornytskoho Avenue, 60, Dnipro, Ukraine",11455,2.0,1.0,0.0
-2026-02-19 18:00:00,"Slavy Boulevard, 11, Dnipro, Ukraine",11625,20.0,8.0,0.0
-2026-02-19 18:00:00,"Kalynova Street, 49, Dnipro, Ukraine",11457,11.0,6.0,0.0
-2026-02-19 18:00:00,"Pershogo Travnya Street, 7, Dnipro, Ukraine",11432,174.0,75.0,0.0
-2026-02-19 18:00:00,"Geroev Avenue, 46, Dnipro, Ukraine",11667,69.0,37.0,0.0
-2026-02-19 18:00:00,"Topolia-2, 23, Dnipro, Ukraine",11728,13.0,4.0,0.0
-2026-02-19 18:00:00,"Liubarskoho Street, 36, Dnipro, Ukraine",11624,37.0,16.0,0.0
-2026-02-19 18:00:00,"Haharina Avenue, 43, Dnipro, Ukraine",11456,11.0,5.0,0.0
-2026-02-19 18:00:00,"Pavla Nirinberha Street, 10, Dnipro, Ukraine",11673,579.0,579.0,0.0
-2026-02-19 18:00:00,"Beregova Street, 29, Dnipro, Ukraine",11771,10.0,8.0,0.0
-2026-02-19 18:00:00,"Pryberezhna Street, Dnipro, Ukraine",11454,8.0,5.0,0.0
-2026-02-19 18:00:00,"Velyka Diivska Street, 4, Dnipro, Ukraine",11770,23.0,14.0,0.0
-2026-02-19 18:00:00,"Dniprovs'ko-Oril's'kyy pryrodnyy zapovidnyk, Obukhivka, Ukraine",11693,21.0,8.0,0.0
-2026-02-19 18:00:00,"zaporizhzhia; Dytyacha likarnya 2, Zaporizhzhya, Ukraine (Patriotychna & Stalevariv)",11769,25.0,9.0,0.0
-2026-02-19 18:00:00,"zaporizhzhia; Pivdennyi, Zaporizhzhya, Ukraine (Avtozavodska)",11797,16.0,6.0,0.0
-2026-02-19 18:00:00,"zaporizhzhia; Zayats, Zaporizhzhya, Ukraine (Charivna)",11743,153.0,87.0,0.0
 2026-02-19 19:00:00,"Biała Podlaska, Poland",6479,0.0,83.0,30.7
 2026-02-19 19:00:00,"Pod Vinbargom, Bardejov, Slovakia",13822,63.0,23.0,14.2
 2026-02-19 19:00:00,"Tochtermana, Radom, Mazowieckie, Poland",3393,178.0,91.0,40.6
-2026-02-19 19:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,19.0,4.2
 2026-02-19 19:00:00,"Devnya - Izvorite, Bulgaria",10567,0.0,21.0,9.0
 2026-02-19 19:00:00,"Bor Gradski park, Serbia",12643,83.0,28.0,0.0
 2026-02-19 19:00:00,"Beograd Obrenovac Ušće, Serbia",14564,12.0,3.0,1.1
@@ -303,10 +244,8 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 19:00:00,"Str. Victoriei, Piteşti, Romania",7644,53.0,14.0,25.0
 2026-02-19 19:00:00,"Str. P-ţa Independenţei, Brăila, Romania",6841,0.0,25.0,4.5
 2026-02-19 19:00:00,"Bdul. Gării, Braşov, Romania",7647,0.0,25.0,27.3
-2026-02-19 19:00:00,"Str. Meteorologiei, Zalău, Romania",6872,42.0,13.0,6.5
 2026-02-19 19:00:00,"Str. Ioan Slavici, Satu Mare, Romania",6873,0.0,14.0,17.8
 2026-02-19 19:00:00,"M.R.Stefanika, Vranov nad Top., Slovakia",3131,74.0,23.0,6.9
-2026-02-19 19:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,78.0,27.0,33.3
 2026-02-19 19:00:00,"Str. Lunca Oltului, Sfântu Gheorghe, Romania",8579,0.0,7.0,31.6
 2026-02-19 19:00:00,"Bdul Bucuresti, Baia Mare, Romania",4181,0.0,12.0,12.5
 2026-02-19 19:00:00,"Kielce, ul. Targowa 3, Poland",14911,64.0,25.0,14.2
@@ -335,7 +274,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 19:00:00,"Dębica-Grottgera-WIOS, Poland",13039,122.0,48.0,0.0
 2026-02-19 19:00:00,"Str. Dunarii, Alexandria, Romania",4160,0.0,10.0,6.9
 2026-02-19 19:00:00,"Comuna Baloteşti, Baloteşti, Romania",7658,66.0,21.0,26.4
-2026-02-19 19:00:00,"Lovech, Bulgaria",10574,0.0,12.0,0.0
 2026-02-19 19:00:00,"Com. Budeasa, Caloteşti, Romania",6833,0.0,13.0,5.5
 2026-02-19 19:00:00,"Str.Alexandru cel Bun, Siret, Romania",6875,0.0,22.0,8.1
 2026-02-19 19:00:00,"Małogoszcz, ul. Słoneczna 18, Poland",14912,152.0,54.0,8.0
@@ -357,7 +295,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 19:00:00,"Str. Petru Maior, Reşiţa, Romania",4170,0.0,16.0,3.2
 2026-02-19 19:00:00,"EMEP, AU SAV, Stara Lesna, Slovakia",3127,46.0,9.0,3.7
 2026-02-19 19:00:00,"Kragujevac, Serbia",14789,60.0,24.0,6.7
-2026-02-19 19:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,15.4
 2026-02-19 19:00:00,"Str. Cauciucului, Oneşti, Romania",4166,0.0,40.0,13.0
 2026-02-19 19:00:00,"EMEP, Vodna nadrz, Starina, Slovakia",3130,55.0,13.0,1.4
 2026-02-19 19:00:00,"DC-86, Năvodari, Romania",4172,0.0,15.0,26.6
@@ -369,7 +306,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 19:00:00,"Zeleznicna, Poprad, Slovakia",13827,50.0,12.0,11.0
 2026-02-19 19:00:00,"Str. 1 Decembrie 1918, Tecuci, Romania",6857,0.0,12.0,6.2
 2026-02-19 19:00:00,"Targówek, Warszawa, Mazowieckie, Poland",3391,61.0,35.0,27.8
-2026-02-19 19:00:00,"Str Mihai Viteazu, Constanţa, Romania",7648,0.0,21.0,21.9
 2026-02-19 19:00:00,"Str. Lacul Morii, Lacul Morii, Romania",7655,69.0,25.0,52.5
 2026-02-19 19:00:00,"Aleea Grădiste, Slatina, Romania",8588,0.0,8.0,7.1
 2026-02-19 19:00:00,"str. Muncii, Turceni, Romania",7649,0.0,17.0,6.5
@@ -380,7 +316,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 19:00:00,"Str. Teilor, Fieni, Romania",6852,0.0,15.0,18.1
 2026-02-19 19:00:00,"Str. Hipodromului, Sibiu, Romania",6870,0.0,11.0,16.3
 2026-02-19 19:00:00,"Str. Parcului, Bistriţa, Romania",8578,0.0,18.0,5.2
-2026-02-19 19:00:00,"Kojsovska Hola, Slovakia",3121,57.0,12.0,1.0
 2026-02-19 19:00:00,"SNP, Krompachy, Slovakia",3144,70.0,23.0,6.9
 2026-02-19 19:00:00,"Şoseaua Constanţei, Mangalia, Romania",4173,0.0,12.0,7.7
 2026-02-19 19:00:00,"Zamość, Poland",6481,181.0,87.0,23.4
@@ -408,36 +343,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 19:00:00,"T. G. Masaryka, Trebisov, Slovakia",13830,55.0,15.0,9.2
 2026-02-19 19:00:00,"Miskolc Lavotta, Miskolc, Hungary",3353,0.0,29.0,0.0
 2026-02-19 19:00:00,"Nowy Sącz, Małopolska, Poland",3404,123.0,52.0,6.7
-2026-02-19 19:00:00,"Berezhans'ka Street, 3, Ternopil, Ukraine (Luftdaten #21613)",11660,31.0,17.0,0.0
-2026-02-19 19:00:00,"Mykhaila Hrushevskoho Street, 30, Kyiv, Ukraine (Luftdaten #21428)",11662,5.0,2.0,0.0
-2026-02-19 19:00:00,"Pobeda-6, Geroev Avenue, 40, Dnipro, Ukraine",11431,24.0,11.0,0.0
-2026-02-19 19:00:00,"prospekt Miru, 20, Shepetivka, Ukraine (Luftdaten #25838)",11885,47.0,22.0,0.0
-2026-02-19 19:00:00,"Vulytsya Pavla Nirinberha, 4-6, Dnipro, Ukraine",11623,19.0,10.0,0.0
-2026-02-19 19:00:00,"Hrushevs'koho Street, 8, Ternopil, Ukraine (Luftdaten #12542)",11659,109.0,62.0,0.0
-2026-02-19 19:00:00,"Alma-Atinska vulicya, 1, Chernivci, Ukraine (Luftdaten #26750)",11875,130.0,64.0,0.0
-2026-02-19 19:00:00,"vulicya Sim'yi Kulzhenkiv, 31, Kiyiv, Ukraine",11902,55.0,0.0,0.0
-2026-02-19 19:00:00,"bulvar Perova, 48, Kiyiv, Ukraine",11884,34.0,0.0,0.0
-2026-02-19 19:00:00,"ecorada1, Kryvyi Rih, Ukraine (Чеська)",11689,4.0,2.0,0.0
-2026-02-19 19:00:00,"Urban Space 100, Ivano-Frankivsk, Ukraine (вул.Грушевського)",11680,3.0,2.0,0.0
-2026-02-19 19:00:00,"SteelDrum, Lviv, Ukraine (vul.Kleparivska 18)",11795,10.0,9.0,0.0
-2026-02-19 19:00:00,"Zolota Nyva, Ivano-Frankivsk, Ukraine (вул.Симоненка)",11681,1.0,1.0,0.0
-2026-02-19 19:00:00,"Vokzalna Square, 2, Dnipro, Ukraine",11622,12.0,6.0,0.0
-2026-02-19 19:00:00,"APS 4001, Bahmut, Ukraine",11880,45.0,8.0,0.0
-2026-02-19 19:00:00,"APS 1001, Kramatorsk, Ukraine",11876,86.0,0.0,0.0
-2026-02-19 19:00:00,"APS 2002, Mariupol, Ukraine",11878,3.0,1.0,0.0
-2026-02-19 19:00:00,"Novokrymskaya Street, 1, Dnipro, Ukraine",11453,22.0,11.0,0.0
-2026-02-19 19:00:00,"Hoholya Street, 10, Dnipro, Ukraine",11748,60.0,27.0,0.0
-2026-02-19 19:00:00,"boryspil-67141, boryspil-67141, Ukraine (boryspil-67141)",11872,3.0,2.0,0.0
-2026-02-19 19:00:00,"BeeGreen, Ivano-Frankivsk, Ukraine (вул.Бельведерська 40)",11684,12.0,6.0,0.0
-2026-02-19 19:00:00,"vulicya Generala Zhmachenka, 4, Kiyiv, Ukraine",11873,26.0,11.0,0.0
-2026-02-19 19:00:00,"Yurkivska Street, 28, Kyiv, Ukraine",11668,59.0,51.0,0.0
-2026-02-19 19:00:00,"DataStory_1, Kyiv, Ukraine; DataStory_1, Kyiv, Ukraine (Урлівська)",11687,5.0,6.0,0.0
-2026-02-19 19:00:00,"Reheneratorna Street, 4, Kyiv, Ukraine",11460,54.0,21.0,0.0
-2026-02-19 19:00:00,"Mykhaila Dontsya Street, 2, Kyiv, Ukraine; Mykhaila Dontsya Street, 2, Kyiv, Ukraine (Luftdaten #22535)",11663,77.0,31.0,0.0
-2026-02-19 19:00:00,"Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine; Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine (prospekt. Akademika Hlushkova, 40, korp. 4/1)",11722,3.0,1.0,0.0
-2026-02-19 19:00:00,"Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine; Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine (Luftdaten #18168)",11661,12.0,6.0,0.0
-2026-02-19 19:00:00,"vulicya Vasilya Stusa, 28A, Kiyiv, Ukraine (Luftdaten #25539)",11883,2.0,1.0,0.0
-2026-02-19 19:00:00,"Prime Torque Motors, Odesa, Ukraine (Parkova, 7)",11691,90.0,54.0,0.0
 2026-02-19 19:00:00,"odesa; Odessa Gonzales, Midland, Texas",196,30.0,0.0,0.0
 2026-02-19 19:00:00,"elpueleutodesantamalia; Rio San Pedro, Puerto Real, Spain",8448,21.0,13.0,3.2
 2026-02-19 19:00:00,"rhode-saint-genese; Ukkel, Belgium",2992,12.0,7.0,11.0
@@ -446,7 +351,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 19:00:00,"telaviva; The Haganah Train - Gush Dan, Israel (ישראל,רכבת ההגנה, גוש דן)",9989,77.0,0.0,42.3
 2026-02-19 19:00:00,"telaviva; Yoseftal Train - Gush Dan, Israel (ישראל,רכבת יוספטל, גוש דן)",9990,76.0,0.0,20.0
 2026-02-19 19:00:00,"telaviva; The Peace Train - Gush Dan, Israel (ישראל,רכבת השלום, גוש דן)",9992,73.0,0.0,41.5
-2026-02-19 19:00:00,"telaviva; Dan, Japheth Jaffa, Israel (ישראל,יפת יפו, גוש דן)",2987,60.0,28.0,12.5
 2026-02-19 19:00:00,"telaviva; Or Yehuda - inner plain, Israel (ישראל,אור יהודה, שפלה פנימית)",9987,59.0,0.0,19.9
 2026-02-19 19:00:00,"telaviva; Levinsky, Tel Aviv Metropolitan Area, Israel (ישראל,לוינסקי, גוש דן)",11911,56.0,46.0,10.2
 2026-02-19 19:00:00,"telaviva; Antokolski Gush Dan, Israel (ישראל,אנטוקולסקי, גוש דן)",2962,50.0,0.0,14.3
@@ -456,26 +360,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 19:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,33.0,28.0,34.6
 2026-02-19 19:00:00,"telaviva; Highway 4, Gush Dan, Israel (ישראל,כביש 4, גוש דן)",2959,27.0,28.0,31.2
 2026-02-19 19:00:00,"telaviva; Mobile stations 4, Israel (ישראל,ניידת4, תחנות ניידות)",8894,28.0,0.0,12.1
-2026-02-19 19:00:00,"telaviva; Dan, White Hand, Israel (ישראל,יד לבנים, גוש דן)",2982,92.0,0.0,0.0
-2026-02-19 19:00:00,"telaviva; Railway mobile station, Israel (ישראל,תחנה ניידת רכבת, תחנות ניידות)",8902,68.0,0.0,16.2
-2026-02-19 19:00:00,"Kosmichna Street, 9, Dnipro, Ukraine",11749,11.0,9.0,0.0
-2026-02-19 19:00:00,"Ulyanova Street, 26, Dnipro, Ukraine",11433,13.0,5.0,0.0
-2026-02-19 19:00:00,"Dmytra Yavornytskoho Avenue, 60, Dnipro, Ukraine",11455,2.0,1.0,0.0
-2026-02-19 19:00:00,"Slavy Boulevard, 11, Dnipro, Ukraine",11625,20.0,8.0,0.0
-2026-02-19 19:00:00,"Kalynova Street, 49, Dnipro, Ukraine",11457,11.0,6.0,0.0
-2026-02-19 19:00:00,"Pershogo Travnya Street, 7, Dnipro, Ukraine",11432,174.0,75.0,0.0
-2026-02-19 19:00:00,"Geroev Avenue, 46, Dnipro, Ukraine",11667,69.0,37.0,0.0
-2026-02-19 19:00:00,"Topolia-2, 23, Dnipro, Ukraine",11728,13.0,4.0,0.0
-2026-02-19 19:00:00,"Liubarskoho Street, 36, Dnipro, Ukraine",11624,37.0,16.0,0.0
-2026-02-19 19:00:00,"Haharina Avenue, 43, Dnipro, Ukraine",11456,11.0,5.0,0.0
-2026-02-19 19:00:00,"Pavla Nirinberha Street, 10, Dnipro, Ukraine",11673,579.0,579.0,0.0
-2026-02-19 19:00:00,"Beregova Street, 29, Dnipro, Ukraine",11771,10.0,8.0,0.0
-2026-02-19 19:00:00,"Pryberezhna Street, Dnipro, Ukraine",11454,8.0,5.0,0.0
-2026-02-19 19:00:00,"Velyka Diivska Street, 4, Dnipro, Ukraine",11770,23.0,14.0,0.0
-2026-02-19 19:00:00,"Dniprovs'ko-Oril's'kyy pryrodnyy zapovidnyk, Obukhivka, Ukraine",11693,21.0,8.0,0.0
-2026-02-19 19:00:00,"zaporizhzhia; Dytyacha likarnya 2, Zaporizhzhya, Ukraine (Patriotychna & Stalevariv)",11769,25.0,9.0,0.0
-2026-02-19 19:00:00,"zaporizhzhia; Pivdennyi, Zaporizhzhya, Ukraine (Avtozavodska)",11797,16.0,6.0,0.0
-2026-02-19 19:00:00,"zaporizhzhia; Zayats, Zaporizhzhya, Ukraine (Charivna)",11743,153.0,87.0,0.0
 2026-02-19 20:00:00,"Brzozowa, Otwock, Mazowieckie, Poland",9037,56.0,15.0,7.2
 2026-02-19 20:00:00,"Beograd Obrenovac Ušće, Serbia",14564,37.0,9.0,1.7
 2026-02-19 20:00:00,"Str. 1 Decembrie 1918, Tecuci, Romania",6857,0.0,13.0,5.4
@@ -486,14 +370,12 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 20:00:00,"Str. Vasile Alecsandri, Târgu Jiu, Romania",8581,72.0,26.0,19.4
 2026-02-19 20:00:00,"Comuna Sinandrei, Sinandrei, Romania",4189,0.0,23.0,7.8
 2026-02-19 20:00:00,"Oszlár, Oszlár, Hungary",3355,0.0,20.0,0.0
-2026-02-19 20:00:00,"Lovech, Bulgaria",10574,0.0,12.0,0.0
 2026-02-19 20:00:00,"Str. Brestei, Breasta, Romania",6853,0.0,19.0,4.3
 2026-02-19 20:00:00,"Szolnok, Szolnok, Hungary",3358,0.0,10.0,0.0
 2026-02-19 20:00:00,"Beograd Zemun TB, Serbia",14565,59.0,24.0,14.4
 2026-02-19 20:00:00,"Veliki Crljeni, Serbia",14563,98.0,37.0,11.2
 2026-02-19 20:00:00,"Bdul. N. Iorga, Iasi, Romania",6861,0.0,48.0,24.6
 2026-02-19 20:00:00,"Str. Ioan Fluieras, Arad, Romania",4164,0.0,14.0,6.3
-2026-02-19 20:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,19.0,3.8
 2026-02-19 20:00:00,"Str. Decebal, Medgidia, Romania",4175,0.0,10.0,5.9
 2026-02-19 20:00:00,"Str. Piata Victoriei, Ploieşti, Romania",6868,0.0,21.0,47.0
 2026-02-19 20:00:00,"IZJZ Niš, Niš, Serbia",8577,203.0,161.0,40.6
@@ -515,7 +397,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 20:00:00,"Com. Oarja, Oarja, Romania",6834,0.0,9.0,13.1
 2026-02-19 20:00:00,"Str. Uzinei, Râmnicu Vâlcea, Romania",7642,0.0,14.0,15.3
 2026-02-19 20:00:00,"Str. Rozelor, Oţelu Roşu, Romania",6848,0.0,23.0,8.3
-2026-02-19 20:00:00,"Kojsovska Hola, Slovakia",3121,57.0,12.0,1.0
 2026-02-19 20:00:00,"Dębica-Grottgera-WIOS, Poland",13039,99.0,37.0,0.0
 2026-02-19 20:00:00,"Pirot, Serbia",14562,52.0,15.0,4.2
 2026-02-19 20:00:00,"Str. Victoriei, Piteşti, Romania",7644,53.0,14.0,25.0
@@ -567,7 +448,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 20:00:00,"Calea Victoriei, Cercul Militar, Romania",7657,0.0,21.0,41.0
 2026-02-19 20:00:00,"Str. Domnească, Galaţi, Romania",8583,0.0,14.0,11.5
 2026-02-19 20:00:00,"T. G. Masaryka, Trebisov, Slovakia",13830,61.0,15.0,8.3
-2026-02-19 20:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,102.0,36.0,33.6
 2026-02-19 20:00:00,"Miskolc Lavotta, Miskolc, Hungary",3353,0.0,29.0,0.0
 2026-02-19 20:00:00,"Nowy Sącz, Małopolska, Poland",3404,122.0,52.0,6.4
 2026-02-19 20:00:00,"Str. Lacul Morii, Lacul Morii, Romania",7655,68.0,25.0,52.5
@@ -591,7 +471,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 20:00:00,"Str. Cauciucului, Oneşti, Romania",4166,0.0,41.0,13.0
 2026-02-19 20:00:00,"Jesenskeho, Jelsava, Slovakia",3116,152.0,52.0,6.4
 2026-02-19 20:00:00,"Małogoszcz, ul. Słoneczna 18, Poland",14912,138.0,50.0,7.3
-2026-02-19 20:00:00,"Str. Calea Bucuresti, Giurgiu, Romania",6858,0.0,14.0,28.4
 2026-02-19 20:00:00,"Beograd Sopot, Serbia",14785,43.0,12.0,1.2
 2026-02-19 20:00:00,"Str. Lunca Oltului, Sfântu Gheorghe, Romania",8579,0.0,7.0,31.6
 2026-02-19 20:00:00,"Str. Gării, Mediaş, Romania",4187,0.0,20.0,25.7
@@ -622,49 +501,17 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 20:00:00,"Lublin ul.Obywatelska, Poland",6480,144.0,52.0,33.7
 2026-02-19 20:00:00,"Miskolc Búza tér, Miskolc, Hungary",3352,91.0,32.0,19.7
 2026-02-19 20:00:00,"Comuna Baloteşti, Baloteşti, Romania",7658,66.0,21.0,26.4
-2026-02-19 20:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,15.4
 2026-02-19 20:00:00,"Str. Stefan Cel Mare, Vaslui, Romania",6877,0.0,34.0,5.8
 2026-02-19 20:00:00,"Gołuchów, Ujęcie Wody, Poland",14910,0.0,36.0,6.1
 2026-02-19 20:00:00,"Nowiny ul. Parkowa, Poland",6550,0.0,52.0,13.8
 2026-02-19 20:00:00,"Str. Dunarii, Alexandria, Romania",4160,0.0,10.0,6.9
 2026-02-19 20:00:00,"Str. Mărăşeşti, Suceava, Romania",4194,96.0,35.0,15.6
-2026-02-19 20:00:00,"Str. Meteorologiei, Zalău, Romania",6872,42.0,13.0,6.5
 2026-02-19 20:00:00,"Dumbierska, Kosice, Slovakia",3112,59.0,16.0,0.0
 2026-02-19 20:00:00,"Arm.gen. L. Svobodu, Presov, Slovakia",3129,70.0,26.0,23.4
 2026-02-19 20:00:00,"Meteo. st, Ganovce, Slovakia",3128,53.0,17.0,4.6
 2026-02-19 20:00:00,"Bdul Bucuresti, Ploieşti, Romania",4186,0.0,34.0,39.7
 2026-02-19 20:00:00,"Calea Bucuresti, Craiova, Romania",8580,0.0,22.0,10.3
 2026-02-19 20:00:00,"Beograd Leštane, Serbia",14783,62.0,32.0,13.0
-2026-02-19 20:00:00,"Berezhans'ka Street, 3, Ternopil, Ukraine (Luftdaten #21613)",11660,31.0,17.0,0.0
-2026-02-19 20:00:00,"Mykhaila Hrushevskoho Street, 30, Kyiv, Ukraine (Luftdaten #21428)",11662,5.0,2.0,0.0
-2026-02-19 20:00:00,"Pobeda-6, Geroev Avenue, 40, Dnipro, Ukraine",11431,24.0,11.0,0.0
-2026-02-19 20:00:00,"prospekt Miru, 20, Shepetivka, Ukraine (Luftdaten #25838)",11885,47.0,22.0,0.0
-2026-02-19 20:00:00,"Vulytsya Pavla Nirinberha, 4-6, Dnipro, Ukraine",11623,19.0,10.0,0.0
-2026-02-19 20:00:00,"Hrushevs'koho Street, 8, Ternopil, Ukraine (Luftdaten #12542)",11659,109.0,62.0,0.0
-2026-02-19 20:00:00,"Alma-Atinska vulicya, 1, Chernivci, Ukraine (Luftdaten #26750)",11875,130.0,64.0,0.0
-2026-02-19 20:00:00,"vulicya Sim'yi Kulzhenkiv, 31, Kiyiv, Ukraine",11902,55.0,0.0,0.0
-2026-02-19 20:00:00,"bulvar Perova, 48, Kiyiv, Ukraine",11884,34.0,0.0,0.0
-2026-02-19 20:00:00,"ecorada1, Kryvyi Rih, Ukraine (Чеська)",11689,4.0,2.0,0.0
-2026-02-19 20:00:00,"Urban Space 100, Ivano-Frankivsk, Ukraine (вул.Грушевського)",11680,3.0,2.0,0.0
-2026-02-19 20:00:00,"SteelDrum, Lviv, Ukraine (vul.Kleparivska 18)",11795,10.0,9.0,0.0
-2026-02-19 20:00:00,"Zolota Nyva, Ivano-Frankivsk, Ukraine (вул.Симоненка)",11681,1.0,1.0,0.0
-2026-02-19 20:00:00,"Vokzalna Square, 2, Dnipro, Ukraine",11622,12.0,6.0,0.0
-2026-02-19 20:00:00,"APS 4001, Bahmut, Ukraine",11880,45.0,8.0,0.0
-2026-02-19 20:00:00,"APS 1001, Kramatorsk, Ukraine",11876,86.0,0.0,0.0
-2026-02-19 20:00:00,"APS 2002, Mariupol, Ukraine",11878,3.0,1.0,0.0
-2026-02-19 20:00:00,"Novokrymskaya Street, 1, Dnipro, Ukraine",11453,22.0,11.0,0.0
-2026-02-19 20:00:00,"Hoholya Street, 10, Dnipro, Ukraine",11748,60.0,27.0,0.0
-2026-02-19 20:00:00,"boryspil-67141, boryspil-67141, Ukraine (boryspil-67141)",11872,3.0,2.0,0.0
-2026-02-19 20:00:00,"BeeGreen, Ivano-Frankivsk, Ukraine (вул.Бельведерська 40)",11684,12.0,6.0,0.0
-2026-02-19 20:00:00,"vulicya Generala Zhmachenka, 4, Kiyiv, Ukraine",11873,26.0,11.0,0.0
-2026-02-19 20:00:00,"Yurkivska Street, 28, Kyiv, Ukraine",11668,59.0,51.0,0.0
-2026-02-19 20:00:00,"DataStory_1, Kyiv, Ukraine; DataStory_1, Kyiv, Ukraine (Урлівська)",11687,5.0,6.0,0.0
-2026-02-19 20:00:00,"Reheneratorna Street, 4, Kyiv, Ukraine",11460,54.0,21.0,0.0
-2026-02-19 20:00:00,"Mykhaila Dontsya Street, 2, Kyiv, Ukraine; Mykhaila Dontsya Street, 2, Kyiv, Ukraine (Luftdaten #22535)",11663,77.0,31.0,0.0
-2026-02-19 20:00:00,"Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine; Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine (prospekt. Akademika Hlushkova, 40, korp. 4/1)",11722,3.0,1.0,0.0
-2026-02-19 20:00:00,"Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine; Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine (Luftdaten #18168)",11661,12.0,6.0,0.0
-2026-02-19 20:00:00,"vulicya Vasilya Stusa, 28A, Kiyiv, Ukraine (Luftdaten #25539)",11883,2.0,1.0,0.0
-2026-02-19 20:00:00,"Prime Torque Motors, Odesa, Ukraine (Parkova, 7)",11691,90.0,54.0,0.0
 2026-02-19 20:00:00,"odesa; Odessa Gonzales, Midland, Texas",196,33.0,0.0,0.0
 2026-02-19 20:00:00,"elpueleutodesantamalia; Rio San Pedro, Puerto Real, Spain",8448,21.0,13.0,2.8
 2026-02-19 20:00:00,"rhode-saint-genese; Ukkel, Belgium",2992,16.0,8.0,9.6
@@ -673,7 +520,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 20:00:00,"telaviva; The Haganah Train - Gush Dan, Israel (ישראל,רכבת ההגנה, גוש דן)",9989,77.0,0.0,35.7
 2026-02-19 20:00:00,"telaviva; Yoseftal Train - Gush Dan, Israel (ישראל,רכבת יוספטל, גוש דן)",9990,76.0,0.0,20.5
 2026-02-19 20:00:00,"telaviva; The Peace Train - Gush Dan, Israel (ישראל,רכבת השלום, גוש דן)",9992,73.0,0.0,34.2
-2026-02-19 20:00:00,"telaviva; Dan, Japheth Jaffa, Israel (ישראל,יפת יפו, גוש דן)",2987,60.0,28.0,15.0
 2026-02-19 20:00:00,"telaviva; Or Yehuda - inner plain, Israel (ישראל,אור יהודה, שפלה פנימית)",9987,59.0,0.0,20.7
 2026-02-19 20:00:00,"telaviva; Levinsky, Tel Aviv Metropolitan Area, Israel (ישראל,לוינסקי, גוש דן)",11911,56.0,46.0,20.0
 2026-02-19 20:00:00,"telaviva; Antokolski Gush Dan, Israel (ישראל,אנטוקולסקי, גוש דן)",2962,51.0,0.0,14.9
@@ -683,25 +529,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 20:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,33.0,28.0,29.3
 2026-02-19 20:00:00,"telaviva; Highway 4, Gush Dan, Israel (ישראל,כביש 4, גוש דן)",2959,28.0,28.0,31.1
 2026-02-19 20:00:00,"telaviva; Mobile stations 4, Israel (ישראל,ניידת4, תחנות ניידות)",8894,27.0,0.0,10.1
-2026-02-19 20:00:00,"telaviva; Dan, White Hand, Israel (ישראל,יד לבנים, גוש דן)",2982,92.0,0.0,0.0
-2026-02-19 20:00:00,"telaviva; Railway mobile station, Israel (ישראל,תחנה ניידת רכבת, תחנות ניידות)",8902,68.0,0.0,16.2
-2026-02-19 20:00:00,"Ulyanova Street, 26, Dnipro, Ukraine",11433,13.0,5.0,0.0
-2026-02-19 20:00:00,"Dmytra Yavornytskoho Avenue, 60, Dnipro, Ukraine",11455,2.0,1.0,0.0
-2026-02-19 20:00:00,"Slavy Boulevard, 11, Dnipro, Ukraine",11625,20.0,8.0,0.0
-2026-02-19 20:00:00,"Kalynova Street, 49, Dnipro, Ukraine",11457,11.0,6.0,0.0
-2026-02-19 20:00:00,"Pershogo Travnya Street, 7, Dnipro, Ukraine",11432,174.0,75.0,0.0
-2026-02-19 20:00:00,"Geroev Avenue, 46, Dnipro, Ukraine",11667,69.0,37.0,0.0
-2026-02-19 20:00:00,"Topolia-2, 23, Dnipro, Ukraine",11728,13.0,4.0,0.0
-2026-02-19 20:00:00,"Liubarskoho Street, 36, Dnipro, Ukraine",11624,37.0,16.0,0.0
-2026-02-19 20:00:00,"Haharina Avenue, 43, Dnipro, Ukraine",11456,11.0,5.0,0.0
-2026-02-19 20:00:00,"Pavla Nirinberha Street, 10, Dnipro, Ukraine",11673,579.0,579.0,0.0
-2026-02-19 20:00:00,"Beregova Street, 29, Dnipro, Ukraine",11771,10.0,8.0,0.0
-2026-02-19 20:00:00,"Pryberezhna Street, Dnipro, Ukraine",11454,8.0,5.0,0.0
-2026-02-19 20:00:00,"Velyka Diivska Street, 4, Dnipro, Ukraine",11770,23.0,14.0,0.0
-2026-02-19 20:00:00,"Dniprovs'ko-Oril's'kyy pryrodnyy zapovidnyk, Obukhivka, Ukraine",11693,21.0,8.0,0.0
-2026-02-19 20:00:00,"zaporizhzhia; Dytyacha likarnya 2, Zaporizhzhya, Ukraine (Patriotychna & Stalevariv)",11769,25.0,9.0,0.0
-2026-02-19 20:00:00,"zaporizhzhia; Pivdennyi, Zaporizhzhya, Ukraine (Avtozavodska)",11797,16.0,6.0,0.0
-2026-02-19 20:00:00,"zaporizhzhia; Zayats, Zaporizhzhya, Ukraine (Charivna)",11743,153.0,87.0,0.0
 2026-02-19 21:00:00,"Str. Decebal, Medgidia, Romania",4175,0.0,10.0,6.5
 2026-02-19 21:00:00,"Arm.gen. L. Svobodu, Presov, Slovakia",3129,59.0,18.0,18.3
 2026-02-19 21:00:00,"Szymbark, Szymbark 430, Krakow, Poland",14890,0.0,43.0,4.5
@@ -726,7 +553,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 21:00:00,"Str. Teilor, Fieni, Romania",6852,0.0,16.0,14.1
 2026-02-19 21:00:00,"Str. Războieni, Bacău, Romania",7645,0.0,48.0,9.4
 2026-02-19 21:00:00,"Aleea Castanilor, Copşa Mică, Romania",6871,0.0,38.0,10.0
-2026-02-19 21:00:00,"Str. Meteorologiei, Zalău, Romania",6872,42.0,13.0,6.5
 2026-02-19 21:00:00,"Shumen, Bulgaria",10563,0.0,12.0,6.2
 2026-02-19 21:00:00,"Aleea Grădiste, Slatina, Romania",8588,0.0,8.0,6.5
 2026-02-19 21:00:00,"Borsukowizna-Wiejska, Poland",11817,56.0,14.0,2.5
@@ -787,15 +613,12 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 21:00:00,"Biała Podlaska, Poland",6479,0.0,84.0,17.6
 2026-02-19 21:00:00,"Str. Piata Victoriei, Ploieşti, Romania",6868,0.0,21.0,40.9
 2026-02-19 21:00:00,"Calea Macin, Isaccea, Romania",4188,0.0,18.0,6.8
-2026-02-19 21:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,15.4
 2026-02-19 21:00:00,"Str. Soseaua Suruia, Focșani, Romania",4196,0.0,17.0,8.7
 2026-02-19 21:00:00,"Calea Pietroasa, Campulung, Romania",4163,0.0,50.0,7.0
 2026-02-19 21:00:00,"Zegrzyńska, Legionowo, Mazowieckie, Poland",4748,139.0,50.0,21.9
 2026-02-19 21:00:00,"Str. Drumul Taberei, Drumul Taberei, Romania",7656,0.0,21.0,45.3
 2026-02-19 21:00:00,"Str. Industriei, Urziceni, Romania",6860,0.0,17.0,14.5
-2026-02-19 21:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,120.0,42.0,32.1
 2026-02-19 21:00:00,"Brzozowa, Otwock, Mazowieckie, Poland",9037,56.0,15.0,7.2
-2026-02-19 21:00:00,"Lovech, Bulgaria",10574,0.0,12.0,0.0
 2026-02-19 21:00:00,"Miskolc Lavotta, Miskolc, Hungary",3353,0.0,47.0,0.0
 2026-02-19 21:00:00,"str. Mihai Viteazu, Vulcan, Romania",4193,0.0,21.0,11.1
 2026-02-19 21:00:00,"Małogoszcz, ul. Słoneczna 18, Poland",14912,140.0,50.0,8.7
@@ -805,7 +628,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 21:00:00,"Smederevo Radinac, Serbia",14566,72.0,24.0,4.3
 2026-02-19 21:00:00,"Beograd Mladenovac, Serbia",14784,51.0,26.0,5.9
 2026-02-19 21:00:00,"Zona Pasaj Micalaca, Arad, Romania",6835,0.0,12.0,12.4
-2026-02-19 21:00:00,"Kojsovska Hola, Slovakia",3121,57.0,12.0,1.0
 2026-02-19 21:00:00,"Bdul Bucuresti, Ploieşti, Romania",4186,0.0,34.0,27.5
 2026-02-19 21:00:00,"Bor Gradski park, Serbia",12643,81.0,27.0,0.0
 2026-02-19 21:00:00,"Kraków, os. Piastów, Małopolska, Poland",9039,111.0,50.0,9.2
@@ -832,7 +654,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 21:00:00,"Bdul Bucuresti, Baia Mare, Romania",4181,0.0,11.0,20.7
 2026-02-19 21:00:00,"Str. Rotunda, Titan, Romania",8590,0.0,18.0,44.2
 2026-02-19 21:00:00,"Dębica-Grottgera-WIOS, Poland",13039,95.0,35.0,0.0
-2026-02-19 21:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,25.0,3.8
 2026-02-19 21:00:00,"Bdul. N. Iorga, Iasi, Romania",6861,0.0,48.0,23.1
 2026-02-19 21:00:00,"Zamość, Poland",6481,215.0,114.0,31.2
 2026-02-19 21:00:00,"Str. Nufărului, Oradea, Romania",6838,0.0,18.0,22.5
@@ -854,7 +675,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 21:00:00,"Str. Carpati, Deva, Romania",7651,0.0,26.0,8.2
 2026-02-19 21:00:00,"Hernádszurdok, Hernádszurdok, Hungary",3350,59.0,11.0,0.0
 2026-02-19 21:00:00,"Roosevelta, Żyrardów, Mazowieckie, Poland",3395,171.0,73.0,0.3
-2026-02-19 21:00:00,"Str Mihai Viteazu, Constanţa, Romania",7648,0.0,21.0,25.2
 2026-02-19 21:00:00,"Sos. 1 Decembrie 1918, Giurgiu, Romania",4177,0.0,20.0,34.2
 2026-02-19 21:00:00,"Str. Izvoare, Bacău, Romania",4165,0.0,22.0,13.5
 2026-02-19 21:00:00,"Bdul Unirii, Baia Mare, Romania",4182,0.0,12.0,9.0
@@ -863,35 +683,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 21:00:00,"Targówek, Warszawa, Mazowieckie, Poland",3391,77.0,31.0,29.3
 2026-02-19 21:00:00,"Str. Vlad Ţepeş, Târgovişte, Romania",6851,0.0,15.0,39.8
 2026-02-19 21:00:00,"Novi Pazar, Serbia",12894,86.0,37.0,13.3
-2026-02-19 21:00:00,"Berezhans'ka Street, 3, Ternopil, Ukraine (Luftdaten #21613)",11660,31.0,17.0,0.0
-2026-02-19 21:00:00,"Mykhaila Hrushevskoho Street, 30, Kyiv, Ukraine (Luftdaten #21428)",11662,5.0,2.0,0.0
-2026-02-19 21:00:00,"Pobeda-6, Geroev Avenue, 40, Dnipro, Ukraine",11431,24.0,11.0,0.0
-2026-02-19 21:00:00,"prospekt Miru, 20, Shepetivka, Ukraine (Luftdaten #25838)",11885,47.0,22.0,0.0
-2026-02-19 21:00:00,"Hrushevs'koho Street, 8, Ternopil, Ukraine (Luftdaten #12542)",11659,109.0,62.0,0.0
-2026-02-19 21:00:00,"Alma-Atinska vulicya, 1, Chernivci, Ukraine (Luftdaten #26750)",11875,130.0,64.0,0.0
-2026-02-19 21:00:00,"vulicya Sim'yi Kulzhenkiv, 31, Kiyiv, Ukraine",11902,55.0,0.0,0.0
-2026-02-19 21:00:00,"bulvar Perova, 48, Kiyiv, Ukraine",11884,34.0,0.0,0.0
-2026-02-19 21:00:00,"ecorada1, Kryvyi Rih, Ukraine (Чеська)",11689,4.0,2.0,0.0
-2026-02-19 21:00:00,"Urban Space 100, Ivano-Frankivsk, Ukraine (вул.Грушевського)",11680,3.0,2.0,0.0
-2026-02-19 21:00:00,"SteelDrum, Lviv, Ukraine (vul.Kleparivska 18)",11795,10.0,9.0,0.0
-2026-02-19 21:00:00,"Zolota Nyva, Ivano-Frankivsk, Ukraine (вул.Симоненка)",11681,1.0,1.0,0.0
-2026-02-19 21:00:00,"Vokzalna Square, 2, Dnipro, Ukraine",11622,12.0,6.0,0.0
-2026-02-19 21:00:00,"APS 4001, Bahmut, Ukraine",11880,45.0,8.0,0.0
-2026-02-19 21:00:00,"APS 1001, Kramatorsk, Ukraine",11876,86.0,0.0,0.0
-2026-02-19 21:00:00,"APS 2002, Mariupol, Ukraine",11878,3.0,1.0,0.0
-2026-02-19 21:00:00,"Novokrymskaya Street, 1, Dnipro, Ukraine",11453,22.0,11.0,0.0
-2026-02-19 21:00:00,"Hoholya Street, 10, Dnipro, Ukraine",11748,60.0,27.0,0.0
-2026-02-19 21:00:00,"boryspil-67141, boryspil-67141, Ukraine (boryspil-67141)",11872,3.0,2.0,0.0
-2026-02-19 21:00:00,"BeeGreen, Ivano-Frankivsk, Ukraine (вул.Бельведерська 40)",11684,12.0,6.0,0.0
-2026-02-19 21:00:00,"vulicya Generala Zhmachenka, 4, Kiyiv, Ukraine",11873,26.0,11.0,0.0
-2026-02-19 21:00:00,"Yurkivska Street, 28, Kyiv, Ukraine",11668,59.0,51.0,0.0
-2026-02-19 21:00:00,"DataStory_1, Kyiv, Ukraine; DataStory_1, Kyiv, Ukraine (Урлівська)",11687,5.0,6.0,0.0
-2026-02-19 21:00:00,"Reheneratorna Street, 4, Kyiv, Ukraine",11460,54.0,21.0,0.0
-2026-02-19 21:00:00,"Mykhaila Dontsya Street, 2, Kyiv, Ukraine; Mykhaila Dontsya Street, 2, Kyiv, Ukraine (Luftdaten #22535)",11663,77.0,31.0,0.0
-2026-02-19 21:00:00,"Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine; Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine (prospekt. Akademika Hlushkova, 40, korp. 4/1)",11722,3.0,1.0,0.0
-2026-02-19 21:00:00,"Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine; Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine (Luftdaten #18168)",11661,12.0,6.0,0.0
-2026-02-19 21:00:00,"vulicya Vasilya Stusa, 28A, Kiyiv, Ukraine (Luftdaten #25539)",11883,2.0,1.0,0.0
-2026-02-19 21:00:00,"Prime Torque Motors, Odesa, Ukraine (Parkova, 7)",11691,90.0,54.0,0.0
 2026-02-19 21:00:00,"odesa; Odessa Gonzales, Midland, Texas",196,33.0,0.0,0.0
 2026-02-19 21:00:00,"elpueleutodesantamalia; Rio San Pedro, Puerto Real, Spain",8448,21.0,11.0,1.9
 2026-02-19 21:00:00,"rhode-saint-genese; Ukkel, Belgium",2992,18.0,7.0,9.2
@@ -901,7 +692,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 21:00:00,"telaviva; The Haganah Train - Gush Dan, Israel (ישראל,רכבת ההגנה, גוש דן)",9989,77.0,0.0,34.3
 2026-02-19 21:00:00,"telaviva; The Peace Train - Gush Dan, Israel (ישראל,רכבת השלום, גוש דן)",9992,74.0,0.0,34.2
 2026-02-19 21:00:00,"telaviva; Or Yehuda - inner plain, Israel (ישראל,אור יהודה, שפלה פנימית)",9987,60.0,0.0,19.7
-2026-02-19 21:00:00,"telaviva; Dan, Japheth Jaffa, Israel (ישראל,יפת יפו, גוש דן)",2987,60.0,28.0,21.7
 2026-02-19 21:00:00,"telaviva; Levinsky, Tel Aviv Metropolitan Area, Israel (ישראל,לוינסקי, גוש דן)",11911,56.0,46.0,33.1
 2026-02-19 21:00:00,"telaviva; Antokolski Gush Dan, Israel (ישראל,אנטוקולסקי, גוש דן)",2962,52.0,0.0,10.5
 2026-02-19 21:00:00,"telaviva; Holon, Gush Dan, Israel (ישראל,חולון, גוש דן)",2958,47.0,28.0,21.3
@@ -910,25 +700,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 21:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,34.0,28.0,25.1
 2026-02-19 21:00:00,"telaviva; Highway 4, Gush Dan, Israel (ישראל,כביש 4, גוש דן)",2959,30.0,28.0,31.3
 2026-02-19 21:00:00,"telaviva; Mobile stations 4, Israel (ישראל,ניידת4, תחנות ניידות)",8894,28.0,0.0,10.2
-2026-02-19 21:00:00,"telaviva; Dan, White Hand, Israel (ישראל,יד לבנים, גוש דן)",2982,92.0,0.0,0.0
-2026-02-19 21:00:00,"telaviva; Railway mobile station, Israel (ישראל,תחנה ניידת רכבת, תחנות ניידות)",8902,68.0,0.0,16.2
-2026-02-19 21:00:00,"Kosmichna Street, 9, Dnipro, Ukraine",11749,11.0,9.0,0.0
-2026-02-19 21:00:00,"Ulyanova Street, 26, Dnipro, Ukraine",11433,13.0,5.0,0.0
-2026-02-19 21:00:00,"Dmytra Yavornytskoho Avenue, 60, Dnipro, Ukraine",11455,2.0,1.0,0.0
-2026-02-19 21:00:00,"Slavy Boulevard, 11, Dnipro, Ukraine",11625,20.0,8.0,0.0
-2026-02-19 21:00:00,"Kalynova Street, 49, Dnipro, Ukraine",11457,11.0,6.0,0.0
-2026-02-19 21:00:00,"Pershogo Travnya Street, 7, Dnipro, Ukraine",11432,174.0,75.0,0.0
-2026-02-19 21:00:00,"Geroev Avenue, 46, Dnipro, Ukraine",11667,69.0,37.0,0.0
-2026-02-19 21:00:00,"Topolia-2, 23, Dnipro, Ukraine",11728,13.0,4.0,0.0
-2026-02-19 21:00:00,"Haharina Avenue, 43, Dnipro, Ukraine",11456,11.0,5.0,0.0
-2026-02-19 21:00:00,"Pavla Nirinberha Street, 10, Dnipro, Ukraine",11673,579.0,579.0,0.0
-2026-02-19 21:00:00,"Beregova Street, 29, Dnipro, Ukraine",11771,10.0,8.0,0.0
-2026-02-19 21:00:00,"Pryberezhna Street, Dnipro, Ukraine",11454,8.0,5.0,0.0
-2026-02-19 21:00:00,"Velyka Diivska Street, 4, Dnipro, Ukraine",11770,23.0,14.0,0.0
-2026-02-19 21:00:00,"Dniprovs'ko-Oril's'kyy pryrodnyy zapovidnyk, Obukhivka, Ukraine",11693,21.0,8.0,0.0
-2026-02-19 21:00:00,"zaporizhzhia; Dytyacha likarnya 2, Zaporizhzhya, Ukraine (Patriotychna & Stalevariv)",11769,25.0,9.0,0.0
-2026-02-19 21:00:00,"zaporizhzhia; Pivdennyi, Zaporizhzhya, Ukraine (Avtozavodska)",11797,16.0,6.0,0.0
-2026-02-19 21:00:00,"zaporizhzhia; Zayats, Zaporizhzhya, Ukraine (Charivna)",11743,153.0,87.0,0.0
 2026-02-19 22:00:00,"Str. Domnească, Galaţi, Romania",8583,0.0,15.0,15.8
 2026-02-19 22:00:00,"Str. Izvoare, Bacău, Romania",4165,0.0,22.0,14.6
 2026-02-19 22:00:00,"Str. Valea Albă, Piatra Neamţ, Romania",4183,133.0,52.0,16.9
@@ -952,7 +723,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 22:00:00,"Borsukowizna-Wiejska, Poland",11817,62.0,17.0,2.8
 2026-02-19 22:00:00,"Nyíregyháza, Nyíregyháza, Hungary",3380,55.0,22.0,6.3
 2026-02-19 22:00:00,"Sajószentpéter, Sajószentpéter, Hungary",3357,152.0,54.0,14.5
-2026-02-19 22:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,15.4
 2026-02-19 22:00:00,"SNP, Krompachy, Slovakia",3144,50.0,11.0,6.9
 2026-02-19 22:00:00,"Str. Decebal, Medgidia, Romania",4175,0.0,10.0,6.1
 2026-02-19 22:00:00,"Szeged 2 Rózsa u., Szeged, Hungary",3337,38.0,14.0,4.4
@@ -979,7 +749,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 22:00:00,"Rymanów-Zdrój, Poland",9577,79.0,27.0,0.0
 2026-02-19 22:00:00,"Dębica-Grottgera-WIOS, Poland",13039,96.0,35.0,0.0
 2026-02-19 22:00:00,"Str. Tudor Vladimirescu, Calarasi, Romania",6847,0.0,13.0,6.8
-2026-02-19 22:00:00,"Kojsovska Hola, Slovakia",3121,57.0,12.0,1.0
 2026-02-19 22:00:00,"Nowa Huta, Kraków, Małopolska, Poland",3403,101.0,40.0,6.7
 2026-02-19 22:00:00,"Calea Macin, Isaccea, Romania",4188,0.0,18.0,7.1
 2026-02-19 22:00:00,"Str. Teilor, Fieni, Romania",6852,0.0,16.0,10.1
@@ -994,7 +763,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 22:00:00,"Str. Mărăşeşti, Suceava, Romania",4194,97.0,35.0,10.4
 2026-02-19 22:00:00,"Bdul Bucuresti, Baia Mare, Romania",4181,0.0,10.0,18.5
 2026-02-19 22:00:00,"Comuna Sinandrei, Sinandrei, Romania",4189,0.0,22.0,7.3
-2026-02-19 22:00:00,"Str Mihai Viteazu, Constanţa, Romania",7648,0.0,23.0,22.4
 2026-02-19 22:00:00,"Dobrich - OU Han Asparuh, Bulgaria",10565,0.0,8.0,0.0
 2026-02-19 22:00:00,"str. Muncii, Turceni, Romania",7649,0.0,17.0,6.9
 2026-02-19 22:00:00,"Str.Alexandru cel Bun, Siret, Romania",6875,0.0,22.0,12.7
@@ -1022,14 +790,12 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 22:00:00,"Brzozowa, Otwock, Mazowieckie, Poland",9037,56.0,15.0,7.2
 2026-02-19 22:00:00,"Str. Drumul Taberei, Drumul Taberei, Romania",7656,0.0,21.0,42.2
 2026-02-19 22:00:00,"Str. Industriei, Urziceni, Romania",6860,0.0,17.0,14.5
-2026-02-19 22:00:00,"Lovech, Bulgaria",10574,0.0,12.0,0.0
 2026-02-19 22:00:00,"str. Mihai Viteazu, Vulcan, Romania",4193,0.0,22.0,9.0
 2026-02-19 22:00:00,"Lublin ul.Obywatelska, Poland",6480,158.0,62.0,35.5
 2026-02-19 22:00:00,"Eger 2 Malomárok u., Eger, Hungary",3349,0.0,12.0,13.5
 2026-02-19 22:00:00,"Str. Soseaua Suruia, Focșani, Romania",4196,0.0,17.0,10.0
 2026-02-19 22:00:00,"str. Principala, Buchin, Romania",4171,0.0,16.0,13.0
 2026-02-19 22:00:00,"Comuna Valiug, Semenic, Romania",6855,0.0,13.0,3.9
-2026-02-19 22:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,20.0,4.8
 2026-02-19 22:00:00,"Targówek, Warszawa, Mazowieckie, Poland",3391,79.0,31.0,29.9
 2026-02-19 22:00:00,"Str. 1 Decembrie 1918, Tecuci, Romania",6857,0.0,13.0,8.7
 2026-02-19 22:00:00,"Meteo. st, Ganovce, Slovakia",3128,70.0,15.0,3.7
@@ -1084,43 +850,12 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 22:00:00,"Beograd Ada Marina, Serbia",14779,46.0,13.0,4.1
 2026-02-19 22:00:00,"Bd Mihai Eminescu, Botoşani, Romania",4168,0.0,24.0,10.1
 2026-02-19 22:00:00,"Starachowice, ul. Złota, Poland",14913,175.0,80.0,0.0
-2026-02-19 22:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,126.0,44.0,29.3
 2026-02-19 22:00:00,"Str. Rozelor, Oţelu Roşu, Romania",6848,0.0,21.0,7.0
 2026-02-19 22:00:00,"Str. Dunarii, Alexandria, Romania",4160,0.0,10.0,5.1
 2026-02-19 22:00:00,"Aleea Grădiste, Slatina, Romania",8588,0.0,8.0,8.0
 2026-02-19 22:00:00,"Str. Războieni, Bacău, Romania",7645,0.0,48.0,9.7
 2026-02-19 22:00:00,"Str. Parcului, Bistriţa, Romania",8578,0.0,18.0,5.6
-2026-02-19 22:00:00,"Str. Meteorologiei, Zalău, Romania",6872,42.0,13.0,6.4
 2026-02-19 22:00:00,"Biała Podlaska, Poland",6479,0.0,84.0,21.0
-2026-02-19 22:00:00,"Berezhans'ka Street, 3, Ternopil, Ukraine (Luftdaten #21613)",11660,31.0,17.0,0.0
-2026-02-19 22:00:00,"Mykhaila Hrushevskoho Street, 30, Kyiv, Ukraine (Luftdaten #21428)",11662,5.0,2.0,0.0
-2026-02-19 22:00:00,"Pobeda-6, Geroev Avenue, 40, Dnipro, Ukraine",11431,24.0,11.0,0.0
-2026-02-19 22:00:00,"prospekt Miru, 20, Shepetivka, Ukraine (Luftdaten #25838)",11885,47.0,22.0,0.0
-2026-02-19 22:00:00,"Vulytsya Pavla Nirinberha, 4-6, Dnipro, Ukraine",11623,19.0,10.0,0.0
-2026-02-19 22:00:00,"Hrushevs'koho Street, 8, Ternopil, Ukraine (Luftdaten #12542)",11659,109.0,62.0,0.0
-2026-02-19 22:00:00,"Alma-Atinska vulicya, 1, Chernivci, Ukraine (Luftdaten #26750)",11875,130.0,64.0,0.0
-2026-02-19 22:00:00,"bulvar Perova, 48, Kiyiv, Ukraine",11884,34.0,0.0,0.0
-2026-02-19 22:00:00,"ecorada1, Kryvyi Rih, Ukraine (Чеська)",11689,4.0,2.0,0.0
-2026-02-19 22:00:00,"Urban Space 100, Ivano-Frankivsk, Ukraine (вул.Грушевського)",11680,3.0,2.0,0.0
-2026-02-19 22:00:00,"SteelDrum, Lviv, Ukraine (vul.Kleparivska 18)",11795,10.0,9.0,0.0
-2026-02-19 22:00:00,"Zolota Nyva, Ivano-Frankivsk, Ukraine (вул.Симоненка)",11681,1.0,1.0,0.0
-2026-02-19 22:00:00,"Vokzalna Square, 2, Dnipro, Ukraine",11622,12.0,6.0,0.0
-2026-02-19 22:00:00,"APS 4001, Bahmut, Ukraine",11880,45.0,8.0,0.0
-2026-02-19 22:00:00,"APS 1001, Kramatorsk, Ukraine",11876,86.0,0.0,0.0
-2026-02-19 22:00:00,"APS 2002, Mariupol, Ukraine",11878,3.0,1.0,0.0
-2026-02-19 22:00:00,"Novokrymskaya Street, 1, Dnipro, Ukraine",11453,22.0,11.0,0.0
-2026-02-19 22:00:00,"Hoholya Street, 10, Dnipro, Ukraine",11748,60.0,27.0,0.0
-2026-02-19 22:00:00,"boryspil-67141, boryspil-67141, Ukraine (boryspil-67141)",11872,3.0,2.0,0.0
-2026-02-19 22:00:00,"BeeGreen, Ivano-Frankivsk, Ukraine (вул.Бельведерська 40)",11684,12.0,6.0,0.0
-2026-02-19 22:00:00,"vulicya Generala Zhmachenka, 4, Kiyiv, Ukraine",11873,26.0,11.0,0.0
-2026-02-19 22:00:00,"Yurkivska Street, 28, Kyiv, Ukraine",11668,59.0,51.0,0.0
-2026-02-19 22:00:00,"DataStory_1, Kyiv, Ukraine; DataStory_1, Kyiv, Ukraine (Урлівська)",11687,5.0,6.0,0.0
-2026-02-19 22:00:00,"Reheneratorna Street, 4, Kyiv, Ukraine",11460,54.0,21.0,0.0
-2026-02-19 22:00:00,"Mykhaila Dontsya Street, 2, Kyiv, Ukraine; Mykhaila Dontsya Street, 2, Kyiv, Ukraine (Luftdaten #22535)",11663,77.0,31.0,0.0
-2026-02-19 22:00:00,"Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine; Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine (prospekt. Akademika Hlushkova, 40, korp. 4/1)",11722,3.0,1.0,0.0
-2026-02-19 22:00:00,"Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine; Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine (Luftdaten #18168)",11661,12.0,6.0,0.0
-2026-02-19 22:00:00,"vulicya Vasilya Stusa, 28A, Kiyiv, Ukraine (Luftdaten #25539)",11883,2.0,1.0,0.0
-2026-02-19 22:00:00,"Prime Torque Motors, Odesa, Ukraine (Parkova, 7)",11691,90.0,54.0,0.0
 2026-02-19 22:00:00,"elpueleutodesantamalia; Rio San Pedro, Puerto Real, Spain",8448,21.0,11.0,1.9
 2026-02-19 22:00:00,"rhode-saint-genese; Ukkel, Belgium",2992,18.0,7.0,7.4
 2026-02-19 22:00:00,"telaviva; Tel Aviv (ישראל, Aviv)",5783,52.0,28.0,10.5
@@ -1129,7 +864,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 22:00:00,"telaviva; The Haganah Train - Gush Dan, Israel (ישראל,רכבת ההגנה, גוש דן)",9989,77.0,0.0,34.3
 2026-02-19 22:00:00,"telaviva; The Peace Train - Gush Dan, Israel (ישראל,רכבת השלום, גוש דן)",9992,74.0,0.0,34.2
 2026-02-19 22:00:00,"telaviva; Or Yehuda - inner plain, Israel (ישראל,אור יהודה, שפלה פנימית)",9987,61.0,0.0,20.7
-2026-02-19 22:00:00,"telaviva; Dan, Japheth Jaffa, Israel (ישראל,יפת יפו, גוש דן)",2987,60.0,28.0,21.7
 2026-02-19 22:00:00,"telaviva; Levinsky, Tel Aviv Metropolitan Area, Israel (ישראל,לוינסקי, גוש דן)",11911,56.0,46.0,33.1
 2026-02-19 22:00:00,"telaviva; Antokolski Gush Dan, Israel (ישראל,אנטוקולסקי, גוש דן)",2962,52.0,0.0,10.5
 2026-02-19 22:00:00,"telaviva; Holon, Gush Dan, Israel (ישראל,חולון, גוש דן)",2958,47.0,28.0,21.3
@@ -1138,29 +872,8 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 22:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,34.0,28.0,25.1
 2026-02-19 22:00:00,"telaviva; Mobile stations 4, Israel (ישראל,ניידת4, תחנות ניידות)",8894,31.0,0.0,10.2
 2026-02-19 22:00:00,"telaviva; Highway 4, Gush Dan, Israel (ישראל,כביש 4, גוש דן)",2959,30.0,28.0,31.3
-2026-02-19 22:00:00,"telaviva; Dan, White Hand, Israel (ישראל,יד לבנים, גוש דן)",2982,92.0,0.0,0.0
-2026-02-19 22:00:00,"telaviva; Railway mobile station, Israel (ישראל,תחנה ניידת רכבת, תחנות ניידות)",8902,68.0,0.0,16.2
-2026-02-19 22:00:00,"Kosmichna Street, 9, Dnipro, Ukraine",11749,11.0,9.0,0.0
-2026-02-19 22:00:00,"Ulyanova Street, 26, Dnipro, Ukraine",11433,13.0,5.0,0.0
-2026-02-19 22:00:00,"Dmytra Yavornytskoho Avenue, 60, Dnipro, Ukraine",11455,2.0,1.0,0.0
-2026-02-19 22:00:00,"Slavy Boulevard, 11, Dnipro, Ukraine",11625,20.0,8.0,0.0
-2026-02-19 22:00:00,"Kalynova Street, 49, Dnipro, Ukraine",11457,11.0,6.0,0.0
-2026-02-19 22:00:00,"Pershogo Travnya Street, 7, Dnipro, Ukraine",11432,174.0,75.0,0.0
-2026-02-19 22:00:00,"Geroev Avenue, 46, Dnipro, Ukraine",11667,69.0,37.0,0.0
-2026-02-19 22:00:00,"Topolia-2, 23, Dnipro, Ukraine",11728,13.0,4.0,0.0
-2026-02-19 22:00:00,"Liubarskoho Street, 36, Dnipro, Ukraine",11624,37.0,16.0,0.0
-2026-02-19 22:00:00,"Haharina Avenue, 43, Dnipro, Ukraine",11456,11.0,5.0,0.0
-2026-02-19 22:00:00,"Pavla Nirinberha Street, 10, Dnipro, Ukraine",11673,579.0,579.0,0.0
-2026-02-19 22:00:00,"Beregova Street, 29, Dnipro, Ukraine",11771,10.0,8.0,0.0
-2026-02-19 22:00:00,"Pryberezhna Street, Dnipro, Ukraine",11454,8.0,5.0,0.0
-2026-02-19 22:00:00,"Velyka Diivska Street, 4, Dnipro, Ukraine",11770,23.0,14.0,0.0
-2026-02-19 22:00:00,"Dniprovs'ko-Oril's'kyy pryrodnyy zapovidnyk, Obukhivka, Ukraine",11693,21.0,8.0,0.0
-2026-02-19 22:00:00,"zaporizhzhia; Dytyacha likarnya 2, Zaporizhzhya, Ukraine (Patriotychna & Stalevariv)",11769,25.0,9.0,0.0
-2026-02-19 22:00:00,"zaporizhzhia; Pivdennyi, Zaporizhzhya, Ukraine (Avtozavodska)",11797,16.0,6.0,0.0
-2026-02-19 22:00:00,"zaporizhzhia; Zayats, Zaporizhzhya, Ukraine (Charivna)",11743,153.0,87.0,0.0
 2026-02-19 23:00:00,"Str. Unirii, Moldova Noua, Romania",4192,0.0,15.0,0.0
 2026-02-19 23:00:00,"Str. Baile Jigodin, Miercurea Ciuc, Romania",7652,0.0,14.0,11.6
-2026-02-19 23:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,145.0,52.0,30.1
 2026-02-19 23:00:00,"Varna - SOU Angel Kanchev, Bulgaria",10577,22.0,13.0,6.6
 2026-02-19 23:00:00,"Str. Tudor Vladimirescu, Calarasi, Romania",6847,0.0,12.0,5.7
 2026-02-19 23:00:00,"Bd Mihai Eminescu, Botoşani, Romania",4168,0.0,24.0,15.9
@@ -1211,9 +924,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 23:00:00,"Str.Alexandru cel Bun, Siret, Romania",6875,0.0,22.0,22.1
 2026-02-19 23:00:00,"T. G. Masaryka, Trebisov, Slovakia",13830,34.0,11.0,3.7
 2026-02-19 23:00:00,"Str. Industriei, Urziceni, Romania",6860,0.0,17.0,14.2
-2026-02-19 23:00:00,"Str. Meteorologiei, Zalău, Romania",6872,43.0,14.0,10.1
-2026-02-19 23:00:00,"Str. Calea Bucuresti, Giurgiu, Romania",6858,0.0,15.0,42.2
-2026-02-19 23:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,15.4
 2026-02-19 23:00:00,"Str. P-ţa Independenţei, Brăila, Romania",6841,0.0,23.0,4.2
 2026-02-19 23:00:00,"Str. Uzinei, Râmnicu Vâlcea, Romania",7642,0.0,19.0,13.3
 2026-02-19 23:00:00,"Borsukowizna-Wiejska, Poland",11817,62.0,17.0,2.2
@@ -1263,7 +973,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 23:00:00,"Str. Aurel Vlaicu, Cluj-Napoca, Romania",8591,0.0,24.0,13.3
 2026-02-19 23:00:00,"Biała Podlaska, Poland",6479,0.0,102.0,14.9
 2026-02-19 23:00:00,"Dobrich - OU Han Asparuh, Bulgaria",10565,0.0,8.0,0.0
-2026-02-19 23:00:00,"Lovech, Bulgaria",10574,0.0,12.0,0.0
 2026-02-19 23:00:00,"Aleea Biciclistilor, Hunedoara, Romania",6859,0.0,45.0,9.3
 2026-02-19 23:00:00,"Eger 2 Malomárok u., Eger, Hungary",3349,0.0,6.0,8.4
 2026-02-19 23:00:00,"Zeleznicna, Poprad, Slovakia",13827,97.0,32.0,3.7
@@ -1290,7 +999,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 23:00:00,"Meteo. st, Ganovce, Slovakia",3128,74.0,34.0,4.2
 2026-02-19 23:00:00,"Str. Petru Maior, Reşiţa, Romania",4170,0.0,16.0,3.2
 2026-02-19 23:00:00,"Str. Nufărului, Oradea, Romania",6838,0.0,18.0,14.4
-2026-02-19 23:00:00,"Kojsovska Hola, Slovakia",3121,57.0,12.0,1.0
 2026-02-19 23:00:00,"Bdul Dunărea, Galaţi, Romania",8584,0.0,15.0,13.9
 2026-02-19 23:00:00,"Str. Rampei, Tarnaveni, Romania",6867,0.0,27.0,5.2
 2026-02-19 23:00:00,"Str. Domnească, Galaţi, Romania",8583,0.0,15.0,15.9
@@ -1302,7 +1010,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 23:00:00,"Str. Constructorilor, Rovinari, Romania",4176,91.0,35.0,3.5
 2026-02-19 23:00:00,"Zeleno Brdo, Beograd, Serbia",8094,58.0,17.0,3.0
 2026-02-19 23:00:00,"Dębica-Grottgera-WIOS, Poland",13039,94.0,35.0,0.0
-2026-02-19 23:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,15.0,5.9
 2026-02-19 23:00:00,"Kazincbarcika, Kazincbarcika, Hungary",3351,70.0,20.0,11.9
 2026-02-19 23:00:00,"Połaniec, Poland",6551,107.0,40.0,6.1
 2026-02-19 23:00:00,"Comuna Sinandrei, Sinandrei, Romania",4189,0.0,20.0,4.8
@@ -1322,38 +1029,7 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 23:00:00,"Beograd Lazarevac, Serbia",14560,98.0,36.0,2.6
 2026-02-19 23:00:00,"Str. Tudor Vladimirescu, Zlatna, Romania",6831,0.0,31.0,11.4
 2026-02-19 23:00:00,"Hortobágy, Kunmadaras, Hungary",14674,0.0,12.0,0.0
-2026-02-19 23:00:00,"Str Mihai Viteazu, Constanţa, Romania",7648,0.0,23.0,19.0
 2026-02-19 23:00:00,"Str. Lacul Morii, Lacul Morii, Romania",7655,68.0,25.0,23.8
-2026-02-19 23:00:00,"Berezhans'ka Street, 3, Ternopil, Ukraine (Luftdaten #21613)",11660,31.0,17.0,0.0
-2026-02-19 23:00:00,"Mykhaila Hrushevskoho Street, 30, Kyiv, Ukraine (Luftdaten #21428)",11662,5.0,2.0,0.0
-2026-02-19 23:00:00,"Pobeda-6, Geroev Avenue, 40, Dnipro, Ukraine",11431,24.0,11.0,0.0
-2026-02-19 23:00:00,"prospekt Miru, 20, Shepetivka, Ukraine (Luftdaten #25838)",11885,47.0,22.0,0.0
-2026-02-19 23:00:00,"Vulytsya Pavla Nirinberha, 4-6, Dnipro, Ukraine",11623,19.0,10.0,0.0
-2026-02-19 23:00:00,"Hrushevs'koho Street, 8, Ternopil, Ukraine (Luftdaten #12542)",11659,109.0,62.0,0.0
-2026-02-19 23:00:00,"Alma-Atinska vulicya, 1, Chernivci, Ukraine (Luftdaten #26750)",11875,130.0,64.0,0.0
-2026-02-19 23:00:00,"vulicya Sim'yi Kulzhenkiv, 31, Kiyiv, Ukraine",11902,55.0,0.0,0.0
-2026-02-19 23:00:00,"bulvar Perova, 48, Kiyiv, Ukraine",11884,34.0,0.0,0.0
-2026-02-19 23:00:00,"ecorada1, Kryvyi Rih, Ukraine (Чеська)",11689,4.0,2.0,0.0
-2026-02-19 23:00:00,"Urban Space 100, Ivano-Frankivsk, Ukraine (вул.Грушевського)",11680,3.0,2.0,0.0
-2026-02-19 23:00:00,"SteelDrum, Lviv, Ukraine (vul.Kleparivska 18)",11795,10.0,9.0,0.0
-2026-02-19 23:00:00,"Zolota Nyva, Ivano-Frankivsk, Ukraine (вул.Симоненка)",11681,1.0,1.0,0.0
-2026-02-19 23:00:00,"Vokzalna Square, 2, Dnipro, Ukraine",11622,12.0,6.0,0.0
-2026-02-19 23:00:00,"APS 4001, Bahmut, Ukraine",11880,45.0,8.0,0.0
-2026-02-19 23:00:00,"APS 1001, Kramatorsk, Ukraine",11876,86.0,0.0,0.0
-2026-02-19 23:00:00,"APS 2002, Mariupol, Ukraine",11878,3.0,1.0,0.0
-2026-02-19 23:00:00,"Novokrymskaya Street, 1, Dnipro, Ukraine",11453,22.0,11.0,0.0
-2026-02-19 23:00:00,"Hoholya Street, 10, Dnipro, Ukraine",11748,60.0,27.0,0.0
-2026-02-19 23:00:00,"boryspil-67141, boryspil-67141, Ukraine (boryspil-67141)",11872,3.0,2.0,0.0
-2026-02-19 23:00:00,"BeeGreen, Ivano-Frankivsk, Ukraine (вул.Бельведерська 40)",11684,12.0,6.0,0.0
-2026-02-19 23:00:00,"vulicya Generala Zhmachenka, 4, Kiyiv, Ukraine",11873,26.0,11.0,0.0
-2026-02-19 23:00:00,"Yurkivska Street, 28, Kyiv, Ukraine",11668,59.0,51.0,0.0
-2026-02-19 23:00:00,"DataStory_1, Kyiv, Ukraine; DataStory_1, Kyiv, Ukraine (Урлівська)",11687,5.0,6.0,0.0
-2026-02-19 23:00:00,"Reheneratorna Street, 4, Kyiv, Ukraine",11460,54.0,21.0,0.0
-2026-02-19 23:00:00,"Mykhaila Dontsya Street, 2, Kyiv, Ukraine; Mykhaila Dontsya Street, 2, Kyiv, Ukraine (Luftdaten #22535)",11663,77.0,31.0,0.0
-2026-02-19 23:00:00,"Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine; Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine (prospekt. Akademika Hlushkova, 40, korp. 4/1)",11722,3.0,1.0,0.0
-2026-02-19 23:00:00,"Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine; Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine (Luftdaten #18168)",11661,12.0,6.0,0.0
-2026-02-19 23:00:00,"vulicya Vasilya Stusa, 28A, Kiyiv, Ukraine (Luftdaten #25539)",11883,2.0,1.0,0.0
-2026-02-19 23:00:00,"Prime Torque Motors, Odesa, Ukraine (Parkova, 7)",11691,90.0,54.0,0.0
 2026-02-19 23:00:00,"odesa; Odessa Gonzales, Midland, Texas",196,16.0,0.0,0.0
 2026-02-19 23:00:00,"elpueleutodesantamalia; Rio San Pedro, Puerto Real, Spain",8448,21.0,11.0,1.0
 2026-02-19 23:00:00,"rhode-saint-genese; Ukkel, Belgium",2992,23.0,8.0,6.4
@@ -1363,7 +1039,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 23:00:00,"telaviva; The Haganah Train - Gush Dan, Israel (ישראל,רכבת ההגנה, גוש דן)",9989,77.0,0.0,32.2
 2026-02-19 23:00:00,"telaviva; The Peace Train - Gush Dan, Israel (ישראל,רכבת השלום, גוש דן)",9992,74.0,0.0,30.9
 2026-02-19 23:00:00,"telaviva; Or Yehuda - inner plain, Israel (ישראל,אור יהודה, שפלה פנימית)",9987,62.0,0.0,18.0
-2026-02-19 23:00:00,"telaviva; Dan, Japheth Jaffa, Israel (ישראל,יפת יפו, גוש דן)",2987,60.0,29.0,21.7
 2026-02-19 23:00:00,"telaviva; Levinsky, Tel Aviv Metropolitan Area, Israel (ישראל,לוינסקי, גוש דן)",11911,56.0,45.0,30.9
 2026-02-19 23:00:00,"telaviva; Antokolski Gush Dan, Israel (ישראל,אנטוקולסקי, גוש דן)",2962,52.0,0.0,8.8
 2026-02-19 23:00:00,"telaviva; Through the D'', Gush Dan, Israel (ישראל,דרך פ''ת, גוש דן)",2963,46.0,0.0,24.3
@@ -1372,29 +1047,8 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-19 23:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,35.0,29.0,22.6
 2026-02-19 23:00:00,"telaviva; Highway 4, Gush Dan, Israel (ישראל,כביש 4, גוש דן)",2959,33.0,29.0,31.3
 2026-02-19 23:00:00,"telaviva; Mobile stations 4, Israel (ישראל,ניידת4, תחנות ניידות)",8894,33.0,0.0,10.2
-2026-02-19 23:00:00,"telaviva; Dan, White Hand, Israel (ישראל,יד לבנים, גוש דן)",2982,92.0,0.0,0.0
-2026-02-19 23:00:00,"telaviva; Railway mobile station, Israel (ישראל,תחנה ניידת רכבת, תחנות ניידות)",8902,68.0,0.0,16.2
-2026-02-19 23:00:00,"Kosmichna Street, 9, Dnipro, Ukraine",11749,11.0,9.0,0.0
-2026-02-19 23:00:00,"Ulyanova Street, 26, Dnipro, Ukraine",11433,13.0,5.0,0.0
-2026-02-19 23:00:00,"Dmytra Yavornytskoho Avenue, 60, Dnipro, Ukraine",11455,2.0,1.0,0.0
-2026-02-19 23:00:00,"Slavy Boulevard, 11, Dnipro, Ukraine",11625,20.0,8.0,0.0
-2026-02-19 23:00:00,"Kalynova Street, 49, Dnipro, Ukraine",11457,11.0,6.0,0.0
-2026-02-19 23:00:00,"Pershogo Travnya Street, 7, Dnipro, Ukraine",11432,174.0,75.0,0.0
-2026-02-19 23:00:00,"Geroev Avenue, 46, Dnipro, Ukraine",11667,69.0,37.0,0.0
-2026-02-19 23:00:00,"Topolia-2, 23, Dnipro, Ukraine",11728,13.0,4.0,0.0
-2026-02-19 23:00:00,"Liubarskoho Street, 36, Dnipro, Ukraine",11624,37.0,16.0,0.0
-2026-02-19 23:00:00,"Haharina Avenue, 43, Dnipro, Ukraine",11456,11.0,5.0,0.0
-2026-02-19 23:00:00,"Pavla Nirinberha Street, 10, Dnipro, Ukraine",11673,579.0,579.0,0.0
-2026-02-19 23:00:00,"Beregova Street, 29, Dnipro, Ukraine",11771,10.0,8.0,0.0
-2026-02-19 23:00:00,"Pryberezhna Street, Dnipro, Ukraine",11454,8.0,5.0,0.0
-2026-02-19 23:00:00,"Velyka Diivska Street, 4, Dnipro, Ukraine",11770,23.0,14.0,0.0
-2026-02-19 23:00:00,"Dniprovs'ko-Oril's'kyy pryrodnyy zapovidnyk, Obukhivka, Ukraine",11693,21.0,8.0,0.0
-2026-02-19 23:00:00,"zaporizhzhia; Dytyacha likarnya 2, Zaporizhzhya, Ukraine (Patriotychna & Stalevariv)",11769,25.0,9.0,0.0
-2026-02-19 23:00:00,"zaporizhzhia; Pivdennyi, Zaporizhzhya, Ukraine (Avtozavodska)",11797,16.0,6.0,0.0
-2026-02-19 23:00:00,"zaporizhzhia; Zayats, Zaporizhzhya, Ukraine (Charivna)",11743,153.0,87.0,0.0
 2026-02-20 02:00:00,"Calea Macin, Isaccea, Romania",4188,0.0,17.0,7.2
 2026-02-20 02:00:00,"Kraków, os. Wadów, Małopolska, Poland",10041,91.0,34.0,5.0
-2026-02-20 02:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,16.0,5.6
 2026-02-20 02:00:00,"Sos. Sloboziei, Giurgiu, Romania",8585,0.0,18.0,11.7
 2026-02-20 02:00:00,"Kragujevac, Serbia",14789,28.0,9.0,1.5
 2026-02-20 02:00:00,"Beograd Franša Deperea, Serbia",14782,49.0,18.0,8.9
@@ -1403,7 +1057,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 02:00:00,"Starachowice, ul. Złota, Poland",14913,132.0,50.0,0.0
 2026-02-20 02:00:00,"Smederevo Radinac, Serbia",14566,43.0,11.0,1.9
 2026-02-20 02:00:00,"Miskolc Lavotta, Miskolc, Hungary",3353,0.0,5.0,0.0
-2026-02-20 02:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,154.0,55.0,30.1
 2026-02-20 02:00:00,"Sos. 1 Decembrie 1918, Giurgiu, Romania",4177,0.0,26.0,11.9
 2026-02-20 02:00:00,"Str. Victoriei, Piteşti, Romania",7644,77.0,25.0,8.7
 2026-02-20 02:00:00,"Com. Budeasa, Caloteşti, Romania",6833,0.0,14.0,4.2
@@ -1413,7 +1066,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 02:00:00,"Novi Pazar, Serbia",12894,129.0,49.0,10.5
 2026-02-20 02:00:00,"Szeged 2 Rózsa u., Szeged, Hungary",3337,34.0,10.0,5.7
 2026-02-20 02:00:00,"Kazincbarcika, Kazincbarcika, Hungary",3351,57.0,15.0,6.0
-2026-02-20 02:00:00,"Kojsovska Hola, Slovakia",3121,57.0,12.0,1.0
 2026-02-20 02:00:00,"Beograd Obrenovac Ušće, Serbia",14564,13.0,3.0,0.2
 2026-02-20 02:00:00,"Str. Aurel Vlaicu, Cluj-Napoca, Romania",8591,0.0,24.0,10.5
 2026-02-20 02:00:00,"Hernádszurdok, Hernádszurdok, Hungary",3350,59.0,15.0,0.0
@@ -1422,7 +1074,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 02:00:00,"Str. Izvoare, Bacău, Romania",4165,0.0,22.0,15.5
 2026-02-20 02:00:00,"Pančevo Vatrog dom, Serbia",8817,37.0,11.0,11.5
 2026-02-20 02:00:00,"Beograd Lazarevac, Serbia",14560,34.0,10.0,2.6
-2026-02-20 02:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,15.4
 2026-02-20 02:00:00,"Str. Traian, Galaţi, Romania",7650,0.0,15.0,15.2
 2026-02-20 02:00:00,"Eger 2 Malomárok u., Eger, Hungary",3349,0.0,11.0,6.1
 2026-02-20 02:00:00,"G.Oryahovitsa, Bulgaria",10572,0.0,11.0,8.2
@@ -1470,7 +1121,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 02:00:00,"Szolnok, Szolnok, Hungary",3358,0.0,10.0,0.0
 2026-02-20 02:00:00,"Kielce, ul. Targowa 3, Poland",14911,104.0,39.0,15.7
 2026-02-20 02:00:00,"Str. Mihai Viteazu, Slobozia, Romania",4179,0.0,5.0,8.7
-2026-02-20 02:00:00,"Lovech, Bulgaria",10574,0.0,12.0,0.0
 2026-02-20 02:00:00,"Str. 1 Decembrie 1918, Tecuci, Romania",6857,0.0,12.0,7.9
 2026-02-20 02:00:00,"T. G. Masaryka, Trebisov, Slovakia",13830,59.0,16.0,3.7
 2026-02-20 02:00:00,"Zeleznicna, Poprad, Slovakia",13827,127.0,43.0,5.1
@@ -1507,7 +1157,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 02:00:00,"Lublin ul.Obywatelska, Poland",6480,181.0,84.0,25.5
 2026-02-20 02:00:00,"Bdul. Dacia, Oradea, Romania",6837,0.0,41.0,3.8
 2026-02-20 02:00:00,"Brzozowa, Otwock, Mazowieckie, Poland",9037,56.0,15.0,7.2
-2026-02-20 02:00:00,"Str. Meteorologiei, Zalău, Romania",6872,45.0,14.0,6.6
 2026-02-20 02:00:00,"Połaniec, Poland",6551,102.0,32.0,6.0
 2026-02-20 02:00:00,"Dębica-Grottgera-WIOS, Poland",13039,91.0,32.0,0.0
 2026-02-20 02:00:00,"Str. Petru Maior, Reşiţa, Romania",4170,0.0,16.0,3.0
@@ -1521,7 +1170,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 02:00:00,"Str. Ioan Fluieras, Arad, Romania",4164,0.0,13.0,2.8
 2026-02-20 02:00:00,"Letna, Velka Ida, Slovakia",3122,70.0,30.0,0.0
 2026-02-20 02:00:00,"Jesenskeho, Jelsava, Slovakia",3116,61.0,18.0,1.4
-2026-02-20 02:00:00,"Str Mihai Viteazu, Constanţa, Romania",7648,0.0,23.0,13.1
 2026-02-20 02:00:00,"Str. Libertatii, Turnu Magurele, Romania",4161,0.0,8.0,4.3
 2026-02-20 02:00:00,"Str. Soseaua Suruia, Focșani, Romania",4196,0.0,17.0,6.2
 2026-02-20 02:00:00,"Str. Gării, Mediaş, Romania",4187,0.0,22.0,10.0
@@ -1560,36 +1208,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 02:00:00,"Str. Tudor Vladimirescu, Calarasi, Romania",6847,0.0,11.0,8.4
 2026-02-20 02:00:00,"Str. Constructorilor, Rovinari, Romania",4176,93.0,36.0,3.6
 2026-02-20 02:00:00,"Aleea Castanilor, Copşa Mică, Romania",6871,0.0,38.0,6.7
-2026-02-20 02:00:00,"Berezhans'ka Street, 3, Ternopil, Ukraine (Luftdaten #21613)",11660,31.0,17.0,0.0
-2026-02-20 02:00:00,"Mykhaila Hrushevskoho Street, 30, Kyiv, Ukraine (Luftdaten #21428)",11662,5.0,2.0,0.0
-2026-02-20 02:00:00,"Pobeda-6, Geroev Avenue, 40, Dnipro, Ukraine",11431,24.0,11.0,0.0
-2026-02-20 02:00:00,"prospekt Miru, 20, Shepetivka, Ukraine (Luftdaten #25838)",11885,47.0,22.0,0.0
-2026-02-20 02:00:00,"Vulytsya Pavla Nirinberha, 4-6, Dnipro, Ukraine",11623,19.0,10.0,0.0
-2026-02-20 02:00:00,"Hrushevs'koho Street, 8, Ternopil, Ukraine (Luftdaten #12542)",11659,109.0,62.0,0.0
-2026-02-20 02:00:00,"Alma-Atinska vulicya, 1, Chernivci, Ukraine (Luftdaten #26750)",11875,130.0,64.0,0.0
-2026-02-20 02:00:00,"vulicya Sim'yi Kulzhenkiv, 31, Kiyiv, Ukraine",11902,55.0,0.0,0.0
-2026-02-20 02:00:00,"bulvar Perova, 48, Kiyiv, Ukraine",11884,34.0,0.0,0.0
-2026-02-20 02:00:00,"ecorada1, Kryvyi Rih, Ukraine (Чеська)",11689,4.0,2.0,0.0
-2026-02-20 02:00:00,"Urban Space 100, Ivano-Frankivsk, Ukraine (вул.Грушевського)",11680,3.0,2.0,0.0
-2026-02-20 02:00:00,"SteelDrum, Lviv, Ukraine (vul.Kleparivska 18)",11795,10.0,9.0,0.0
-2026-02-20 02:00:00,"Zolota Nyva, Ivano-Frankivsk, Ukraine (вул.Симоненка)",11681,1.0,1.0,0.0
-2026-02-20 02:00:00,"Vokzalna Square, 2, Dnipro, Ukraine",11622,12.0,6.0,0.0
-2026-02-20 02:00:00,"APS 4001, Bahmut, Ukraine",11880,45.0,8.0,0.0
-2026-02-20 02:00:00,"APS 1001, Kramatorsk, Ukraine",11876,86.0,0.0,0.0
-2026-02-20 02:00:00,"APS 2002, Mariupol, Ukraine",11878,3.0,1.0,0.0
-2026-02-20 02:00:00,"Novokrymskaya Street, 1, Dnipro, Ukraine",11453,22.0,11.0,0.0
-2026-02-20 02:00:00,"Hoholya Street, 10, Dnipro, Ukraine",11748,60.0,27.0,0.0
-2026-02-20 02:00:00,"boryspil-67141, boryspil-67141, Ukraine (boryspil-67141)",11872,3.0,2.0,0.0
-2026-02-20 02:00:00,"BeeGreen, Ivano-Frankivsk, Ukraine (вул.Бельведерська 40)",11684,12.0,6.0,0.0
-2026-02-20 02:00:00,"vulicya Generala Zhmachenka, 4, Kiyiv, Ukraine",11873,26.0,11.0,0.0
-2026-02-20 02:00:00,"Yurkivska Street, 28, Kyiv, Ukraine",11668,59.0,51.0,0.0
-2026-02-20 02:00:00,"DataStory_1, Kyiv, Ukraine; DataStory_1, Kyiv, Ukraine (Урлівська)",11687,5.0,6.0,0.0
-2026-02-20 02:00:00,"Reheneratorna Street, 4, Kyiv, Ukraine",11460,54.0,21.0,0.0
-2026-02-20 02:00:00,"Mykhaila Dontsya Street, 2, Kyiv, Ukraine; Mykhaila Dontsya Street, 2, Kyiv, Ukraine (Luftdaten #22535)",11663,77.0,31.0,0.0
-2026-02-20 02:00:00,"Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine; Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine (prospekt. Akademika Hlushkova, 40, korp. 4/1)",11722,3.0,1.0,0.0
-2026-02-20 02:00:00,"Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine; Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine (Luftdaten #18168)",11661,12.0,6.0,0.0
-2026-02-20 02:00:00,"vulicya Vasilya Stusa, 28A, Kiyiv, Ukraine (Luftdaten #25539)",11883,2.0,1.0,0.0
-2026-02-20 02:00:00,"Prime Torque Motors, Odesa, Ukraine (Parkova, 7)",11691,90.0,54.0,0.0
 2026-02-20 02:00:00,"odesa; Odessa Gonzales, Midland, Texas",196,15.0,0.0,0.0
 2026-02-20 02:00:00,"elpueleutodesantamalia; Rio San Pedro, Puerto Real, Spain",8448,21.0,11.0,1.0
 2026-02-20 02:00:00,"rhode-saint-genese; Ukkel, Belgium",2992,32.0,10.0,10.1
@@ -1598,7 +1216,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 02:00:00,"telaviva; The Peace Train - Gush Dan, Israel (ישראל,רכבת השלום, גוש דן)",9992,76.0,0.0,20.1
 2026-02-20 02:00:00,"telaviva; Or Yehuda - inner plain, Israel (ישראל,אור יהודה, שפלה פנימית)",9987,63.0,0.0,11.5
 2026-02-20 02:00:00,"telaviva; Levinsky, Tel Aviv Metropolitan Area, Israel (ישראל,לוינסקי, גוש דן)",11911,59.0,45.0,27.5
-2026-02-20 02:00:00,"telaviva; Dan, Japheth Jaffa, Israel (ישראל,יפת יפו, גוש דן)",2987,58.0,28.0,25.5
 2026-02-20 02:00:00,"telaviva; Antokolski Gush Dan, Israel (ישראל,אנטוקולסקי, גוש דן)",2962,51.0,0.0,7.2
 2026-02-20 02:00:00,"telaviva; Hint, Gush Dan, Israel (ישראל,רמז, גוש דן)",2964,50.0,28.0,12.4
 2026-02-20 02:00:00,"telaviva; Through the D'', Gush Dan, Israel (ישראל,דרך פ''ת, גוש דן)",2963,49.0,0.0,27.2
@@ -1606,25 +1223,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 02:00:00,"telaviva; Highway 4, Gush Dan, Israel (ישראל,כביש 4, גוש דן)",2959,43.0,28.0,22.9
 2026-02-20 02:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,41.0,28.0,15.0
 2026-02-20 02:00:00,"telaviva; Mobile stations 4, Israel (ישראל,ניידת4, תחנות ניידות)",8894,37.0,0.0,6.9
-2026-02-20 02:00:00,"telaviva; Dan, White Hand, Israel (ישראל,יד לבנים, גוש דן)",2982,92.0,0.0,0.0
-2026-02-20 02:00:00,"telaviva; Railway mobile station, Israel (ישראל,תחנה ניידת רכבת, תחנות ניידות)",8902,68.0,0.0,16.2
-2026-02-20 02:00:00,"Kosmichna Street, 9, Dnipro, Ukraine",11749,11.0,9.0,0.0
-2026-02-20 02:00:00,"Ulyanova Street, 26, Dnipro, Ukraine",11433,13.0,5.0,0.0
-2026-02-20 02:00:00,"Dmytra Yavornytskoho Avenue, 60, Dnipro, Ukraine",11455,2.0,1.0,0.0
-2026-02-20 02:00:00,"Slavy Boulevard, 11, Dnipro, Ukraine",11625,20.0,8.0,0.0
-2026-02-20 02:00:00,"Kalynova Street, 49, Dnipro, Ukraine",11457,11.0,6.0,0.0
-2026-02-20 02:00:00,"Pershogo Travnya Street, 7, Dnipro, Ukraine",11432,174.0,75.0,0.0
-2026-02-20 02:00:00,"Geroev Avenue, 46, Dnipro, Ukraine",11667,69.0,37.0,0.0
-2026-02-20 02:00:00,"Topolia-2, 23, Dnipro, Ukraine",11728,13.0,4.0,0.0
-2026-02-20 02:00:00,"Liubarskoho Street, 36, Dnipro, Ukraine",11624,37.0,16.0,0.0
-2026-02-20 02:00:00,"Haharina Avenue, 43, Dnipro, Ukraine",11456,11.0,5.0,0.0
-2026-02-20 02:00:00,"Pavla Nirinberha Street, 10, Dnipro, Ukraine",11673,579.0,579.0,0.0
-2026-02-20 02:00:00,"Beregova Street, 29, Dnipro, Ukraine",11771,10.0,8.0,0.0
-2026-02-20 02:00:00,"Pryberezhna Street, Dnipro, Ukraine",11454,8.0,5.0,0.0
-2026-02-20 02:00:00,"Velyka Diivska Street, 4, Dnipro, Ukraine",11770,23.0,14.0,0.0
-2026-02-20 02:00:00,"zaporizhzhia; Dytyacha likarnya 2, Zaporizhzhya, Ukraine (Patriotychna & Stalevariv)",11769,25.0,9.0,0.0
-2026-02-20 02:00:00,"zaporizhzhia; Pivdennyi, Zaporizhzhya, Ukraine (Avtozavodska)",11797,16.0,6.0,0.0
-2026-02-20 02:00:00,"zaporizhzhia; Zayats, Zaporizhzhya, Ukraine (Charivna)",11743,153.0,87.0,0.0
 2026-02-20 04:00:00,"Şoseaua Constanţei, Mangalia, Romania",4173,0.0,11.0,3.6
 2026-02-20 04:00:00,"Str. Războieni, Bacău, Romania",7645,0.0,48.0,14.3
 2026-02-20 04:00:00,"Str. Tudor Vladimirescu, Zlatna, Romania",6831,0.0,35.0,11.9
@@ -1642,9 +1240,7 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 04:00:00,"Str. P-ţa Independenţei, Brăila, Romania",6841,0.0,20.0,3.5
 2026-02-20 04:00:00,"Str. Brăilei, Galaţi, Romania",8582,0.0,17.0,20.6
 2026-02-20 04:00:00,"Str. Cauciucului, Oneşti, Romania",4166,0.0,41.0,22.5
-2026-02-20 04:00:00,"Kojsovska Hola, Slovakia",3121,57.0,12.0,1.0
 2026-02-20 04:00:00,"Meteo. st, Ganovce, Slovakia",3128,104.0,34.0,2.3
-2026-02-20 04:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,157.0,58.0,26.7
 2026-02-20 04:00:00,"Varna - SOU Angel Kanchev, Bulgaria",10577,22.0,13.0,6.6
 2026-02-20 04:00:00,"Str. Băile Romane, Drobeta Turnu Severin, Romania",6862,0.0,23.0,14.3
 2026-02-20 04:00:00,"IZJZ Niš, Niš, Serbia",8577,43.0,14.0,8.1
@@ -1695,7 +1291,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 04:00:00,"Kielce, ul. Targowa 3, Poland",14911,109.0,45.0,25.9
 2026-02-20 04:00:00,"Starachowice, ul. Złota, Poland",14913,154.0,66.0,0.0
 2026-02-20 04:00:00,"Targówek, Warszawa, Mazowieckie, Poland",3391,87.0,32.0,17.6
-2026-02-20 04:00:00,"Str. Meteorologiei, Zalău, Romania",6872,45.0,14.0,7.0
 2026-02-20 04:00:00,"Borsukowizna-Wiejska, Poland",11817,53.0,12.0,0.4
 2026-02-20 04:00:00,"Čačak, Serbia",14558,25.0,8.0,2.3
 2026-02-20 04:00:00,"Beograd Leštane, Serbia",14783,41.0,12.0,7.3
@@ -1706,7 +1301,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 04:00:00,"Obrenovac Centar, Serbia",9254,24.0,8.0,2.3
 2026-02-20 04:00:00,"Str. Soseaua Suruia, Focșani, Romania",4196,0.0,18.0,14.8
 2026-02-20 04:00:00,"str. Dorobanti, Nadlac, Romania",6836,0.0,10.0,3.6
-2026-02-20 04:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,27.0,5.1
 2026-02-20 04:00:00,"Roosevelta, Żyrardów, Mazowieckie, Poland",3395,135.0,48.0,0.3
 2026-02-20 04:00:00,"Str. Mărăşeşti, Suceava, Romania",4194,105.0,38.0,5.3
 2026-02-20 04:00:00,"Str. M. Kogălniceanu, Sebeş, Romania",6830,0.0,43.0,12.1
@@ -1735,7 +1329,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 04:00:00,"Pančevo Starčevo, Serbia",8762,36.0,11.0,5.3
 2026-02-20 04:00:00,"Str. Carpati, Deva, Romania",7651,0.0,24.0,7.2
 2026-02-20 04:00:00,"Lublin ul.Obywatelska, Poland",6480,168.0,72.0,23.2
-2026-02-20 04:00:00,"Str Mihai Viteazu, Constanţa, Romania",7648,0.0,21.0,9.3
 2026-02-20 04:00:00,"Devnya - Izvorite, Bulgaria",10567,0.0,21.0,9.0
 2026-02-20 04:00:00,"Bdul Bucuresti, Ploieşti, Romania",4186,0.0,36.0,11.0
 2026-02-20 04:00:00,"Str. Libertatii, Turnu Magurele, Romania",4161,0.0,11.0,12.5
@@ -1764,7 +1357,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 04:00:00,"Shumen, Bulgaria",10563,0.0,12.0,6.2
 2026-02-20 04:00:00,"Str. Dunarii, Alexandria, Romania",4160,0.0,11.0,9.9
 2026-02-20 04:00:00,"Str. Industriei, Urziceni, Romania",6860,0.0,17.0,10.5
-2026-02-20 04:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,15.4
 2026-02-20 04:00:00,"Biała Podlaska, Poland",6479,0.0,69.0,11.9
 2026-02-20 04:00:00,"Zamość, Poland",6481,169.0,73.0,14.3
 2026-02-20 04:00:00,"Sajószentpéter, Sajószentpéter, Hungary",3357,70.0,20.0,3.2
@@ -1774,7 +1366,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 04:00:00,"Str. Baile Jigodin, Miercurea Ciuc, Romania",7652,0.0,25.0,10.3
 2026-02-20 04:00:00,"Str. Ostrovei, Râmnicu Vâlcea, Romania",6876,0.0,23.0,6.2
 2026-02-20 04:00:00,"Brzozowa, Otwock, Mazowieckie, Poland",9037,56.0,15.0,7.2
-2026-02-20 04:00:00,"Lovech, Bulgaria",10574,0.0,12.0,0.0
 2026-02-20 04:00:00,"Pirot, Serbia",14562,18.0,5.0,1.2
 2026-02-20 04:00:00,"Str. Lalelelor, Alba Iulia, Romania",4162,0.0,32.0,6.7
 2026-02-20 04:00:00,"Sos. 1 Decembrie 1918, Giurgiu, Romania",4177,0.0,26.0,13.9
@@ -1793,36 +1384,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 04:00:00,"Beograd Obrenovac Ušće, Serbia",14564,7.0,2.0,1.0
 2026-02-20 04:00:00,"Comuna Ungheni, Ungheni, Romania",8587,0.0,36.0,5.4
 2026-02-20 04:00:00,"Krosno-Kletówki-WIOS, Poland",14678,56.0,16.0,0.0
-2026-02-20 04:00:00,"Berezhans'ka Street, 3, Ternopil, Ukraine (Luftdaten #21613)",11660,31.0,17.0,0.0
-2026-02-20 04:00:00,"Mykhaila Hrushevskoho Street, 30, Kyiv, Ukraine (Luftdaten #21428)",11662,5.0,2.0,0.0
-2026-02-20 04:00:00,"Pobeda-6, Geroev Avenue, 40, Dnipro, Ukraine",11431,24.0,11.0,0.0
-2026-02-20 04:00:00,"prospekt Miru, 20, Shepetivka, Ukraine (Luftdaten #25838)",11885,47.0,22.0,0.0
-2026-02-20 04:00:00,"Vulytsya Pavla Nirinberha, 4-6, Dnipro, Ukraine",11623,19.0,10.0,0.0
-2026-02-20 04:00:00,"Hrushevs'koho Street, 8, Ternopil, Ukraine (Luftdaten #12542)",11659,109.0,62.0,0.0
-2026-02-20 04:00:00,"Alma-Atinska vulicya, 1, Chernivci, Ukraine (Luftdaten #26750)",11875,130.0,64.0,0.0
-2026-02-20 04:00:00,"vulicya Sim'yi Kulzhenkiv, 31, Kiyiv, Ukraine",11902,55.0,0.0,0.0
-2026-02-20 04:00:00,"bulvar Perova, 48, Kiyiv, Ukraine",11884,34.0,0.0,0.0
-2026-02-20 04:00:00,"ecorada1, Kryvyi Rih, Ukraine (Чеська)",11689,4.0,2.0,0.0
-2026-02-20 04:00:00,"Urban Space 100, Ivano-Frankivsk, Ukraine (вул.Грушевського)",11680,3.0,2.0,0.0
-2026-02-20 04:00:00,"SteelDrum, Lviv, Ukraine (vul.Kleparivska 18)",11795,10.0,9.0,0.0
-2026-02-20 04:00:00,"Zolota Nyva, Ivano-Frankivsk, Ukraine (вул.Симоненка)",11681,1.0,1.0,0.0
-2026-02-20 04:00:00,"Vokzalna Square, 2, Dnipro, Ukraine",11622,12.0,6.0,0.0
-2026-02-20 04:00:00,"APS 4001, Bahmut, Ukraine",11880,45.0,8.0,0.0
-2026-02-20 04:00:00,"APS 1001, Kramatorsk, Ukraine",11876,86.0,0.0,0.0
-2026-02-20 04:00:00,"APS 2002, Mariupol, Ukraine",11878,3.0,1.0,0.0
-2026-02-20 04:00:00,"Novokrymskaya Street, 1, Dnipro, Ukraine",11453,22.0,11.0,0.0
-2026-02-20 04:00:00,"Hoholya Street, 10, Dnipro, Ukraine",11748,60.0,27.0,0.0
-2026-02-20 04:00:00,"boryspil-67141, boryspil-67141, Ukraine (boryspil-67141)",11872,3.0,2.0,0.0
-2026-02-20 04:00:00,"BeeGreen, Ivano-Frankivsk, Ukraine (вул.Бельведерська 40)",11684,12.0,6.0,0.0
-2026-02-20 04:00:00,"vulicya Generala Zhmachenka, 4, Kiyiv, Ukraine",11873,26.0,11.0,0.0
-2026-02-20 04:00:00,"Yurkivska Street, 28, Kyiv, Ukraine",11668,59.0,51.0,0.0
-2026-02-20 04:00:00,"DataStory_1, Kyiv, Ukraine; DataStory_1, Kyiv, Ukraine (Урлівська)",11687,5.0,6.0,0.0
-2026-02-20 04:00:00,"Reheneratorna Street, 4, Kyiv, Ukraine",11460,54.0,21.0,0.0
-2026-02-20 04:00:00,"Mykhaila Dontsya Street, 2, Kyiv, Ukraine; Mykhaila Dontsya Street, 2, Kyiv, Ukraine (Luftdaten #22535)",11663,77.0,31.0,0.0
-2026-02-20 04:00:00,"Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine; Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine (prospekt. Akademika Hlushkova, 40, korp. 4/1)",11722,3.0,1.0,0.0
-2026-02-20 04:00:00,"Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine; Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine (Luftdaten #18168)",11661,12.0,6.0,0.0
-2026-02-20 04:00:00,"vulicya Vasilya Stusa, 28A, Kiyiv, Ukraine (Luftdaten #25539)",11883,2.0,1.0,0.0
-2026-02-20 04:00:00,"Prime Torque Motors, Odesa, Ukraine (Parkova, 7)",11691,90.0,54.0,0.0
 2026-02-20 04:00:00,"odesa; Odessa Gonzales, Midland, Texas",196,5.0,0.0,0.0
 2026-02-20 04:00:00,"elpueleutodesantamalia; Rio San Pedro, Puerto Real, Spain",8448,21.0,7.0,0.5
 2026-02-20 04:00:00,"rhode-saint-genese; Ukkel, Belgium",2992,59.0,19.0,9.2
@@ -1839,26 +1400,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 04:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,48.0,27.0,11.6
 2026-02-20 04:00:00,"telaviva; Through the D'', Gush Dan, Israel (ישראל,דרך פ''ת, גוש דן)",2963,48.0,0.0,5.0
 2026-02-20 04:00:00,"telaviva; Holon, Gush Dan, Israel (ישראל,חולון, גוש דן)",2958,47.0,27.0,9.5
-2026-02-20 04:00:00,"telaviva; Dan, White Hand, Israel (ישראל,יד לבנים, גוש דן)",2982,92.0,0.0,0.0
-2026-02-20 04:00:00,"telaviva; Railway mobile station, Israel (ישראל,תחנה ניידת רכבת, תחנות ניידות)",8902,68.0,0.0,16.2
-2026-02-20 04:00:00,"Kosmichna Street, 9, Dnipro, Ukraine",11749,11.0,9.0,0.0
-2026-02-20 04:00:00,"Ulyanova Street, 26, Dnipro, Ukraine",11433,13.0,5.0,0.0
-2026-02-20 04:00:00,"Dmytra Yavornytskoho Avenue, 60, Dnipro, Ukraine",11455,2.0,1.0,0.0
-2026-02-20 04:00:00,"Slavy Boulevard, 11, Dnipro, Ukraine",11625,20.0,8.0,0.0
-2026-02-20 04:00:00,"Kalynova Street, 49, Dnipro, Ukraine",11457,11.0,6.0,0.0
-2026-02-20 04:00:00,"Pershogo Travnya Street, 7, Dnipro, Ukraine",11432,174.0,75.0,0.0
-2026-02-20 04:00:00,"Geroev Avenue, 46, Dnipro, Ukraine",11667,69.0,37.0,0.0
-2026-02-20 04:00:00,"Topolia-2, 23, Dnipro, Ukraine",11728,13.0,4.0,0.0
-2026-02-20 04:00:00,"Liubarskoho Street, 36, Dnipro, Ukraine",11624,37.0,16.0,0.0
-2026-02-20 04:00:00,"Haharina Avenue, 43, Dnipro, Ukraine",11456,11.0,5.0,0.0
-2026-02-20 04:00:00,"Pavla Nirinberha Street, 10, Dnipro, Ukraine",11673,579.0,579.0,0.0
-2026-02-20 04:00:00,"Beregova Street, 29, Dnipro, Ukraine",11771,10.0,8.0,0.0
-2026-02-20 04:00:00,"Pryberezhna Street, Dnipro, Ukraine",11454,8.0,5.0,0.0
-2026-02-20 04:00:00,"Velyka Diivska Street, 4, Dnipro, Ukraine",11770,23.0,14.0,0.0
-2026-02-20 04:00:00,"Dniprovs'ko-Oril's'kyy pryrodnyy zapovidnyk, Obukhivka, Ukraine",11693,21.0,8.0,0.0
-2026-02-20 04:00:00,"zaporizhzhia; Dytyacha likarnya 2, Zaporizhzhya, Ukraine (Patriotychna & Stalevariv)",11769,25.0,9.0,0.0
-2026-02-20 04:00:00,"zaporizhzhia; Pivdennyi, Zaporizhzhya, Ukraine (Avtozavodska)",11797,16.0,6.0,0.0
-2026-02-20 04:00:00,"zaporizhzhia; Zayats, Zaporizhzhya, Ukraine (Charivna)",11743,153.0,87.0,0.0
 2026-02-20 05:00:00,"Comuna Baloteşti, Baloteşti, Romania",7658,88.0,31.0,9.1
 2026-02-20 05:00:00,"Str. Industriei, Urziceni, Romania",6860,0.0,17.0,10.4
 2026-02-20 05:00:00,"Str. Baile Jigodin, Miercurea Ciuc, Romania",7652,0.0,27.0,10.3
@@ -1887,7 +1428,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 05:00:00,"Smederevo Radinac, Serbia",14566,45.0,12.0,1.7
 2026-02-20 05:00:00,"Debrecen Kalotaszeg tér, Debrecen, Hungary",3378,53.0,17.0,8.0
 2026-02-20 05:00:00,"Str. Decebal, Medgidia, Romania",4175,0.0,5.0,12.7
-2026-02-20 05:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,15.4
 2026-02-20 05:00:00,"Str.Alexandru cel Bun, Siret, Romania",6875,0.0,23.0,8.2
 2026-02-20 05:00:00,"Miskolc Lavotta, Miskolc, Hungary",3353,0.0,34.0,0.0
 2026-02-20 05:00:00,"Krosno-Kletówki-WIOS, Poland",14678,71.0,26.0,0.0
@@ -1908,7 +1448,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 05:00:00,"Str. Parcului, Bistriţa, Romania",8578,0.0,18.0,3.7
 2026-02-20 05:00:00,"Dumbierska, Kosice, Slovakia",3112,99.0,34.0,0.0
 2026-02-20 05:00:00,"Tochtermana, Radom, Mazowieckie, Poland",3393,154.0,60.0,20.8
-2026-02-20 05:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,28.0,5.6
 2026-02-20 05:00:00,"Starachowice, ul. Złota, Poland",14913,151.0,70.0,0.0
 2026-02-20 05:00:00,"DC-86, Năvodari, Romania",4172,0.0,13.0,7.9
 2026-02-20 05:00:00,"Čačak, Serbia",14558,30.0,11.0,6.4
@@ -1938,7 +1477,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 05:00:00,"Str. Piata Victoriei, Ploieşti, Romania",6868,0.0,27.0,14.6
 2026-02-20 05:00:00,"Com. Oarja, Oarja, Romania",6834,0.0,12.0,13.7
 2026-02-20 05:00:00,"Bdul. Dacia, Oradea, Romania",6837,0.0,41.0,3.5
-2026-02-20 05:00:00,"Lovech, Bulgaria",10574,0.0,12.0,0.0
 2026-02-20 05:00:00,"Nam. slobody, Humenne, Slovakia",3126,93.0,25.0,4.6
 2026-02-20 05:00:00,"EMEP, AU SAV, Stara Lesna, Slovakia",3127,78.0,24.0,2.8
 2026-02-20 05:00:00,"Novi Pazar, Serbia",12894,102.0,36.0,9.8
@@ -1983,7 +1521,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 05:00:00,"Obrenovac Centar, Serbia",9254,26.0,9.0,4.9
 2026-02-20 05:00:00,"Borsukowizna-Wiejska, Poland",11817,52.0,12.0,0.2
 2026-02-20 05:00:00,"Szolnok, Szolnok, Hungary",3358,0.0,7.0,0.0
-2026-02-20 05:00:00,"Kojsovska Hola, Slovakia",3121,57.0,12.0,1.0
 2026-02-20 05:00:00,"Str. Lacul Morii, Lacul Morii, Romania",7655,81.0,31.0,36.5
 2026-02-20 05:00:00,"Com. Budeasa, Caloteşti, Romania",6833,0.0,14.0,3.0
 2026-02-20 05:00:00,"Str. Unirii, Moldova Noua, Romania",4192,0.0,14.0,0.0
@@ -1999,18 +1536,15 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 05:00:00,"Bdul. N. Iorga, Iasi, Romania",6861,0.0,42.0,29.7
 2026-02-20 05:00:00,"Dębica-Grottgera-WIOS, Poland",13039,105.0,42.0,0.0
 2026-02-20 05:00:00,"Ursynów, Warszawa, Mazowieckie, Poland",3392,123.0,43.0,29.4
-2026-02-20 05:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,145.0,51.0,31.1
 2026-02-20 05:00:00,"Comuna Sinandrei, Sinandrei, Romania",4189,0.0,18.0,6.8
 2026-02-20 05:00:00,"G.Oryahovitsa, Bulgaria",10572,0.0,11.0,8.2
 2026-02-20 05:00:00,"Bor Gradski park, Serbia",12643,57.0,16.0,0.0
 2026-02-20 05:00:00,"Str. P-ţa Independenţei, Brăila, Romania",6841,0.0,19.0,5.5
 2026-02-20 05:00:00,"Str. 1 Decembrie 1918, Tecuci, Romania",6857,0.0,13.0,19.1
 2026-02-20 05:00:00,"Str. Stefan Cel Mare, Vaslui, Romania",6877,0.0,31.0,13.3
-2026-02-20 05:00:00,"Str. Meteorologiei, Zalău, Romania",6872,44.0,14.0,9.7
 2026-02-20 05:00:00,"Piata Unirii, Timişoara, Romania",7660,0.0,25.0,8.1
 2026-02-20 05:00:00,"SNP, Krompachy, Slovakia",3144,91.0,31.0,12.4
 2026-02-20 05:00:00,"Roosevelta, Żyrardów, Mazowieckie, Poland",3395,140.0,50.0,0.3
-2026-02-20 05:00:00,"Str Mihai Viteazu, Constanţa, Romania",7648,0.0,21.0,9.5
 2026-02-20 05:00:00,"Aleea Grădiste, Slatina, Romania",8588,0.0,10.0,7.4
 2026-02-20 05:00:00,"Veliki Crljeni, Serbia",14563,25.0,7.0,12.3
 2026-02-20 05:00:00,"Str. Cauciucului, Oneşti, Romania",4166,0.0,42.0,30.3
@@ -2026,36 +1560,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 05:00:00,"IZJZ Niš, Niš, Serbia",8577,29.0,10.0,6.5
 2026-02-20 05:00:00,"Str. Domnească, Galaţi, Romania",8583,0.0,14.0,33.2
 2026-02-20 05:00:00,"Gołuchów, Ujęcie Wody, Poland",14910,0.0,41.0,5.8
-2026-02-20 05:00:00,"Berezhans'ka Street, 3, Ternopil, Ukraine (Luftdaten #21613)",11660,31.0,17.0,0.0
-2026-02-20 05:00:00,"Mykhaila Hrushevskoho Street, 30, Kyiv, Ukraine (Luftdaten #21428)",11662,5.0,2.0,0.0
-2026-02-20 05:00:00,"Pobeda-6, Geroev Avenue, 40, Dnipro, Ukraine",11431,24.0,11.0,0.0
-2026-02-20 05:00:00,"prospekt Miru, 20, Shepetivka, Ukraine (Luftdaten #25838)",11885,47.0,22.0,0.0
-2026-02-20 05:00:00,"Vulytsya Pavla Nirinberha, 4-6, Dnipro, Ukraine",11623,19.0,10.0,0.0
-2026-02-20 05:00:00,"Hrushevs'koho Street, 8, Ternopil, Ukraine (Luftdaten #12542)",11659,109.0,62.0,0.0
-2026-02-20 05:00:00,"Alma-Atinska vulicya, 1, Chernivci, Ukraine (Luftdaten #26750)",11875,130.0,64.0,0.0
-2026-02-20 05:00:00,"vulicya Sim'yi Kulzhenkiv, 31, Kiyiv, Ukraine",11902,55.0,0.0,0.0
-2026-02-20 05:00:00,"bulvar Perova, 48, Kiyiv, Ukraine",11884,34.0,0.0,0.0
-2026-02-20 05:00:00,"ecorada1, Kryvyi Rih, Ukraine (Чеська)",11689,4.0,2.0,0.0
-2026-02-20 05:00:00,"Urban Space 100, Ivano-Frankivsk, Ukraine (вул.Грушевського)",11680,3.0,2.0,0.0
-2026-02-20 05:00:00,"SteelDrum, Lviv, Ukraine (vul.Kleparivska 18)",11795,10.0,9.0,0.0
-2026-02-20 05:00:00,"Zolota Nyva, Ivano-Frankivsk, Ukraine (вул.Симоненка)",11681,1.0,1.0,0.0
-2026-02-20 05:00:00,"Vokzalna Square, 2, Dnipro, Ukraine",11622,12.0,6.0,0.0
-2026-02-20 05:00:00,"APS 4001, Bahmut, Ukraine",11880,45.0,8.0,0.0
-2026-02-20 05:00:00,"APS 1001, Kramatorsk, Ukraine",11876,86.0,0.0,0.0
-2026-02-20 05:00:00,"APS 2002, Mariupol, Ukraine",11878,3.0,1.0,0.0
-2026-02-20 05:00:00,"Novokrymskaya Street, 1, Dnipro, Ukraine",11453,22.0,11.0,0.0
-2026-02-20 05:00:00,"Hoholya Street, 10, Dnipro, Ukraine",11748,60.0,27.0,0.0
-2026-02-20 05:00:00,"boryspil-67141, boryspil-67141, Ukraine (boryspil-67141)",11872,3.0,2.0,0.0
-2026-02-20 05:00:00,"BeeGreen, Ivano-Frankivsk, Ukraine (вул.Бельведерська 40)",11684,12.0,6.0,0.0
-2026-02-20 05:00:00,"vulicya Generala Zhmachenka, 4, Kiyiv, Ukraine",11873,26.0,11.0,0.0
-2026-02-20 05:00:00,"Yurkivska Street, 28, Kyiv, Ukraine",11668,59.0,51.0,0.0
-2026-02-20 05:00:00,"DataStory_1, Kyiv, Ukraine; DataStory_1, Kyiv, Ukraine (Урлівська)",11687,5.0,6.0,0.0
-2026-02-20 05:00:00,"Reheneratorna Street, 4, Kyiv, Ukraine",11460,54.0,21.0,0.0
-2026-02-20 05:00:00,"Mykhaila Dontsya Street, 2, Kyiv, Ukraine; Mykhaila Dontsya Street, 2, Kyiv, Ukraine (Luftdaten #22535)",11663,77.0,31.0,0.0
-2026-02-20 05:00:00,"Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine; Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine (prospekt. Akademika Hlushkova, 40, korp. 4/1)",11722,3.0,1.0,0.0
-2026-02-20 05:00:00,"Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine; Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine (Luftdaten #18168)",11661,12.0,6.0,0.0
-2026-02-20 05:00:00,"vulicya Vasilya Stusa, 28A, Kiyiv, Ukraine (Luftdaten #25539)",11883,2.0,1.0,0.0
-2026-02-20 05:00:00,"Prime Torque Motors, Odesa, Ukraine (Parkova, 7)",11691,90.0,54.0,0.0
 2026-02-20 05:00:00,"odesa; Odessa Gonzales, Midland, Texas",196,15.0,0.0,0.0
 2026-02-20 05:00:00,"elpueleutodesantamalia; Rio San Pedro, Puerto Real, Spain",8448,21.0,7.0,0.5
 2026-02-20 05:00:00,"rhode-saint-genese; Ukkel, Belgium",2992,63.0,20.0,6.4
@@ -2066,7 +1570,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 05:00:00,"telaviva; The Peace Train - Gush Dan, Israel (ישראל,רכבת השלום, גוש דן)",9992,77.0,0.0,24.3
 2026-02-20 05:00:00,"telaviva; Or Yehuda - inner plain, Israel (ישראל,אור יהודה, שפלה פנימית)",9987,63.0,0.0,11.4
 2026-02-20 05:00:00,"telaviva; Levinsky, Tel Aviv Metropolitan Area, Israel (ישראל,לוינסקי, גוש דן)",11911,59.0,43.0,17.5
-2026-02-20 05:00:00,"telaviva; Dan, Japheth Jaffa, Israel (ישראל,יפת יפו, גוש דן)",2987,55.0,26.0,13.2
 2026-02-20 05:00:00,"telaviva; Hint, Gush Dan, Israel (ישראל,רמז, גוש דן)",2964,54.0,26.0,9.8
 2026-02-20 05:00:00,"telaviva; Highway 4, Gush Dan, Israel (ישראל,כביש 4, גוש דן)",2959,51.0,26.0,26.7
 2026-02-20 05:00:00,"telaviva; Antokolski Gush Dan, Israel (ישראל,אנטוקולסקי, גוש דן)",2962,50.0,0.0,4.9
@@ -2074,26 +1577,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 05:00:00,"telaviva; Through the D'', Gush Dan, Israel (ישראל,דרך פ''ת, גוש דן)",2963,47.0,0.0,7.8
 2026-02-20 05:00:00,"telaviva; Holon, Gush Dan, Israel (ישראל,חולון, גוש דן)",2958,47.0,26.0,8.9
 2026-02-20 05:00:00,"telaviva; Mobile stations 4, Israel (ישראל,ניידת4, תחנות ניידות)",8894,38.0,0.0,11.7
-2026-02-20 05:00:00,"telaviva; Dan, White Hand, Israel (ישראל,יד לבנים, גוש דן)",2982,92.0,0.0,0.0
-2026-02-20 05:00:00,"telaviva; Railway mobile station, Israel (ישראל,תחנה ניידת רכבת, תחנות ניידות)",8902,68.0,0.0,16.2
-2026-02-20 05:00:00,"Kosmichna Street, 9, Dnipro, Ukraine",11749,11.0,9.0,0.0
-2026-02-20 05:00:00,"Ulyanova Street, 26, Dnipro, Ukraine",11433,13.0,5.0,0.0
-2026-02-20 05:00:00,"Dmytra Yavornytskoho Avenue, 60, Dnipro, Ukraine",11455,2.0,1.0,0.0
-2026-02-20 05:00:00,"Slavy Boulevard, 11, Dnipro, Ukraine",11625,20.0,8.0,0.0
-2026-02-20 05:00:00,"Kalynova Street, 49, Dnipro, Ukraine",11457,11.0,6.0,0.0
-2026-02-20 05:00:00,"Pershogo Travnya Street, 7, Dnipro, Ukraine",11432,174.0,75.0,0.0
-2026-02-20 05:00:00,"Geroev Avenue, 46, Dnipro, Ukraine",11667,69.0,37.0,0.0
-2026-02-20 05:00:00,"Topolia-2, 23, Dnipro, Ukraine",11728,13.0,4.0,0.0
-2026-02-20 05:00:00,"Liubarskoho Street, 36, Dnipro, Ukraine",11624,37.0,16.0,0.0
-2026-02-20 05:00:00,"Haharina Avenue, 43, Dnipro, Ukraine",11456,11.0,5.0,0.0
-2026-02-20 05:00:00,"Pavla Nirinberha Street, 10, Dnipro, Ukraine",11673,579.0,579.0,0.0
-2026-02-20 05:00:00,"Beregova Street, 29, Dnipro, Ukraine",11771,10.0,8.0,0.0
-2026-02-20 05:00:00,"Pryberezhna Street, Dnipro, Ukraine",11454,8.0,5.0,0.0
-2026-02-20 05:00:00,"Velyka Diivska Street, 4, Dnipro, Ukraine",11770,23.0,14.0,0.0
-2026-02-20 05:00:00,"Dniprovs'ko-Oril's'kyy pryrodnyy zapovidnyk, Obukhivka, Ukraine",11693,21.0,8.0,0.0
-2026-02-20 05:00:00,"zaporizhzhia; Dytyacha likarnya 2, Zaporizhzhya, Ukraine (Patriotychna & Stalevariv)",11769,25.0,9.0,0.0
-2026-02-20 05:00:00,"zaporizhzhia; Pivdennyi, Zaporizhzhya, Ukraine (Avtozavodska)",11797,16.0,6.0,0.0
-2026-02-20 05:00:00,"zaporizhzhia; Zayats, Zaporizhzhya, Ukraine (Charivna)",11743,153.0,87.0,0.0
 2026-02-20 07:00:00,"T. G. Masaryka, Trebisov, Slovakia",13830,91.0,32.0,3.2
 2026-02-20 07:00:00,"Miskolc Lavotta, Miskolc, Hungary",3353,0.0,27.0,0.0
 2026-02-20 07:00:00,"Aleea Grădiste, Slatina, Romania",8588,0.0,10.0,10.9
@@ -2124,7 +1607,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 07:00:00,"Ursynów, Warszawa, Mazowieckie, Poland",3392,113.0,38.0,30.1
 2026-02-20 07:00:00,"Str. Petru Maior, Reşiţa, Romania",4170,0.0,16.0,5.4
 2026-02-20 07:00:00,"Nowa Huta, Kraków, Małopolska, Poland",3403,109.0,47.0,14.4
-2026-02-20 07:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,117.0,40.0,30.9
 2026-02-20 07:00:00,"Str. Băile Romane, Drobeta Turnu Severin, Romania",6862,0.0,20.0,21.0
 2026-02-20 07:00:00,"Str. Soseaua Suruia, Focșani, Romania",4196,0.0,19.0,11.7
 2026-02-20 07:00:00,"Str. Ostrovei, Râmnicu Vâlcea, Romania",6876,0.0,23.0,6.1
@@ -2171,9 +1653,7 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 07:00:00,"Obrenovac Centar, Serbia",9254,28.0,8.0,5.3
 2026-02-20 07:00:00,"Str. Libertăţii, Târgu Mureş, Romania",6865,0.0,30.0,26.0
 2026-02-20 07:00:00,"Jarosław-PWSTE-WIOS, Poland",13040,139.0,53.0,0.0
-2026-02-20 07:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,31.0,6.3
 2026-02-20 07:00:00,"Nowy Sącz, Małopolska, Poland",3404,63.0,24.0,8.9
-2026-02-20 07:00:00,"Lovech, Bulgaria",10574,0.0,12.0,0.0
 2026-02-20 07:00:00,"Vratsa - ZHP Gara, Bulgaria",10561,0.0,8.0,2.9
 2026-02-20 07:00:00,"Veliki Crljeni, Serbia",14563,38.0,10.0,12.0
 2026-02-20 07:00:00,"Str. Hipodromului, Sibiu, Romania",6870,0.0,14.0,14.4
@@ -2184,7 +1664,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 07:00:00,"Sajószentpéter, Sajószentpéter, Hungary",3357,61.0,17.0,4.0
 2026-02-20 07:00:00,"EMEP, AU SAV, Stara Lesna, Slovakia",3127,82.0,20.0,1.9
 2026-02-20 07:00:00,"Beograd Franša Deperea, Serbia",14782,60.0,22.0,26.7
-2026-02-20 07:00:00,"Kojsovska Hola, Slovakia",3121,57.0,12.0,1.0
 2026-02-20 07:00:00,"Beograd Sopot, Serbia",14785,29.0,7.0,0.1
 2026-02-20 07:00:00,"Calea Pietroasa, Campulung, Romania",4163,0.0,48.0,9.1
 2026-02-20 07:00:00,"Str. Ioan Slavici, Satu Mare, Romania",6873,0.0,12.0,13.2
@@ -2196,7 +1675,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 07:00:00,"Zona Pasaj Micalaca, Arad, Romania",6835,0.0,10.0,8.9
 2026-02-20 07:00:00,"Str. Uzinei, Râmnicu Vâlcea, Romania",7642,0.0,19.0,17.9
 2026-02-20 07:00:00,"Rymanów-Zdrój, Poland",9577,52.0,14.0,0.0
-2026-02-20 07:00:00,"Str Mihai Viteazu, Constanţa, Romania",7648,0.0,20.0,14.9
 2026-02-20 07:00:00,"IZJZ Niš, Niš, Serbia",8577,30.0,13.0,6.6
 2026-02-20 07:00:00,"Novi Pazar, Serbia",12894,126.0,49.0,13.5
 2026-02-20 07:00:00,"Pančevo Starčevo, Serbia",8762,44.0,12.0,7.0
@@ -2214,14 +1692,12 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 07:00:00,"Str. Domnească, Galaţi, Romania",8583,0.0,15.0,40.5
 2026-02-20 07:00:00,"Zamość, Poland",6481,179.0,84.0,27.2
 2026-02-20 07:00:00,"Pančevo Vatrog dom, Serbia",8817,41.0,10.0,13.2
-2026-02-20 07:00:00,"Str. Meteorologiei, Zalău, Romania",6872,40.0,13.0,8.0
 2026-02-20 07:00:00,"Szolnok, Szolnok, Hungary",3358,0.0,10.0,0.0
 2026-02-20 07:00:00,"Letna, Velka Ida, Slovakia",3122,93.0,36.0,0.0
 2026-02-20 07:00:00,"Tochtermana, Radom, Mazowieckie, Poland",3393,154.0,61.0,26.4
 2026-02-20 07:00:00,"Str. Mărăşeşti, Suceava, Romania",4194,110.0,41.0,8.5
 2026-02-20 07:00:00,"Str. Gării, Mediaş, Romania",4187,0.0,22.0,22.5
 2026-02-20 07:00:00,"Şoseaua Constanţei, Mangalia, Romania",4173,0.0,10.0,8.1
-2026-02-20 07:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,15.4
 2026-02-20 07:00:00,"Bdul. Gării, Braşov, Romania",7647,0.0,32.0,22.3
 2026-02-20 07:00:00,"Str. Teilor, Fieni, Romania",6852,0.0,16.0,8.0
 2026-02-20 07:00:00,"Str. Izvoare, Bacău, Romania",4165,0.0,21.0,15.7
@@ -2258,35 +1734,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 07:00:00,"Calea Macin, Isaccea, Romania",4188,0.0,16.0,25.1
 2026-02-20 07:00:00,"str. Mihai Viteazu, Vulcan, Romania",4193,0.0,23.0,16.1
 2026-02-20 07:00:00,"Str. Tudor Vladimirescu, Zlatna, Romania",6831,0.0,35.0,15.9
-2026-02-20 07:00:00,"Berezhans'ka Street, 3, Ternopil, Ukraine (Luftdaten #21613)",11660,31.0,17.0,0.0
-2026-02-20 07:00:00,"Mykhaila Hrushevskoho Street, 30, Kyiv, Ukraine (Luftdaten #21428)",11662,5.0,2.0,0.0
-2026-02-20 07:00:00,"Pobeda-6, Geroev Avenue, 40, Dnipro, Ukraine",11431,24.0,11.0,0.0
-2026-02-20 07:00:00,"prospekt Miru, 20, Shepetivka, Ukraine (Luftdaten #25838)",11885,47.0,22.0,0.0
-2026-02-20 07:00:00,"Vulytsya Pavla Nirinberha, 4-6, Dnipro, Ukraine",11623,19.0,10.0,0.0
-2026-02-20 07:00:00,"Hrushevs'koho Street, 8, Ternopil, Ukraine (Luftdaten #12542)",11659,109.0,62.0,0.0
-2026-02-20 07:00:00,"Alma-Atinska vulicya, 1, Chernivci, Ukraine (Luftdaten #26750)",11875,130.0,64.0,0.0
-2026-02-20 07:00:00,"vulicya Sim'yi Kulzhenkiv, 31, Kiyiv, Ukraine",11902,55.0,0.0,0.0
-2026-02-20 07:00:00,"bulvar Perova, 48, Kiyiv, Ukraine",11884,34.0,0.0,0.0
-2026-02-20 07:00:00,"ecorada1, Kryvyi Rih, Ukraine (Чеська)",11689,4.0,2.0,0.0
-2026-02-20 07:00:00,"Urban Space 100, Ivano-Frankivsk, Ukraine (вул.Грушевського)",11680,3.0,2.0,0.0
-2026-02-20 07:00:00,"SteelDrum, Lviv, Ukraine (vul.Kleparivska 18)",11795,10.0,9.0,0.0
-2026-02-20 07:00:00,"Zolota Nyva, Ivano-Frankivsk, Ukraine (вул.Симоненка)",11681,1.0,1.0,0.0
-2026-02-20 07:00:00,"Vokzalna Square, 2, Dnipro, Ukraine",11622,12.0,6.0,0.0
-2026-02-20 07:00:00,"APS 4001, Bahmut, Ukraine",11880,45.0,8.0,0.0
-2026-02-20 07:00:00,"APS 1001, Kramatorsk, Ukraine",11876,86.0,0.0,0.0
-2026-02-20 07:00:00,"Novokrymskaya Street, 1, Dnipro, Ukraine",11453,22.0,11.0,0.0
-2026-02-20 07:00:00,"Hoholya Street, 10, Dnipro, Ukraine",11748,60.0,27.0,0.0
-2026-02-20 07:00:00,"boryspil-67141, boryspil-67141, Ukraine (boryspil-67141)",11872,3.0,2.0,0.0
-2026-02-20 07:00:00,"BeeGreen, Ivano-Frankivsk, Ukraine (вул.Бельведерська 40)",11684,12.0,6.0,0.0
-2026-02-20 07:00:00,"vulicya Generala Zhmachenka, 4, Kiyiv, Ukraine",11873,26.0,11.0,0.0
-2026-02-20 07:00:00,"Yurkivska Street, 28, Kyiv, Ukraine",11668,59.0,51.0,0.0
-2026-02-20 07:00:00,"DataStory_1, Kyiv, Ukraine; DataStory_1, Kyiv, Ukraine (Урлівська)",11687,5.0,6.0,0.0
-2026-02-20 07:00:00,"Reheneratorna Street, 4, Kyiv, Ukraine",11460,54.0,21.0,0.0
-2026-02-20 07:00:00,"Mykhaila Dontsya Street, 2, Kyiv, Ukraine; Mykhaila Dontsya Street, 2, Kyiv, Ukraine (Luftdaten #22535)",11663,77.0,31.0,0.0
-2026-02-20 07:00:00,"Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine; Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine (prospekt. Akademika Hlushkova, 40, korp. 4/1)",11722,3.0,1.0,0.0
-2026-02-20 07:00:00,"Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine; Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine (Luftdaten #18168)",11661,12.0,6.0,0.0
-2026-02-20 07:00:00,"vulicya Vasilya Stusa, 28A, Kiyiv, Ukraine (Luftdaten #25539)",11883,2.0,1.0,0.0
-2026-02-20 07:00:00,"Prime Torque Motors, Odesa, Ukraine (Parkova, 7)",11691,90.0,54.0,0.0
 2026-02-20 07:00:00,"odesa; Odessa Gonzales, Midland, Texas",196,3.0,0.0,0.0
 2026-02-20 07:00:00,"elpueleutodesantamalia; Rio San Pedro, Puerto Real, Spain",8448,21.0,6.0,1.4
 2026-02-20 07:00:00,"rhode-saint-genese; Ukkel, Belgium",2992,49.0,13.0,5.1
@@ -2297,7 +1744,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 07:00:00,"telaviva; The Peace Train - Gush Dan, Israel (ישראל,רכבת השלום, גוש דן)",9992,76.0,0.0,59.7
 2026-02-20 07:00:00,"telaviva; Or Yehuda - inner plain, Israel (ישראל,אור יהודה, שפלה פנימית)",9987,63.0,0.0,15.4
 2026-02-20 07:00:00,"telaviva; Levinsky, Tel Aviv Metropolitan Area, Israel (ישראל,לוינסקי, גוש דן)",11911,58.0,42.0,23.9
-2026-02-20 07:00:00,"telaviva; Dan, Japheth Jaffa, Israel (ישראל,יפת יפו, גוש דן)",2987,54.0,26.0,17.3
 2026-02-20 07:00:00,"telaviva; Hint, Gush Dan, Israel (ישראל,רמז, גוש דן)",2964,53.0,26.0,15.4
 2026-02-20 07:00:00,"telaviva; Antokolski Gush Dan, Israel (ישראל,אנטוקולסקי, גוש דן)",2962,50.0,0.0,7.5
 2026-02-20 07:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,50.0,26.0,18.2
@@ -2305,29 +1751,9 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 07:00:00,"telaviva; Holon, Gush Dan, Israel (ישראל,חולון, גוש דן)",2958,47.0,26.0,16.1
 2026-02-20 07:00:00,"telaviva; Through the D'', Gush Dan, Israel (ישראל,דרך פ''ת, גוש דן)",2963,46.0,0.0,25.4
 2026-02-20 07:00:00,"telaviva; Mobile stations 4, Israel (ישראל,ניידת4, תחנות ניידות)",8894,37.0,0.0,11.7
-2026-02-20 07:00:00,"telaviva; Dan, White Hand, Israel (ישראל,יד לבנים, גוש דן)",2982,92.0,0.0,0.0
-2026-02-20 07:00:00,"telaviva; Railway mobile station, Israel (ישראל,תחנה ניידת רכבת, תחנות ניידות)",8902,68.0,0.0,16.2
-2026-02-20 07:00:00,"Kosmichna Street, 9, Dnipro, Ukraine",11749,11.0,9.0,0.0
-2026-02-20 07:00:00,"Ulyanova Street, 26, Dnipro, Ukraine",11433,13.0,5.0,0.0
-2026-02-20 07:00:00,"Dmytra Yavornytskoho Avenue, 60, Dnipro, Ukraine",11455,2.0,1.0,0.0
-2026-02-20 07:00:00,"Slavy Boulevard, 11, Dnipro, Ukraine",11625,20.0,8.0,0.0
-2026-02-20 07:00:00,"Pershogo Travnya Street, 7, Dnipro, Ukraine",11432,174.0,75.0,0.0
-2026-02-20 07:00:00,"Geroev Avenue, 46, Dnipro, Ukraine",11667,69.0,37.0,0.0
-2026-02-20 07:00:00,"Topolia-2, 23, Dnipro, Ukraine",11728,13.0,4.0,0.0
-2026-02-20 07:00:00,"Liubarskoho Street, 36, Dnipro, Ukraine",11624,37.0,16.0,0.0
-2026-02-20 07:00:00,"Haharina Avenue, 43, Dnipro, Ukraine",11456,11.0,5.0,0.0
-2026-02-20 07:00:00,"Pavla Nirinberha Street, 10, Dnipro, Ukraine",11673,579.0,579.0,0.0
-2026-02-20 07:00:00,"Beregova Street, 29, Dnipro, Ukraine",11771,10.0,8.0,0.0
-2026-02-20 07:00:00,"Pryberezhna Street, Dnipro, Ukraine",11454,8.0,5.0,0.0
-2026-02-20 07:00:00,"Velyka Diivska Street, 4, Dnipro, Ukraine",11770,23.0,14.0,0.0
-2026-02-20 07:00:00,"Dniprovs'ko-Oril's'kyy pryrodnyy zapovidnyk, Obukhivka, Ukraine",11693,21.0,8.0,0.0
-2026-02-20 07:00:00,"zaporizhzhia; Dytyacha likarnya 2, Zaporizhzhya, Ukraine (Patriotychna & Stalevariv)",11769,25.0,9.0,0.0
-2026-02-20 07:00:00,"zaporizhzhia; Pivdennyi, Zaporizhzhya, Ukraine (Avtozavodska)",11797,16.0,6.0,0.0
-2026-02-20 07:00:00,"zaporizhzhia; Zayats, Zaporizhzhya, Ukraine (Charivna)",11743,153.0,87.0,0.0
 2026-02-20 08:00:00,"Str. Stefan Cel Mare, Vaslui, Romania",6877,0.0,29.0,17.7
 2026-02-20 08:00:00,"Str. Vasile Alecsandri, Târgu Jiu, Romania",8581,71.0,26.0,22.7
 2026-02-20 08:00:00,"Str. Carpati, Deva, Romania",7651,0.0,23.0,7.2
-2026-02-20 08:00:00,"Str. Meteorologiei, Zalău, Romania",6872,38.0,12.0,8.0
 2026-02-20 08:00:00,"Nyíregyháza, Nyíregyháza, Hungary",3380,78.0,35.0,6.8
 2026-02-20 08:00:00,"Letna, Velka Ida, Slovakia",3122,87.0,48.0,0.0
 2026-02-20 08:00:00,"Rzeszów-Piłsudskiego-WIOS, Poland",13042,151.0,68.0,31.2
@@ -2344,7 +1770,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 08:00:00,"Bd Mihai Eminescu, Botoşani, Romania",4168,0.0,25.0,17.9
 2026-02-20 08:00:00,"SNP, Krompachy, Slovakia",3144,82.0,26.0,15.1
 2026-02-20 08:00:00,"Pod Vinbargom, Bardejov, Slovakia",13822,55.0,18.0,4.6
-2026-02-20 08:00:00,"Str Mihai Viteazu, Constanţa, Romania",7648,0.0,20.0,21.8
 2026-02-20 08:00:00,"Beograd Ada Marina, Serbia",14779,48.0,12.0,9.1
 2026-02-20 08:00:00,"Str. Brăilei, Galaţi, Romania",8582,0.0,17.0,21.9
 2026-02-20 08:00:00,"Comuna Sânpetru, Sânpetru, Romania",4191,0.0,23.0,10.2
@@ -2370,7 +1795,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 08:00:00,"Zamość, Poland",6481,238.0,130.0,30.3
 2026-02-20 08:00:00,"Piata Unirii, Timişoara, Romania",7660,0.0,25.0,12.4
 2026-02-20 08:00:00,"Putnok, Putnok, Hungary",3356,0.0,22.0,1.1
-2026-02-20 08:00:00,"Kojsovska Hola, Slovakia",3121,57.0,12.0,1.0
 2026-02-20 08:00:00,"Krosno-Kletówki-WIOS, Poland",14678,69.0,23.0,0.0
 2026-02-20 08:00:00,"Brzozowa, Otwock, Mazowieckie, Poland",9037,199.0,98.0,23.3
 2026-02-20 08:00:00,"Aleea Biciclistilor, Hunedoara, Romania",6859,0.0,51.0,16.2
@@ -2430,11 +1854,9 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 08:00:00,"Com. Budeasa, Caloteşti, Romania",6833,0.0,14.0,10.6
 2026-02-20 08:00:00,"IZJZ Niš, Niš, Serbia",8577,48.0,28.0,11.9
 2026-02-20 08:00:00,"Tochtermana, Radom, Mazowieckie, Poland",3393,146.0,60.0,21.9
-2026-02-20 08:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,136.0,48.0,27.5
 2026-02-20 08:00:00,"Str. Libertatii, Turnu Magurele, Romania",4161,0.0,14.0,7.7
 2026-02-20 08:00:00,"Vratsa - ZHP Gara, Bulgaria",10561,0.0,8.0,2.9
 2026-02-20 08:00:00,"Beograd Des. Stefana, Serbia",8761,57.0,17.0,19.9
-2026-02-20 08:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,15.4
 2026-02-20 08:00:00,"Ursynów, Warszawa, Mazowieckie, Poland",3392,103.0,38.0,31.3
 2026-02-20 08:00:00,"Str. Industriei, Urziceni, Romania",6860,0.0,18.0,11.9
 2026-02-20 08:00:00,"Smederevo Carina, Serbia",9257,65.0,19.0,6.6
@@ -2454,7 +1876,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 08:00:00,"Pančevo Vatrog dom, Serbia",8817,50.0,13.0,15.5
 2026-02-20 08:00:00,"Str. Lunca Oltului, Sfântu Gheorghe, Romania",8579,0.0,7.0,25.1
 2026-02-20 08:00:00,"Aleea Castanilor, Copşa Mică, Romania",6871,0.0,29.0,15.5
-2026-02-20 08:00:00,"Lovech, Bulgaria",10574,0.0,12.0,0.0
 2026-02-20 08:00:00,"Str. Brestei, Breasta, Romania",6853,0.0,18.0,5.1
 2026-02-20 08:00:00,"Beograd Sopot, Serbia",14785,31.0,8.0,0.9
 2026-02-20 08:00:00,"Beograd Zemun Ugrinovačka, Serbia",14788,57.0,18.0,15.8
@@ -2466,7 +1887,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 08:00:00,"Dumbierska, Kosice, Slovakia",3112,68.0,23.0,0.0
 2026-02-20 08:00:00,"Kazincbarcika, Kazincbarcika, Hungary",3351,50.0,12.0,6.5
 2026-02-20 08:00:00,"Zeleznicna, Poprad, Slovakia",13827,74.0,22.0,3.7
-2026-02-20 08:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,30.0,4.7
 2026-02-20 08:00:00,"Şoseaua Constanţei, Mangalia, Romania",4173,0.0,10.0,8.4
 2026-02-20 08:00:00,"Targówek, Warszawa, Mazowieckie, Poland",3391,82.0,33.0,24.1
 2026-02-20 08:00:00,"Str. Piata Victoriei, Ploieşti, Romania",6868,0.0,27.0,29.2
@@ -2488,34 +1908,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 08:00:00,"Str.Alexandru cel Bun, Siret, Romania",6875,0.0,23.0,20.9
 2026-02-20 08:00:00,"Eger 2 Malomárok u., Eger, Hungary",3349,0.0,16.0,9.3
 2026-02-20 08:00:00,"Str. Hipodromului, Sibiu, Romania",6870,0.0,14.0,15.7
-2026-02-20 08:00:00,"Berezhans'ka Street, 3, Ternopil, Ukraine (Luftdaten #21613)",11660,31.0,17.0,0.0
-2026-02-20 08:00:00,"Mykhaila Hrushevskoho Street, 30, Kyiv, Ukraine (Luftdaten #21428)",11662,5.0,2.0,0.0
-2026-02-20 08:00:00,"Pobeda-6, Geroev Avenue, 40, Dnipro, Ukraine",11431,24.0,11.0,0.0
-2026-02-20 08:00:00,"prospekt Miru, 20, Shepetivka, Ukraine (Luftdaten #25838)",11885,47.0,22.0,0.0
-2026-02-20 08:00:00,"Vulytsya Pavla Nirinberha, 4-6, Dnipro, Ukraine",11623,19.0,10.0,0.0
-2026-02-20 08:00:00,"Hrushevs'koho Street, 8, Ternopil, Ukraine (Luftdaten #12542)",11659,109.0,62.0,0.0
-2026-02-20 08:00:00,"Alma-Atinska vulicya, 1, Chernivci, Ukraine (Luftdaten #26750)",11875,130.0,64.0,0.0
-2026-02-20 08:00:00,"vulicya Sim'yi Kulzhenkiv, 31, Kiyiv, Ukraine",11902,55.0,0.0,0.0
-2026-02-20 08:00:00,"bulvar Perova, 48, Kiyiv, Ukraine",11884,34.0,0.0,0.0
-2026-02-20 08:00:00,"ecorada1, Kryvyi Rih, Ukraine (Чеська)",11689,4.0,2.0,0.0
-2026-02-20 08:00:00,"Urban Space 100, Ivano-Frankivsk, Ukraine (вул.Грушевського)",11680,3.0,2.0,0.0
-2026-02-20 08:00:00,"SteelDrum, Lviv, Ukraine (vul.Kleparivska 18)",11795,10.0,9.0,0.0
-2026-02-20 08:00:00,"Zolota Nyva, Ivano-Frankivsk, Ukraine (вул.Симоненка)",11681,1.0,1.0,0.0
-2026-02-20 08:00:00,"Vokzalna Square, 2, Dnipro, Ukraine",11622,12.0,6.0,0.0
-2026-02-20 08:00:00,"APS 4001, Bahmut, Ukraine",11880,45.0,8.0,0.0
-2026-02-20 08:00:00,"APS 1001, Kramatorsk, Ukraine",11876,86.0,0.0,0.0
-2026-02-20 08:00:00,"APS 2002, Mariupol, Ukraine",11878,3.0,1.0,0.0
-2026-02-20 08:00:00,"Novokrymskaya Street, 1, Dnipro, Ukraine",11453,22.0,11.0,0.0
-2026-02-20 08:00:00,"Hoholya Street, 10, Dnipro, Ukraine",11748,60.0,27.0,0.0
-2026-02-20 08:00:00,"boryspil-67141, boryspil-67141, Ukraine (boryspil-67141)",11872,3.0,2.0,0.0
-2026-02-20 08:00:00,"BeeGreen, Ivano-Frankivsk, Ukraine (вул.Бельведерська 40)",11684,12.0,6.0,0.0
-2026-02-20 08:00:00,"vulicya Generala Zhmachenka, 4, Kiyiv, Ukraine",11873,26.0,11.0,0.0
-2026-02-20 08:00:00,"Yurkivska Street, 28, Kyiv, Ukraine",11668,59.0,51.0,0.0
-2026-02-20 08:00:00,"Mykhaila Dontsya Street, 2, Kyiv, Ukraine; Mykhaila Dontsya Street, 2, Kyiv, Ukraine (Luftdaten #22535)",11663,77.0,31.0,0.0
-2026-02-20 08:00:00,"Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine; Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine (prospekt. Akademika Hlushkova, 40, korp. 4/1)",11722,3.0,1.0,0.0
-2026-02-20 08:00:00,"Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine; Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine (Luftdaten #18168)",11661,12.0,6.0,0.0
-2026-02-20 08:00:00,"vulicya Vasilya Stusa, 28A, Kiyiv, Ukraine (Luftdaten #25539)",11883,2.0,1.0,0.0
-2026-02-20 08:00:00,"Prime Torque Motors, Odesa, Ukraine (Parkova, 7)",11691,90.0,54.0,0.0
 2026-02-20 08:00:00,"odesa; Odessa Gonzales, Midland, Texas",196,4.0,0.0,0.0
 2026-02-20 08:00:00,"elpueleutodesantamalia; Rio San Pedro, Puerto Real, Spain",8448,21.0,6.0,6.0
 2026-02-20 08:00:00,"telaviva; Tel Aviv (ישראל, Aviv)",5783,51.0,25.0,10.7
@@ -2525,7 +1917,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 08:00:00,"telaviva; The Peace Train - Gush Dan, Israel (ישראל,רכבת השלום, גוש דן)",9992,75.0,0.0,41.4
 2026-02-20 08:00:00,"telaviva; Or Yehuda - inner plain, Israel (ישראל,אור יהודה, שפלה פנימית)",9987,64.0,0.0,15.6
 2026-02-20 08:00:00,"telaviva; Levinsky, Tel Aviv Metropolitan Area, Israel (ישראל,לוינסקי, גוש דן)",11911,60.0,41.0,22.9
-2026-02-20 08:00:00,"telaviva; Dan, Japheth Jaffa, Israel (ישראל,יפת יפו, גוש דן)",2987,53.0,25.0,16.3
 2026-02-20 08:00:00,"telaviva; Hint, Gush Dan, Israel (ישראל,רמז, גוש דן)",2964,53.0,25.0,14.0
 2026-02-20 08:00:00,"telaviva; Antokolski Gush Dan, Israel (ישראל,אנטוקולסקי, גוש דן)",2962,51.0,0.0,10.7
 2026-02-20 08:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,51.0,25.0,16.8
@@ -2533,26 +1924,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 08:00:00,"telaviva; Holon, Gush Dan, Israel (ישראל,חולון, גוש דן)",2958,46.0,25.0,15.7
 2026-02-20 08:00:00,"telaviva; Through the D'', Gush Dan, Israel (ישראל,דרך פ''ת, גוש דן)",2963,46.0,0.0,19.3
 2026-02-20 08:00:00,"telaviva; Mobile stations 4, Israel (ישראל,ניידת4, תחנות ניידות)",8894,40.0,0.0,5.3
-2026-02-20 08:00:00,"telaviva; Dan, White Hand, Israel (ישראל,יד לבנים, גוש דן)",2982,92.0,0.0,0.0
-2026-02-20 08:00:00,"telaviva; Railway mobile station, Israel (ישראל,תחנה ניידת רכבת, תחנות ניידות)",8902,68.0,0.0,16.2
-2026-02-20 08:00:00,"Kosmichna Street, 9, Dnipro, Ukraine",11749,11.0,9.0,0.0
-2026-02-20 08:00:00,"Ulyanova Street, 26, Dnipro, Ukraine",11433,13.0,5.0,0.0
-2026-02-20 08:00:00,"Dmytra Yavornytskoho Avenue, 60, Dnipro, Ukraine",11455,2.0,1.0,0.0
-2026-02-20 08:00:00,"Slavy Boulevard, 11, Dnipro, Ukraine",11625,20.0,8.0,0.0
-2026-02-20 08:00:00,"Kalynova Street, 49, Dnipro, Ukraine",11457,11.0,6.0,0.0
-2026-02-20 08:00:00,"Pershogo Travnya Street, 7, Dnipro, Ukraine",11432,174.0,75.0,0.0
-2026-02-20 08:00:00,"Geroev Avenue, 46, Dnipro, Ukraine",11667,69.0,37.0,0.0
-2026-02-20 08:00:00,"Topolia-2, 23, Dnipro, Ukraine",11728,13.0,4.0,0.0
-2026-02-20 08:00:00,"Liubarskoho Street, 36, Dnipro, Ukraine",11624,37.0,16.0,0.0
-2026-02-20 08:00:00,"Haharina Avenue, 43, Dnipro, Ukraine",11456,11.0,5.0,0.0
-2026-02-20 08:00:00,"Pavla Nirinberha Street, 10, Dnipro, Ukraine",11673,579.0,579.0,0.0
-2026-02-20 08:00:00,"Beregova Street, 29, Dnipro, Ukraine",11771,10.0,8.0,0.0
-2026-02-20 08:00:00,"Pryberezhna Street, Dnipro, Ukraine",11454,8.0,5.0,0.0
-2026-02-20 08:00:00,"Velyka Diivska Street, 4, Dnipro, Ukraine",11770,23.0,14.0,0.0
-2026-02-20 08:00:00,"Dniprovs'ko-Oril's'kyy pryrodnyy zapovidnyk, Obukhivka, Ukraine",11693,21.0,8.0,0.0
-2026-02-20 08:00:00,"zaporizhzhia; Dytyacha likarnya 2, Zaporizhzhya, Ukraine (Patriotychna & Stalevariv)",11769,25.0,9.0,0.0
-2026-02-20 08:00:00,"zaporizhzhia; Pivdennyi, Zaporizhzhya, Ukraine (Avtozavodska)",11797,16.0,6.0,0.0
-2026-02-20 08:00:00,"zaporizhzhia; Zayats, Zaporizhzhya, Ukraine (Charivna)",11743,153.0,87.0,0.0
 2026-02-20 09:00:00,"Calea Macin, Isaccea, Romania",4188,0.0,15.0,7.8
 2026-02-20 09:00:00,"Zegrzyńska, Legionowo, Mazowieckie, Poland",4748,88.0,28.0,13.3
 2026-02-20 09:00:00,"Str. Carpati, Deva, Romania",7651,0.0,23.0,7.5
@@ -2562,7 +1933,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 09:00:00,"Čačak, Serbia",14558,64.0,29.0,20.2
 2026-02-20 09:00:00,"Str. Cauciucului, Oneşti, Romania",4166,0.0,39.0,9.7
 2026-02-20 09:00:00,"Str. Lunca Oltului, Sfântu Gheorghe, Romania",8579,0.0,7.0,23.6
-2026-02-20 09:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,31.0,4.2
 2026-02-20 09:00:00,"Str. Victoriei, Piteşti, Romania",7644,84.0,29.0,15.2
 2026-02-20 09:00:00,"Str. Vasile Alecsandri, Târgu Jiu, Romania",8581,77.0,29.0,22.9
 2026-02-20 09:00:00,"Str. Nufărului, Oradea, Romania",6838,0.0,18.0,11.4
@@ -2604,9 +1974,7 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 09:00:00,"Comuna Ungheni, Ungheni, Romania",8587,0.0,28.0,4.9
 2026-02-20 09:00:00,"Str.Alexandru cel Bun, Siret, Romania",6875,0.0,23.0,18.4
 2026-02-20 09:00:00,"Calea Victoriei, Cercul Militar, Romania",7657,0.0,29.0,32.9
-2026-02-20 09:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,15.4
 2026-02-20 09:00:00,"Str. Războieni, Bacău, Romania",7645,0.0,43.0,8.3
-2026-02-20 09:00:00,"Str. Meteorologiei, Zalău, Romania",6872,39.0,13.0,10.1
 2026-02-20 09:00:00,"Str. Unirii, Moldova Noua, Romania",4192,0.0,14.0,0.0
 2026-02-20 09:00:00,"Smederevo Radinac, Serbia",14566,71.0,21.0,2.8
 2026-02-20 09:00:00,"Beograd Borča, Serbia",14781,66.0,20.0,20.5
@@ -2619,7 +1987,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 09:00:00,"Bdul Unirii, Baia Mare, Romania",4182,0.0,10.0,9.9
 2026-02-20 09:00:00,"Arm.gen. L. Svobodu, Presov, Slovakia",3129,61.0,20.0,24.3
 2026-02-20 09:00:00,"Rzeszów-Piłsudskiego-WIOS, Poland",13042,151.0,80.0,29.6
-2026-02-20 09:00:00,"Str Mihai Viteazu, Constanţa, Romania",7648,0.0,21.0,23.2
 2026-02-20 09:00:00,"Str. Industriei, Urziceni, Romania",6860,0.0,18.0,11.9
 2026-02-20 09:00:00,"Pančevo Vatrog dom, Serbia",8817,50.0,13.0,15.5
 2026-02-20 09:00:00,"Nowiny ul. Parkowa, Poland",6550,0.0,58.0,9.6
@@ -2666,7 +2033,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 09:00:00,"Str. Dunarii, Alexandria, Romania",4160,0.0,12.0,10.7
 2026-02-20 09:00:00,"Beograd Obrenovac Ušće, Serbia",14564,17.0,4.0,2.8
 2026-02-20 09:00:00,"EMEP, AU SAV, Stara Lesna, Slovakia",3127,42.0,10.0,1.0
-2026-02-20 09:00:00,"Kojsovska Hola, Slovakia",3121,57.0,12.0,1.0
 2026-02-20 09:00:00,"Ursynów, Warszawa, Mazowieckie, Poland",3392,60.0,19.0,16.0
 2026-02-20 09:00:00,"Szolnok, Szolnok, Hungary",3358,0.0,12.0,0.0
 2026-02-20 09:00:00,"Letna, Velka Ida, Slovakia",3122,85.0,41.0,0.0
@@ -2697,7 +2063,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 09:00:00,"Str. Ostrovei, Râmnicu Vâlcea, Romania",6876,0.0,22.0,6.2
 2026-02-20 09:00:00,"str. Dorobanti, Nadlac, Romania",6836,0.0,10.0,4.3
 2026-02-20 09:00:00,"Str. Piata Victoriei, Ploieşti, Romania",6868,0.0,27.0,23.3
-2026-02-20 09:00:00,"Lovech, Bulgaria",10574,0.0,32.0,0.0
 2026-02-20 09:00:00,"IZJZ Niš, Niš, Serbia",8577,53.0,26.0,11.2
 2026-02-20 09:00:00,"T. G. Masaryka, Trebisov, Slovakia",13830,68.0,20.0,2.3
 2026-02-20 09:00:00,"Roosevelta, Żyrardów, Mazowieckie, Poland",3395,111.0,43.0,0.3
@@ -2716,38 +2081,9 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 09:00:00,"Beograd Sopot, Serbia",14785,38.0,10.0,0.5
 2026-02-20 09:00:00,"Str. Libertăţii, Târgu Mureş, Romania",6865,0.0,29.0,17.3
 2026-02-20 09:00:00,"Zona Pasaj Micalaca, Arad, Romania",6835,0.0,10.0,8.6
-2026-02-20 09:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,100.0,34.0,17.0
 2026-02-20 09:00:00,"Shumen, Bulgaria",10563,0.0,21.0,35.2
 2026-02-20 09:00:00,"Varna - SOU Angel Kanchev, Bulgaria",10577,43.0,13.0,40.2
 2026-02-20 09:00:00,"Str. Uzinei, Râmnicu Vâlcea, Romania",7642,0.0,20.0,20.5
-2026-02-20 09:00:00,"Berezhans'ka Street, 3, Ternopil, Ukraine (Luftdaten #21613)",11660,31.0,17.0,0.0
-2026-02-20 09:00:00,"Mykhaila Hrushevskoho Street, 30, Kyiv, Ukraine (Luftdaten #21428)",11662,5.0,2.0,0.0
-2026-02-20 09:00:00,"Pobeda-6, Geroev Avenue, 40, Dnipro, Ukraine",11431,24.0,11.0,0.0
-2026-02-20 09:00:00,"prospekt Miru, 20, Shepetivka, Ukraine (Luftdaten #25838)",11885,47.0,22.0,0.0
-2026-02-20 09:00:00,"Vulytsya Pavla Nirinberha, 4-6, Dnipro, Ukraine",11623,19.0,10.0,0.0
-2026-02-20 09:00:00,"Hrushevs'koho Street, 8, Ternopil, Ukraine (Luftdaten #12542)",11659,109.0,62.0,0.0
-2026-02-20 09:00:00,"Alma-Atinska vulicya, 1, Chernivci, Ukraine (Luftdaten #26750)",11875,130.0,64.0,0.0
-2026-02-20 09:00:00,"vulicya Sim'yi Kulzhenkiv, 31, Kiyiv, Ukraine",11902,55.0,0.0,0.0
-2026-02-20 09:00:00,"bulvar Perova, 48, Kiyiv, Ukraine",11884,34.0,0.0,0.0
-2026-02-20 09:00:00,"ecorada1, Kryvyi Rih, Ukraine (Чеська)",11689,4.0,2.0,0.0
-2026-02-20 09:00:00,"Urban Space 100, Ivano-Frankivsk, Ukraine (вул.Грушевського)",11680,3.0,2.0,0.0
-2026-02-20 09:00:00,"SteelDrum, Lviv, Ukraine (vul.Kleparivska 18)",11795,10.0,9.0,0.0
-2026-02-20 09:00:00,"Zolota Nyva, Ivano-Frankivsk, Ukraine (вул.Симоненка)",11681,1.0,1.0,0.0
-2026-02-20 09:00:00,"Vokzalna Square, 2, Dnipro, Ukraine",11622,12.0,6.0,0.0
-2026-02-20 09:00:00,"APS 4001, Bahmut, Ukraine",11880,45.0,8.0,0.0
-2026-02-20 09:00:00,"APS 2002, Mariupol, Ukraine",11878,3.0,1.0,0.0
-2026-02-20 09:00:00,"Novokrymskaya Street, 1, Dnipro, Ukraine",11453,22.0,11.0,0.0
-2026-02-20 09:00:00,"Hoholya Street, 10, Dnipro, Ukraine",11748,60.0,27.0,0.0
-2026-02-20 09:00:00,"boryspil-67141, boryspil-67141, Ukraine (boryspil-67141)",11872,3.0,2.0,0.0
-2026-02-20 09:00:00,"BeeGreen, Ivano-Frankivsk, Ukraine (вул.Бельведерська 40)",11684,12.0,6.0,0.0
-2026-02-20 09:00:00,"vulicya Generala Zhmachenka, 4, Kiyiv, Ukraine",11873,26.0,11.0,0.0
-2026-02-20 09:00:00,"Yurkivska Street, 28, Kyiv, Ukraine",11668,59.0,51.0,0.0
-2026-02-20 09:00:00,"DataStory_1, Kyiv, Ukraine; DataStory_1, Kyiv, Ukraine (Урлівська)",11687,5.0,6.0,0.0
-2026-02-20 09:00:00,"Mykhaila Dontsya Street, 2, Kyiv, Ukraine; Mykhaila Dontsya Street, 2, Kyiv, Ukraine (Luftdaten #22535)",11663,77.0,31.0,0.0
-2026-02-20 09:00:00,"Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine; Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine (prospekt. Akademika Hlushkova, 40, korp. 4/1)",11722,3.0,1.0,0.0
-2026-02-20 09:00:00,"Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine; Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine (Luftdaten #18168)",11661,12.0,6.0,0.0
-2026-02-20 09:00:00,"vulicya Vasilya Stusa, 28A, Kiyiv, Ukraine (Luftdaten #25539)",11883,2.0,1.0,0.0
-2026-02-20 09:00:00,"Prime Torque Motors, Odesa, Ukraine (Parkova, 7)",11691,90.0,54.0,0.0
 2026-02-20 09:00:00,"odesa; Odessa Gonzales, Midland, Texas",196,13.0,0.0,0.0
 2026-02-20 09:00:00,"rhode-saint-genese; Ukkel, Belgium",2992,44.0,14.0,9.6
 2026-02-20 09:00:00,"telaviva; Tel Aviv (ישראל, Aviv)",5783,52.0,25.0,13.4
@@ -2758,32 +2094,11 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 09:00:00,"telaviva; Levinsky, Tel Aviv Metropolitan Area, Israel (ישראל,לוינסקי, גוש דן)",11911,68.0,42.0,12.7
 2026-02-20 09:00:00,"telaviva; Hint, Gush Dan, Israel (ישראל,רמז, גוש דן)",2964,53.0,25.0,15.1
 2026-02-20 09:00:00,"telaviva; Antokolski Gush Dan, Israel (ישראל,אנטוקולסקי, גוש דן)",2962,52.0,0.0,4.9
-2026-02-20 09:00:00,"telaviva; Dan, Japheth Jaffa, Israel (ישראל,יפת יפו, גוש דן)",2987,51.0,25.0,8.3
 2026-02-20 09:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,51.0,25.0,9.2
 2026-02-20 09:00:00,"telaviva; Through the D'', Gush Dan, Israel (ישראל,דרך פ''ת, גוש דן)",2963,47.0,0.0,9.3
 2026-02-20 09:00:00,"telaviva; Highway 4, Gush Dan, Israel (ישראל,כביש 4, גוש דן)",2959,46.0,25.0,16.7
 2026-02-20 09:00:00,"telaviva; Holon, Gush Dan, Israel (ישראל,חולון, גוש דן)",2958,44.0,25.0,11.4
 2026-02-20 09:00:00,"telaviva; Mobile stations 4, Israel (ישראל,ניידת4, תחנות ניידות)",8894,42.0,0.0,3.8
-2026-02-20 09:00:00,"telaviva; Dan, White Hand, Israel (ישראל,יד לבנים, גוש דן)",2982,92.0,0.0,0.0
-2026-02-20 09:00:00,"telaviva; Railway mobile station, Israel (ישראל,תחנה ניידת רכבת, תחנות ניידות)",8902,68.0,0.0,16.2
-2026-02-20 09:00:00,"Kosmichna Street, 9, Dnipro, Ukraine",11749,11.0,9.0,0.0
-2026-02-20 09:00:00,"Ulyanova Street, 26, Dnipro, Ukraine",11433,13.0,5.0,0.0
-2026-02-20 09:00:00,"Dmytra Yavornytskoho Avenue, 60, Dnipro, Ukraine",11455,2.0,1.0,0.0
-2026-02-20 09:00:00,"Slavy Boulevard, 11, Dnipro, Ukraine",11625,20.0,8.0,0.0
-2026-02-20 09:00:00,"Kalynova Street, 49, Dnipro, Ukraine",11457,11.0,6.0,0.0
-2026-02-20 09:00:00,"Pershogo Travnya Street, 7, Dnipro, Ukraine",11432,174.0,75.0,0.0
-2026-02-20 09:00:00,"Geroev Avenue, 46, Dnipro, Ukraine",11667,69.0,37.0,0.0
-2026-02-20 09:00:00,"Topolia-2, 23, Dnipro, Ukraine",11728,13.0,4.0,0.0
-2026-02-20 09:00:00,"Liubarskoho Street, 36, Dnipro, Ukraine",11624,37.0,16.0,0.0
-2026-02-20 09:00:00,"Haharina Avenue, 43, Dnipro, Ukraine",11456,11.0,5.0,0.0
-2026-02-20 09:00:00,"Pavla Nirinberha Street, 10, Dnipro, Ukraine",11673,579.0,579.0,0.0
-2026-02-20 09:00:00,"Beregova Street, 29, Dnipro, Ukraine",11771,10.0,8.0,0.0
-2026-02-20 09:00:00,"Pryberezhna Street, Dnipro, Ukraine",11454,8.0,5.0,0.0
-2026-02-20 09:00:00,"Velyka Diivska Street, 4, Dnipro, Ukraine",11770,23.0,14.0,0.0
-2026-02-20 09:00:00,"Dniprovs'ko-Oril's'kyy pryrodnyy zapovidnyk, Obukhivka, Ukraine",11693,21.0,8.0,0.0
-2026-02-20 09:00:00,"zaporizhzhia; Dytyacha likarnya 2, Zaporizhzhya, Ukraine (Patriotychna & Stalevariv)",11769,25.0,9.0,0.0
-2026-02-20 09:00:00,"zaporizhzhia; Pivdennyi, Zaporizhzhya, Ukraine (Avtozavodska)",11797,16.0,6.0,0.0
-2026-02-20 09:00:00,"zaporizhzhia; Zayats, Zaporizhzhya, Ukraine (Charivna)",11743,153.0,87.0,0.0
 2026-02-20 10:00:00,"Varna - SOU Angel Kanchev, Bulgaria",10577,37.0,13.0,39.3
 2026-02-20 10:00:00,"Str. Rotunda, Titan, Romania",8590,0.0,25.0,6.2
 2026-02-20 10:00:00,"Pančevo Vatrog dom, Serbia",8817,52.0,14.0,14.1
@@ -2791,7 +2106,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 10:00:00,"Starachowice, ul. Złota, Poland",14913,69.0,23.0,0.0
 2026-02-20 10:00:00,"Oszlár, Oszlár, Hungary",3355,0.0,18.0,0.0
 2026-02-20 10:00:00,"Kielce, ul. Targowa 3, Poland",14911,45.0,16.0,7.8
-2026-02-20 10:00:00,"Str Mihai Viteazu, Constanţa, Romania",7648,0.0,21.0,22.4
 2026-02-20 10:00:00,"Str. Decebal, Medgidia, Romania",4175,0.0,10.0,8.6
 2026-02-20 10:00:00,"Str. P-ţa Independenţei, Brăila, Romania",6841,0.0,18.0,11.0
 2026-02-20 10:00:00,"str. Principala, Buchin, Romania",4171,0.0,15.0,17.0
@@ -2838,14 +2152,12 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 10:00:00,"Kolonicke sedlo, Slovakia",3142,74.0,16.0,1.4
 2026-02-20 10:00:00,"Arm.gen. L. Svobodu, Presov, Slovakia",3129,63.0,21.0,21.1
 2026-02-20 10:00:00,"SNP, Krompachy, Slovakia",3144,68.0,16.0,10.1
-2026-02-20 10:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,38.0,6.2
 2026-02-20 10:00:00,"Str. Ioan Slavici, Satu Mare, Romania",6873,0.0,11.0,8.1
 2026-02-20 10:00:00,"Str.Alexandru cel Bun, Siret, Romania",6875,0.0,23.0,14.7
 2026-02-20 10:00:00,"Dobrich - OU Han Asparuh, Bulgaria",10565,0.0,9.0,0.0
 2026-02-20 10:00:00,"G.Oryahovitsa, Bulgaria",10572,0.0,11.0,4.0
 2026-02-20 10:00:00,"Čačak, Serbia",14558,58.0,28.0,13.9
 2026-02-20 10:00:00,"Veliki Crljeni, Serbia",14563,36.0,9.0,11.8
-2026-02-20 10:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,15.4
 2026-02-20 10:00:00,"Str. Han Tatar, Iasi, Romania",4180,0.0,35.0,5.2
 2026-02-20 10:00:00,"Miskolc Búza tér, Miskolc, Hungary",3352,87.0,29.0,9.8
 2026-02-20 10:00:00,"Str. Libertatii, Turnu Magurele, Romania",4161,0.0,15.0,4.9
@@ -2863,7 +2175,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 10:00:00,"Eger 2 Malomárok u., Eger, Hungary",3349,0.0,5.0,13.9
 2026-02-20 10:00:00,"Zeleznicna, Poprad, Slovakia",13827,59.0,17.0,3.7
 2026-02-20 10:00:00,"Tochtermana, Radom, Mazowieckie, Poland",3393,109.0,43.0,9.4
-2026-02-20 10:00:00,"Lovech, Bulgaria",10574,0.0,34.0,0.0
 2026-02-20 10:00:00,"Beograd Mladenovac, Serbia",14784,52.0,22.0,6.8
 2026-02-20 10:00:00,"Beograd Sopot, Serbia",14785,38.0,10.0,0.5
 2026-02-20 10:00:00,"Beograd Leštane, Serbia",14783,98.0,54.0,22.9
@@ -2896,7 +2207,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 10:00:00,"Str. Libertăţii, Târgu Mureş, Romania",6865,0.0,29.0,8.4
 2026-02-20 10:00:00,"Zamość, Poland",6481,158.0,64.0,10.4
 2026-02-20 10:00:00,"Dumbierska, Kosice, Slovakia",3112,55.0,21.0,0.0
-2026-02-20 10:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,95.0,35.0,16.1
 2026-02-20 10:00:00,"Brzozowa, Otwock, Mazowieckie, Poland",9037,159.0,59.0,21.4
 2026-02-20 10:00:00,"Kazincbarcika, Kazincbarcika, Hungary",3351,34.0,9.0,6.0
 2026-02-20 10:00:00,"Jesenskeho, Jelsava, Slovakia",3116,53.0,15.0,0.5
@@ -2923,7 +2233,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 10:00:00,"Comuna Tetchea, Tetchea, Romania",6839,0.0,28.0,6.9
 2026-02-20 10:00:00,"Małogoszcz, ul. Słoneczna 18, Poland",14912,80.0,29.0,7.5
 2026-02-20 10:00:00,"Str. Victoriei, Piteşti, Romania",7644,85.0,29.0,10.7
-2026-02-20 10:00:00,"Kojsovska Hola, Slovakia",3121,57.0,12.0,1.0
 2026-02-20 10:00:00,"Pod Vinbargom, Bardejov, Slovakia",13822,68.0,23.0,3.2
 2026-02-20 10:00:00,"Smederevo Centar, Serbia",9259,85.0,63.0,20.5
 2026-02-20 10:00:00,"Calea Macin, Isaccea, Romania",4188,0.0,15.0,8.6
@@ -2943,38 +2252,7 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 10:00:00,"Str. Lalelelor, Alba Iulia, Romania",4162,0.0,34.0,8.1
 2026-02-20 10:00:00,"Str. M. Kogălniceanu, Sebeş, Romania",6830,0.0,42.0,6.3
 2026-02-20 10:00:00,"Str. Parcului, Bistriţa, Romania",8578,0.0,18.0,3.5
-2026-02-20 10:00:00,"Str. Meteorologiei, Zalău, Romania",6872,38.0,13.0,10.1
 2026-02-20 10:00:00,"Biała Podlaska, Poland",6479,0.0,21.0,4.5
-2026-02-20 10:00:00,"Berezhans'ka Street, 3, Ternopil, Ukraine (Luftdaten #21613)",11660,31.0,17.0,0.0
-2026-02-20 10:00:00,"Mykhaila Hrushevskoho Street, 30, Kyiv, Ukraine (Luftdaten #21428)",11662,5.0,2.0,0.0
-2026-02-20 10:00:00,"Pobeda-6, Geroev Avenue, 40, Dnipro, Ukraine",11431,24.0,11.0,0.0
-2026-02-20 10:00:00,"prospekt Miru, 20, Shepetivka, Ukraine (Luftdaten #25838)",11885,47.0,22.0,0.0
-2026-02-20 10:00:00,"Vulytsya Pavla Nirinberha, 4-6, Dnipro, Ukraine",11623,19.0,10.0,0.0
-2026-02-20 10:00:00,"Hrushevs'koho Street, 8, Ternopil, Ukraine (Luftdaten #12542)",11659,109.0,62.0,0.0
-2026-02-20 10:00:00,"Alma-Atinska vulicya, 1, Chernivci, Ukraine (Luftdaten #26750)",11875,130.0,64.0,0.0
-2026-02-20 10:00:00,"vulicya Sim'yi Kulzhenkiv, 31, Kiyiv, Ukraine",11902,55.0,0.0,0.0
-2026-02-20 10:00:00,"bulvar Perova, 48, Kiyiv, Ukraine",11884,34.0,0.0,0.0
-2026-02-20 10:00:00,"ecorada1, Kryvyi Rih, Ukraine (Чеська)",11689,4.0,2.0,0.0
-2026-02-20 10:00:00,"Urban Space 100, Ivano-Frankivsk, Ukraine (вул.Грушевського)",11680,3.0,2.0,0.0
-2026-02-20 10:00:00,"SteelDrum, Lviv, Ukraine (vul.Kleparivska 18)",11795,10.0,9.0,0.0
-2026-02-20 10:00:00,"Zolota Nyva, Ivano-Frankivsk, Ukraine (вул.Симоненка)",11681,1.0,1.0,0.0
-2026-02-20 10:00:00,"Vokzalna Square, 2, Dnipro, Ukraine",11622,12.0,6.0,0.0
-2026-02-20 10:00:00,"APS 4001, Bahmut, Ukraine",11880,45.0,8.0,0.0
-2026-02-20 10:00:00,"APS 1001, Kramatorsk, Ukraine",11876,86.0,0.0,0.0
-2026-02-20 10:00:00,"APS 2002, Mariupol, Ukraine",11878,3.0,1.0,0.0
-2026-02-20 10:00:00,"Novokrymskaya Street, 1, Dnipro, Ukraine",11453,22.0,11.0,0.0
-2026-02-20 10:00:00,"Hoholya Street, 10, Dnipro, Ukraine",11748,60.0,27.0,0.0
-2026-02-20 10:00:00,"boryspil-67141, boryspil-67141, Ukraine (boryspil-67141)",11872,3.0,2.0,0.0
-2026-02-20 10:00:00,"BeeGreen, Ivano-Frankivsk, Ukraine (вул.Бельведерська 40)",11684,12.0,6.0,0.0
-2026-02-20 10:00:00,"vulicya Generala Zhmachenka, 4, Kiyiv, Ukraine",11873,26.0,11.0,0.0
-2026-02-20 10:00:00,"Yurkivska Street, 28, Kyiv, Ukraine",11668,59.0,51.0,0.0
-2026-02-20 10:00:00,"DataStory_1, Kyiv, Ukraine; DataStory_1, Kyiv, Ukraine (Урлівська)",11687,5.0,6.0,0.0
-2026-02-20 10:00:00,"Reheneratorna Street, 4, Kyiv, Ukraine",11460,54.0,21.0,0.0
-2026-02-20 10:00:00,"Mykhaila Dontsya Street, 2, Kyiv, Ukraine; Mykhaila Dontsya Street, 2, Kyiv, Ukraine (Luftdaten #22535)",11663,77.0,31.0,0.0
-2026-02-20 10:00:00,"Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine; Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine (prospekt. Akademika Hlushkova, 40, korp. 4/1)",11722,3.0,1.0,0.0
-2026-02-20 10:00:00,"Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine; Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine (Luftdaten #18168)",11661,12.0,6.0,0.0
-2026-02-20 10:00:00,"vulicya Vasilya Stusa, 28A, Kiyiv, Ukraine (Luftdaten #25539)",11883,2.0,1.0,0.0
-2026-02-20 10:00:00,"Prime Torque Motors, Odesa, Ukraine (Parkova, 7)",11691,90.0,54.0,0.0
 2026-02-20 10:00:00,"odesa; Odessa Gonzales, Midland, Texas",196,6.0,0.0,0.0
 2026-02-20 10:00:00,"elpueleutodesantamalia; Rio San Pedro, Puerto Real, Spain",8448,21.0,5.0,4.6
 2026-02-20 10:00:00,"rhode-saint-genese; Ukkel, Belgium",2992,50.0,16.0,8.3
@@ -2988,31 +2266,10 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 10:00:00,"telaviva; Hint, Gush Dan, Israel (ישראל,רמז, גוש דן)",2964,56.0,25.0,12.0
 2026-02-20 10:00:00,"telaviva; Antokolski Gush Dan, Israel (ישראל,אנטוקולסקי, גוש דן)",2962,52.0,0.0,3.6
 2026-02-20 10:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,51.0,25.0,5.0
-2026-02-20 10:00:00,"telaviva; Dan, Japheth Jaffa, Israel (ישראל,יפת יפו, גוש דן)",2987,51.0,25.0,5.7
 2026-02-20 10:00:00,"telaviva; Through the D'', Gush Dan, Israel (ישראל,דרך פ''ת, גוש דן)",2963,47.0,0.0,6.9
 2026-02-20 10:00:00,"telaviva; Highway 4, Gush Dan, Israel (ישראל,כביש 4, גוש דן)",2959,47.0,25.0,12.7
 2026-02-20 10:00:00,"telaviva; Holon, Gush Dan, Israel (ישראל,חולון, גוש דן)",2958,44.0,25.0,7.5
 2026-02-20 10:00:00,"telaviva; Mobile stations 4, Israel (ישראל,ניידת4, תחנות ניידות)",8894,43.0,0.0,3.4
-2026-02-20 10:00:00,"telaviva; Dan, White Hand, Israel (ישראל,יד לבנים, גוש דן)",2982,92.0,0.0,0.0
-2026-02-20 10:00:00,"telaviva; Railway mobile station, Israel (ישראל,תחנה ניידת רכבת, תחנות ניידות)",8902,68.0,0.0,16.2
-2026-02-20 10:00:00,"Kosmichna Street, 9, Dnipro, Ukraine",11749,11.0,9.0,0.0
-2026-02-20 10:00:00,"Ulyanova Street, 26, Dnipro, Ukraine",11433,13.0,5.0,0.0
-2026-02-20 10:00:00,"Dmytra Yavornytskoho Avenue, 60, Dnipro, Ukraine",11455,2.0,1.0,0.0
-2026-02-20 10:00:00,"Slavy Boulevard, 11, Dnipro, Ukraine",11625,20.0,8.0,0.0
-2026-02-20 10:00:00,"Kalynova Street, 49, Dnipro, Ukraine",11457,11.0,6.0,0.0
-2026-02-20 10:00:00,"Pershogo Travnya Street, 7, Dnipro, Ukraine",11432,174.0,75.0,0.0
-2026-02-20 10:00:00,"Geroev Avenue, 46, Dnipro, Ukraine",11667,69.0,37.0,0.0
-2026-02-20 10:00:00,"Topolia-2, 23, Dnipro, Ukraine",11728,13.0,4.0,0.0
-2026-02-20 10:00:00,"Liubarskoho Street, 36, Dnipro, Ukraine",11624,37.0,16.0,0.0
-2026-02-20 10:00:00,"Haharina Avenue, 43, Dnipro, Ukraine",11456,11.0,5.0,0.0
-2026-02-20 10:00:00,"Pavla Nirinberha Street, 10, Dnipro, Ukraine",11673,579.0,579.0,0.0
-2026-02-20 10:00:00,"Beregova Street, 29, Dnipro, Ukraine",11771,10.0,8.0,0.0
-2026-02-20 10:00:00,"Pryberezhna Street, Dnipro, Ukraine",11454,8.0,5.0,0.0
-2026-02-20 10:00:00,"Velyka Diivska Street, 4, Dnipro, Ukraine",11770,23.0,14.0,0.0
-2026-02-20 10:00:00,"Dniprovs'ko-Oril's'kyy pryrodnyy zapovidnyk, Obukhivka, Ukraine",11693,21.0,8.0,0.0
-2026-02-20 10:00:00,"zaporizhzhia; Dytyacha likarnya 2, Zaporizhzhya, Ukraine (Patriotychna & Stalevariv)",11769,25.0,9.0,0.0
-2026-02-20 10:00:00,"zaporizhzhia; Pivdennyi, Zaporizhzhya, Ukraine (Avtozavodska)",11797,16.0,6.0,0.0
-2026-02-20 10:00:00,"zaporizhzhia; Zayats, Zaporizhzhya, Ukraine (Charivna)",11743,153.0,87.0,0.0
 2026-02-20 11:00:00,"Str. Industriei, Urziceni, Romania",6860,0.0,18.0,9.0
 2026-02-20 11:00:00,"Pirot, Serbia",14562,63.0,19.0,6.2
 2026-02-20 11:00:00,"Beograd Bežanijska kosa, Serbia",14569,68.0,25.0,14.7
@@ -3020,7 +2277,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 11:00:00,"Čačak, Serbia",14558,48.0,16.0,12.8
 2026-02-20 11:00:00,"Beograd Sopot, Serbia",14785,37.0,10.0,0.8
 2026-02-20 11:00:00,"Str. Stefan Cel Mare, Vaslui, Romania",6877,0.0,28.0,7.0
-2026-02-20 11:00:00,"Kojsovska Hola, Slovakia",3121,57.0,12.0,1.0
 2026-02-20 11:00:00,"Tochtermana, Radom, Mazowieckie, Poland",3393,109.0,43.0,9.0
 2026-02-20 11:00:00,"Com. Budeasa, Caloteşti, Romania",6833,0.0,15.0,5.4
 2026-02-20 11:00:00,"Smederevo Centar, Serbia",9259,85.0,63.0,20.5
@@ -3059,19 +2315,16 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 11:00:00,"Str. Ostrovei, Râmnicu Vâlcea, Romania",6876,0.0,22.0,6.2
 2026-02-20 11:00:00,"Pod Vinbargom, Bardejov, Slovakia",13822,72.0,29.0,2.8
 2026-02-20 11:00:00,"Bdul Bucuresti, Ploieşti, Romania",4186,0.0,34.0,28.5
-2026-02-20 11:00:00,"Lovech, Bulgaria",10574,0.0,34.0,0.0
 2026-02-20 11:00:00,"Str. Victoriei, Piteşti, Romania",7644,86.0,29.0,11.7
 2026-02-20 11:00:00,"Str. Unirii, Moldova Noua, Romania",4192,0.0,14.0,0.0
 2026-02-20 11:00:00,"Smederevo Radinac, Serbia",14566,67.0,20.0,2.8
 2026-02-20 11:00:00,"Bdul Dunărea, Galaţi, Romania",8584,0.0,13.0,9.7
 2026-02-20 11:00:00,"Str. Carpati, Deva, Romania",7651,0.0,24.0,7.4
-2026-02-20 11:00:00,"Str. Meteorologiei, Zalău, Romania",6872,38.0,13.0,7.7
 2026-02-20 11:00:00,"Gołuchów, Ujęcie Wody, Poland",14910,0.0,18.0,2.6
 2026-02-20 11:00:00,"Dobrich - OU Han Asparuh, Bulgaria",10565,0.0,9.0,0.0
 2026-02-20 11:00:00,"Comuna Sânpetru, Sânpetru, Romania",4191,0.0,24.0,4.0
 2026-02-20 11:00:00,"Str. Tudor Vladimirescu, Zlatna, Romania",6831,0.0,35.0,12.2
 2026-02-20 11:00:00,"Str. Ioan Fluieras, Arad, Romania",4164,0.0,13.0,11.1
-2026-02-20 11:00:00,"Str Mihai Viteazu, Constanţa, Romania",7648,0.0,21.0,16.5
 2026-02-20 11:00:00,"Str. Lacul Morii, Lacul Morii, Romania",7655,91.0,36.0,10.4
 2026-02-20 11:00:00,"Str. Traian, Galaţi, Romania",7650,0.0,14.0,6.5
 2026-02-20 11:00:00,"Bdul. Gării, Braşov, Romania",7647,0.0,34.0,19.5
@@ -3092,7 +2345,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 11:00:00,"Bdul Bucuresti, Baia Mare, Romania",4181,0.0,9.0,23.3
 2026-02-20 11:00:00,"Str. Aurel Vlaicu, Cluj-Napoca, Romania",8591,0.0,24.0,17.3
 2026-02-20 11:00:00,"Comuna Valiug, Semenic, Romania",6855,0.0,13.0,3.4
-2026-02-20 11:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,37.0,7.1
 2026-02-20 11:00:00,"Ursynów, Warszawa, Mazowieckie, Poland",3392,54.0,21.0,9.8
 2026-02-20 11:00:00,"Beograd Stojčino Brdo, Serbia",14786,89.0,52.0,10.1
 2026-02-20 11:00:00,"Str. Lunca Oltului, Sfântu Gheorghe, Romania",8579,0.0,8.0,15.0
@@ -3153,7 +2405,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 11:00:00,"Jesenskeho, Jelsava, Slovakia",3116,53.0,15.0,0.5
 2026-02-20 11:00:00,"EMEP, AU SAV, Stara Lesna, Slovakia",3127,42.0,1.0,0.5
 2026-02-20 11:00:00,"Str. Piata Victoriei, Ploieşti, Romania",6868,0.0,27.0,14.4
-2026-02-20 11:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,15.4
 2026-02-20 11:00:00,"Str. 1 Decembrie 1918, Tecuci, Romania",6857,0.0,15.0,12.5
 2026-02-20 11:00:00,"Str. Mărăşeşti, Suceava, Romania",4194,113.0,42.0,7.6
 2026-02-20 11:00:00,"Szeged 2 Rózsa u., Szeged, Hungary",3337,46.0,13.0,5.9
@@ -3163,7 +2414,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 11:00:00,"Novi Pazar, Serbia",12894,34.0,9.0,6.5
 2026-02-20 11:00:00,"Comuna Ungheni, Ungheni, Romania",8587,0.0,27.0,5.0
 2026-02-20 11:00:00,"str. Dorobanti, Nadlac, Romania",6836,0.0,10.0,4.3
-2026-02-20 11:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,81.0,30.0,13.6
 2026-02-20 11:00:00,"Str. Războieni, Bacău, Romania",7645,0.0,41.0,7.5
 2026-02-20 11:00:00,"Calea Pietroasa, Campulung, Romania",4163,0.0,50.0,3.4
 2026-02-20 11:00:00,"Str. Lalelelor, Alba Iulia, Romania",4162,0.0,34.0,6.3
@@ -3174,36 +2424,6 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 11:00:00,"Str. Ioan Slavici, Satu Mare, Romania",6873,0.0,11.0,6.4
 2026-02-20 11:00:00,"Letna, Velka Ida, Slovakia",3122,91.0,51.0,0.0
 2026-02-20 11:00:00,"Kazincbarcika, Kazincbarcika, Hungary",3351,34.0,8.0,5.5
-2026-02-20 11:00:00,"Berezhans'ka Street, 3, Ternopil, Ukraine (Luftdaten #21613)",11660,31.0,17.0,0.0
-2026-02-20 11:00:00,"Mykhaila Hrushevskoho Street, 30, Kyiv, Ukraine (Luftdaten #21428)",11662,5.0,2.0,0.0
-2026-02-20 11:00:00,"Pobeda-6, Geroev Avenue, 40, Dnipro, Ukraine",11431,24.0,11.0,0.0
-2026-02-20 11:00:00,"prospekt Miru, 20, Shepetivka, Ukraine (Luftdaten #25838)",11885,47.0,22.0,0.0
-2026-02-20 11:00:00,"Vulytsya Pavla Nirinberha, 4-6, Dnipro, Ukraine",11623,19.0,10.0,0.0
-2026-02-20 11:00:00,"Hrushevs'koho Street, 8, Ternopil, Ukraine (Luftdaten #12542)",11659,109.0,62.0,0.0
-2026-02-20 11:00:00,"Alma-Atinska vulicya, 1, Chernivci, Ukraine (Luftdaten #26750)",11875,130.0,64.0,0.0
-2026-02-20 11:00:00,"vulicya Sim'yi Kulzhenkiv, 31, Kiyiv, Ukraine",11902,55.0,0.0,0.0
-2026-02-20 11:00:00,"bulvar Perova, 48, Kiyiv, Ukraine",11884,34.0,0.0,0.0
-2026-02-20 11:00:00,"ecorada1, Kryvyi Rih, Ukraine (Чеська)",11689,4.0,2.0,0.0
-2026-02-20 11:00:00,"Urban Space 100, Ivano-Frankivsk, Ukraine (вул.Грушевського)",11680,3.0,2.0,0.0
-2026-02-20 11:00:00,"SteelDrum, Lviv, Ukraine (vul.Kleparivska 18)",11795,10.0,9.0,0.0
-2026-02-20 11:00:00,"Zolota Nyva, Ivano-Frankivsk, Ukraine (вул.Симоненка)",11681,1.0,1.0,0.0
-2026-02-20 11:00:00,"Vokzalna Square, 2, Dnipro, Ukraine",11622,12.0,6.0,0.0
-2026-02-20 11:00:00,"APS 4001, Bahmut, Ukraine",11880,45.0,8.0,0.0
-2026-02-20 11:00:00,"APS 1001, Kramatorsk, Ukraine",11876,86.0,0.0,0.0
-2026-02-20 11:00:00,"APS 2002, Mariupol, Ukraine",11878,3.0,1.0,0.0
-2026-02-20 11:00:00,"Novokrymskaya Street, 1, Dnipro, Ukraine",11453,22.0,11.0,0.0
-2026-02-20 11:00:00,"Hoholya Street, 10, Dnipro, Ukraine",11748,60.0,27.0,0.0
-2026-02-20 11:00:00,"boryspil-67141, boryspil-67141, Ukraine (boryspil-67141)",11872,3.0,2.0,0.0
-2026-02-20 11:00:00,"BeeGreen, Ivano-Frankivsk, Ukraine (вул.Бельведерська 40)",11684,12.0,6.0,0.0
-2026-02-20 11:00:00,"vulicya Generala Zhmachenka, 4, Kiyiv, Ukraine",11873,26.0,11.0,0.0
-2026-02-20 11:00:00,"Yurkivska Street, 28, Kyiv, Ukraine",11668,59.0,51.0,0.0
-2026-02-20 11:00:00,"DataStory_1, Kyiv, Ukraine; DataStory_1, Kyiv, Ukraine (Урлівська)",11687,5.0,6.0,0.0
-2026-02-20 11:00:00,"Reheneratorna Street, 4, Kyiv, Ukraine",11460,54.0,21.0,0.0
-2026-02-20 11:00:00,"Mykhaila Dontsya Street, 2, Kyiv, Ukraine; Mykhaila Dontsya Street, 2, Kyiv, Ukraine (Luftdaten #22535)",11663,77.0,31.0,0.0
-2026-02-20 11:00:00,"Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine; Instytut kosmichnykh doslidzhen NANU-DKAU, Kyiv, Ukraine (prospekt. Akademika Hlushkova, 40, korp. 4/1)",11722,3.0,1.0,0.0
-2026-02-20 11:00:00,"Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine; Sofiivska Borshchahivka, Soborna Street, 114, Kyiv, Ukraine (Luftdaten #18168)",11661,12.0,6.0,0.0
-2026-02-20 11:00:00,"vulicya Vasilya Stusa, 28A, Kiyiv, Ukraine (Luftdaten #25539)",11883,2.0,1.0,0.0
-2026-02-20 11:00:00,"Prime Torque Motors, Odesa, Ukraine (Parkova, 7)",11691,90.0,54.0,0.0
 2026-02-20 11:00:00,"odesa; Odessa Gonzales, Midland, Texas",196,6.0,0.0,0.0
 2026-02-20 11:00:00,"elpueleutodesantamalia; Rio San Pedro, Puerto Real, Spain",8448,21.0,5.0,4.6
 2026-02-20 11:00:00,"rhode-saint-genese; Ukkel, Belgium",2992,52.0,16.0,6.9
@@ -3217,26 +2437,7 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-20 11:00:00,"telaviva; Hint, Gush Dan, Israel (ישראל,רמז, גוש דן)",2964,57.0,26.0,11.2
 2026-02-20 11:00:00,"telaviva; Antokolski Gush Dan, Israel (ישראל,אנטוקולסקי, גוש דן)",2962,53.0,0.0,3.6
 2026-02-20 11:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,52.0,26.0,4.7
-2026-02-20 11:00:00,"telaviva; Dan, Japheth Jaffa, Israel (ישראל,יפת יפו, גוש דן)",2987,51.0,26.0,2.5
 2026-02-20 11:00:00,"telaviva; Highway 4, Gush Dan, Israel (ישראל,כביש 4, גוש דן)",2959,48.0,26.0,9.6
 2026-02-20 11:00:00,"telaviva; Through the D'', Gush Dan, Israel (ישראל,דרך פ''ת, גוש דן)",2963,48.0,0.0,6.9
 2026-02-20 11:00:00,"telaviva; Holon, Gush Dan, Israel (ישראל,חולון, גוש דן)",2958,43.0,26.0,5.5
 2026-02-20 11:00:00,"telaviva; Mobile stations 4, Israel (ישראל,ניידת4, תחנות ניידות)",8894,43.0,0.0,3.4
-2026-02-20 11:00:00,"telaviva; Dan, White Hand, Israel (ישראל,יד לבנים, גוש דן)",2982,92.0,0.0,0.0
-2026-02-20 11:00:00,"telaviva; Railway mobile station, Israel (ישראל,תחנה ניידת רכבת, תחנות ניידות)",8902,68.0,0.0,16.2
-2026-02-20 11:00:00,"Kosmichna Street, 9, Dnipro, Ukraine",11749,11.0,9.0,0.0
-2026-02-20 11:00:00,"Ulyanova Street, 26, Dnipro, Ukraine",11433,13.0,5.0,0.0
-2026-02-20 11:00:00,"Dmytra Yavornytskoho Avenue, 60, Dnipro, Ukraine",11455,2.0,1.0,0.0
-2026-02-20 11:00:00,"Slavy Boulevard, 11, Dnipro, Ukraine",11625,20.0,8.0,0.0
-2026-02-20 11:00:00,"Kalynova Street, 49, Dnipro, Ukraine",11457,11.0,6.0,0.0
-2026-02-20 11:00:00,"Geroev Avenue, 46, Dnipro, Ukraine",11667,69.0,37.0,0.0
-2026-02-20 11:00:00,"Topolia-2, 23, Dnipro, Ukraine",11728,13.0,4.0,0.0
-2026-02-20 11:00:00,"Liubarskoho Street, 36, Dnipro, Ukraine",11624,37.0,16.0,0.0
-2026-02-20 11:00:00,"Pavla Nirinberha Street, 10, Dnipro, Ukraine",11673,579.0,579.0,0.0
-2026-02-20 11:00:00,"Beregova Street, 29, Dnipro, Ukraine",11771,10.0,8.0,0.0
-2026-02-20 11:00:00,"Pryberezhna Street, Dnipro, Ukraine",11454,8.0,5.0,0.0
-2026-02-20 11:00:00,"Velyka Diivska Street, 4, Dnipro, Ukraine",11770,23.0,14.0,0.0
-2026-02-20 11:00:00,"Dniprovs'ko-Oril's'kyy pryrodnyy zapovidnyk, Obukhivka, Ukraine",11693,21.0,8.0,0.0
-2026-02-20 11:00:00,"zaporizhzhia; Dytyacha likarnya 2, Zaporizhzhya, Ukraine (Patriotychna & Stalevariv)",11769,25.0,9.0,0.0
-2026-02-20 11:00:00,"zaporizhzhia; Pivdennyi, Zaporizhzhya, Ukraine (Avtozavodska)",11797,16.0,6.0,0.0
-2026-02-20 11:00:00,"zaporizhzhia; Zayats, Zaporizhzhya, Ukraine (Charivna)",11743,153.0,87.0,0.0
