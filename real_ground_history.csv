@@ -4975,3 +4975,177 @@ time,station,uid,pm2.5,pm10,no2
 2026-02-21 05:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,47.0,29.0,4.5
 2026-02-21 05:00:00,"telaviva; Holon, Gush Dan, Israel (ישראל,חולון, גוש דן)",2958,45.0,29.0,2.9
 2026-02-21 05:00:00,"telaviva; Highway 4, Gush Dan, Israel (ישראל,כביש 4, גוש דן)",2959,39.0,29.0,6.8
+2026-02-21 06:00:00,"Dobrich - OU Han Asparuh, Bulgaria",10565,0.0,14.0,0.0
+2026-02-21 06:00:00,"Smederevo Radinac, Serbia",14566,51.0,12.0,3.0
+2026-02-21 06:00:00,"Aleea Biciclistilor, Hunedoara, Romania",6859,0.0,24.0,6.0
+2026-02-21 06:00:00,"Str. Meteorologiei, Zalău, Romania",6872,30.0,11.0,3.5
+2026-02-21 06:00:00,"Lublin ul.Obywatelska, Poland",6480,60.0,18.0,4.0
+2026-02-21 06:00:00,"str. Dorobanti, Nadlac, Romania",6836,0.0,11.0,3.8
+2026-02-21 06:00:00,"Tochtermana, Radom, Mazowieckie, Poland",3393,68.0,25.0,3.9
+2026-02-21 06:00:00,"Niš O.š. Sveti Sava, Serbia",12644,13.0,4.0,2.1
+2026-02-21 06:00:00,"Obrenovac Centar, Serbia",9254,77.0,23.0,11.7
+2026-02-21 06:00:00,"Calea Macin, Isaccea, Romania",4188,0.0,14.0,8.1
+2026-02-21 06:00:00,"Str. Carpati, Deva, Romania",7651,0.0,21.0,7.0
+2026-02-21 06:00:00,"Małogoszcz, ul. Słoneczna 18, Poland",14912,90.0,33.0,4.4
+2026-02-21 06:00:00,"Kielce, ul. Targowa 3, Poland",14911,59.0,19.0,7.0
+2026-02-21 06:00:00,"Str. Piata Victoriei, Ploieşti, Romania",6868,0.0,14.0,8.0
+2026-02-21 06:00:00,"Biała Podlaska, Poland",6479,0.0,23.0,2.9
+2026-02-21 06:00:00,"M.R.Stefanika, Vranov nad Top., Slovakia",3131,63.0,19.0,6.9
+2026-02-21 06:00:00,"Miskolc Lavotta, Miskolc, Hungary",3353,0.0,22.0,0.0
+2026-02-21 06:00:00,"Calea Victoriei, Cercul Militar, Romania",7657,0.0,22.0,18.7
+2026-02-21 06:00:00,"Str. Baile Jigodin, Miercurea Ciuc, Romania",7652,0.0,29.0,0.4
+2026-02-21 06:00:00,"Comuna Sânpetru, Sânpetru, Romania",4191,0.0,16.0,4.2
+2026-02-21 06:00:00,"str. Mihai Viteazu, Vulcan, Romania",4193,0.0,22.0,6.1
+2026-02-21 06:00:00,"Comuna Valiug, Semenic, Romania",6855,0.0,13.0,3.1
+2026-02-21 06:00:00,"Beograd Surčin, Serbia",14787,66.0,18.0,5.3
+2026-02-21 06:00:00,"Str. Cauciucului, Oneşti, Romania",4166,0.0,20.0,6.9
+2026-02-21 06:00:00,"Nam. slobody, Humenne, Slovakia",3126,82.0,21.0,14.2
+2026-02-21 06:00:00,"Sajószentpéter, Sajószentpéter, Hungary",3357,85.0,29.0,8.6
+2026-02-21 06:00:00,"Str. Lalelelor, Alba Iulia, Romania",4162,0.0,25.0,3.0
+2026-02-21 06:00:00,"Str. Parcului, Bistriţa, Romania",8578,0.0,15.0,2.7
+2026-02-21 06:00:00,"Meteo. st, Ganovce, Slovakia",3128,59.0,23.0,9.6
+2026-02-21 06:00:00,"Comuna Blejoi, Ploieşti, Romania",4185,0.0,17.0,4.0
+2026-02-21 06:00:00,"Str. Războieni, Bacău, Romania",7645,0.0,25.0,6.5
+2026-02-21 06:00:00,"Str. Stefan Cel Mare, Vaslui, Romania",6877,0.0,27.0,4.7
+2026-02-21 06:00:00,"Comuna Ungheni, Ungheni, Romania",8587,0.0,25.0,5.8
+2026-02-21 06:00:00,"Aleea Castanilor, Copşa Mică, Romania",6871,0.0,27.0,7.0
+2026-02-21 06:00:00,"Nowiny ul. Parkowa, Poland",6550,0.0,40.0,9.4
+2026-02-21 06:00:00,"Starachowice, ul. Złota, Poland",14913,89.0,33.0,0.0
+2026-02-21 06:00:00,"Aleea Grădiste, Slatina, Romania",8588,0.0,10.0,3.3
+2026-02-21 06:00:00,"Str. 1 Decembrie 1918, Tecuci, Romania",6857,0.0,11.0,5.6
+2026-02-21 06:00:00,"Szeged 2 Rózsa u., Szeged, Hungary",3337,38.0,19.0,4.3
+2026-02-21 06:00:00,"Połaniec, Poland",6551,82.0,30.0,8.0
+2026-02-21 06:00:00,"Sos. Sloboziei, Giurgiu, Romania",8585,0.0,17.0,4.5
+2026-02-21 06:00:00,"Eger 2 Malomárok u., Eger, Hungary",3349,0.0,10.0,4.0
+2026-02-21 06:00:00,"Arm.gen. L. Svobodu, Presov, Slovakia",3129,65.0,25.0,16.5
+2026-02-21 06:00:00,"str. Muncii, Turceni, Romania",7649,0.0,20.0,4.4
+2026-02-21 06:00:00,"Str. Băile Romane, Drobeta Turnu Severin, Romania",6862,0.0,24.0,4.8
+2026-02-21 06:00:00,"Str. Unirii, Moldova Noua, Romania",4192,0.0,13.0,0.0
+2026-02-21 06:00:00,"Pančevo Starčevo, Serbia",8762,55.0,14.0,10.7
+2026-02-21 06:00:00,"Calea Pietroasa, Campulung, Romania",4163,0.0,47.0,4.1
+2026-02-21 06:00:00,"Str. Rozelor, Oţelu Roşu, Romania",6848,0.0,20.0,5.9
+2026-02-21 06:00:00,"Letna, Velka Ida, Slovakia",3122,59.0,20.0,0.0
+2026-02-21 06:00:00,"Str Mihai Viteazu, Constanţa, Romania",7648,0.0,24.0,2.6
+2026-02-21 06:00:00,"Str. Victoriei, Piteşti, Romania",7644,64.0,19.0,7.7
+2026-02-21 06:00:00,"Smederevo Carina, Serbia",9257,62.0,16.0,4.7
+2026-02-21 06:00:00,"Beograd Leštane, Serbia",14783,66.0,19.0,3.1
+2026-02-21 06:00:00,"Beograd Lazarevac, Serbia",14560,59.0,15.0,2.5
+2026-02-21 06:00:00,"Brzozowa, Otwock, Mazowieckie, Poland",9037,115.0,39.0,11.5
+2026-02-21 06:00:00,"EMEP, Vodna nadrz, Starina, Slovakia",3130,25.0,6.0,0.5
+2026-02-21 06:00:00,"Oszlár, Oszlár, Hungary",3355,0.0,14.0,0.0
+2026-02-21 06:00:00,"Str. Dunarii, Alexandria, Romania",4160,0.0,13.0,2.7
+2026-02-21 06:00:00,"Vratsa - ZHP Gara, Bulgaria",10561,0.0,12.0,3.1
+2026-02-21 06:00:00,"Com. Budeasa, Caloteşti, Romania",6833,0.0,14.0,3.2
+2026-02-21 06:00:00,"Calea Bucuresti, Craiova, Romania",8580,0.0,20.0,10.7
+2026-02-21 06:00:00,"Pančevo Vatrog dom, Serbia",8817,57.0,14.0,14.7
+2026-02-21 06:00:00,"Devnya - Izvorite, Bulgaria",10567,0.0,20.0,5.4
+2026-02-21 06:00:00,"Str. Uzinei, Râmnicu Vâlcea, Romania",7642,0.0,14.0,6.5
+2026-02-21 06:00:00,"Ursynów, Warszawa, Mazowieckie, Poland",3392,89.0,30.0,9.1
+2026-02-21 06:00:00,"Bdul Bucuresti, Baia Mare, Romania",4181,0.0,8.0,9.5
+2026-02-21 06:00:00,"Zamość, Poland",6481,73.0,23.0,3.6
+2026-02-21 06:00:00,"Borsukowizna-Wiejska, Poland",11817,35.0,8.0,0.5
+2026-02-21 06:00:00,"Nowy Sącz, Małopolska, Poland",3404,103.0,47.0,8.5
+2026-02-21 06:00:00,"Str. Lunca Oltului, Sfântu Gheorghe, Romania",8579,0.0,8.0,1.9
+2026-02-21 06:00:00,"Gołuchów, Ujęcie Wody, Poland",14910,0.0,34.0,5.4
+2026-02-21 06:00:00,"Pirot, Serbia",14562,30.0,8.0,5.5
+2026-02-21 06:00:00,"Str. Libertatii, Turnu Magurele, Romania",4161,0.0,16.0,2.4
+2026-02-21 06:00:00,"Beograd Barajevo, Serbia",14780,64.0,17.0,2.9
+2026-02-21 06:00:00,"Zona Pasaj Micalaca, Arad, Romania",6835,0.0,13.0,5.8
+2026-02-21 06:00:00,"Str. Tudor Vladimirescu, Calarasi, Romania",6847,0.0,13.0,4.5
+2026-02-21 06:00:00,"Str. Traian, Galaţi, Romania",7650,0.0,11.0,3.7
+2026-02-21 06:00:00,"Str. Petru Maior, Reşiţa, Romania",4170,0.0,16.0,3.8
+2026-02-21 06:00:00,"Dumbierska, Kosice, Slovakia",3112,59.0,22.0,0.0
+2026-02-21 06:00:00,"EMEP, AU SAV, Stara Lesna, Slovakia",3127,34.0,4.0,1.9
+2026-02-21 06:00:00,"Krosno-Kletówki-WIOS, Poland",14678,66.0,22.0,0.0
+2026-02-21 06:00:00,"Kazincbarcika, Kazincbarcika, Hungary",3351,76.0,25.0,5.4
+2026-02-21 06:00:00,"Str. Mihai Viteazu, Slobozia, Romania",4179,0.0,12.0,2.9
+2026-02-21 06:00:00,"Beograd Zemun Ugrinovačka, Serbia",14788,73.0,21.0,10.6
+2026-02-21 06:00:00,"Str. Mărăşeşti, Suceava, Romania",4194,94.0,35.0,7.9
+2026-02-21 06:00:00,"Debrecen Kalotaszeg tér, Debrecen, Hungary",3378,34.0,10.0,3.7
+2026-02-21 06:00:00,"Hernádszurdok, Hernádszurdok, Hungary",3350,53.0,17.0,0.0
+2026-02-21 06:00:00,"Comuna Tetchea, Tetchea, Romania",6839,0.0,19.0,0.9
+2026-02-21 06:00:00,"Jesenskeho, Jelsava, Slovakia",3116,70.0,39.0,4.6
+2026-02-21 06:00:00,"Şoseaua Constanţei, Mangalia, Romania",4173,0.0,20.0,2.8
+2026-02-21 06:00:00,"Novi Pazar, Serbia",12894,13.0,3.0,2.8
+2026-02-21 06:00:00,"Str. Soseaua Suruia, Focșani, Romania",4196,0.0,16.0,4.6
+2026-02-21 06:00:00,"Nyíregyháza, Nyíregyháza, Hungary",3380,50.0,17.0,5.4
+2026-02-21 06:00:00,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,96.0,32.0,10.3
+2026-02-21 06:00:00,"G.Oryahovitsa, Bulgaria",10572,0.0,6.0,5.2
+2026-02-21 06:00:00,"Kragujevac, Serbia",14789,37.0,9.0,4.8
+2026-02-21 06:00:00,"Beograd Mladenovac, Serbia",14784,77.0,24.0,8.8
+2026-02-21 06:00:00,"Bdul Dunărea, Galaţi, Romania",8584,0.0,12.0,6.2
+2026-02-21 06:00:00,"Str. P-ţa Independenţei, Brăila, Romania",6841,0.0,23.0,5.0
+2026-02-21 06:00:00,"Str. Castanilor, Braşov, Romania",7646,0.0,17.0,3.9
+2026-02-21 06:00:00,"Marszałkowska, Warszawa, Mazowieckie, Poland",3399,89.0,39.0,12.6
+2026-02-21 06:00:00,"Kraków, os. Wadów, Małopolska, Poland",10041,151.0,44.0,20.1
+2026-02-21 06:00:00,"Str. Drumul Taberei, Drumul Taberei, Romania",7656,0.0,19.0,5.5
+2026-02-21 06:00:00,"Str. Industriei, Urziceni, Romania",6860,0.0,16.0,6.9
+2026-02-21 06:00:00,"Str. Vlad Ţepeş, Târgovişte, Romania",6851,0.0,13.0,8.8
+2026-02-21 06:00:00,"Str. Ioan Slavici, Satu Mare, Romania",6873,0.0,11.0,5.7
+2026-02-21 06:00:00,"Rymanów-Zdrój, Poland",9577,42.0,14.0,0.0
+2026-02-21 06:00:00,"Com. Oarja, Oarja, Romania",6834,0.0,9.0,1.9
+2026-02-21 06:00:00,"Veliki Crljeni, Serbia",14563,97.0,32.0,10.3
+2026-02-21 06:00:00,"Str. Isaccei- Parc Lac Ciuperca, Tulcea, Romania",4195,0.0,6.0,2.6
+2026-02-21 06:00:00,"str. Principala, Buchin, Romania",4171,0.0,18.0,16.5
+2026-02-21 06:00:00,"Dębica-Grottgera-WIOS, Poland",13039,162.0,72.0,0.0
+2026-02-21 06:00:00,"Zeleznicna, Poprad, Slovakia",13827,50.0,15.0,14.2
+2026-02-21 06:00:00,"Beograd Stojčino Brdo, Serbia",14786,71.0,20.0,6.4
+2026-02-21 06:00:00,"Str. Valea Albă, Piatra Neamţ, Romania",4183,71.0,24.0,7.6
+2026-02-21 06:00:00,"Bd Mihai Eminescu, Botoşani, Romania",4168,0.0,22.0,30.4
+2026-02-21 06:00:00,"Str. Nufărului, Oradea, Romania",6838,0.0,18.0,11.4
+2026-02-21 06:00:00,"Str. Ostrovei, Râmnicu Vâlcea, Romania",6876,0.0,20.0,6.2
+2026-02-21 06:00:00,"Miskolc Alföldi, Miskolc, Hungary",8649,70.0,23.0,0.0
+2026-02-21 06:00:00,"Shumen, Bulgaria",10563,0.0,10.0,3.3
+2026-02-21 06:00:00,"Varna - SOU Angel Kanchev, Bulgaria",10577,33.0,6.0,0.9
+2026-02-21 06:00:00,"Lovech, Bulgaria",10574,0.0,13.0,0.0
+2026-02-21 06:00:00,"Str. Constructorilor, Rovinari, Romania",4176,74.0,31.0,3.4
+2026-02-21 06:00:00,"Bor Gradski park, Serbia",12643,51.0,12.0,0.0
+2026-02-21 06:00:00,"Rzeszów-Piłsudskiego-WIOS, Poland",13042,90.0,46.0,18.9
+2026-02-21 06:00:00,"Str. Aurel Vlaicu, Cluj-Napoca, Romania",8591,0.0,21.0,14.1
+2026-02-21 06:00:00,"Roosevelta, Żyrardów, Mazowieckie, Poland",3395,77.0,27.0,0.3
+2026-02-21 06:00:00,"Str. Sănătăţii, Năvodari, Romania",6850,0.0,23.0,2.1
+2026-02-21 06:00:00,"Str. Decebal, Medgidia, Romania",4175,0.0,19.0,2.3
+2026-02-21 06:00:00,"Beograd Des. Stefana, Serbia",8761,75.0,25.0,19.2
+2026-02-21 06:00:00,"Str. M. Kogălniceanu, Sebeş, Romania",6830,0.0,30.0,5.7
+2026-02-21 06:00:00,"Str.Alexandru cel Bun, Siret, Romania",6875,0.0,25.0,6.2
+2026-02-21 06:00:00,"Pod Vinbargom, Bardejov, Slovakia",13822,59.0,18.0,4.2
+2026-02-21 06:00:00,"Čačak, Serbia",14558,40.0,9.0,2.5
+2026-02-21 06:00:00,"Beograd Sopot, Serbia",14785,70.0,20.0,1.8
+2026-02-21 06:00:00,"Beograd Obrenovac Ušće, Serbia",14564,31.0,7.0,0.3
+2026-02-21 06:00:00,"Bdul. N. Iorga, Iasi, Romania",6861,0.0,36.0,14.2
+2026-02-21 06:00:00,"Str. Vasile Alecsandri, Târgu Jiu, Romania",8581,95.0,37.0,5.1
+2026-02-21 06:00:00,"IGPAN, Belsk, Mazowieckie, Poland",3396,0.0,28.0,5.7
+2026-02-21 06:00:00,"Putnok, Putnok, Hungary",3356,0.0,17.0,1.2
+2026-02-21 06:00:00,"Str. Izvoare, Bacău, Romania",4165,0.0,14.0,12.1
+2026-02-21 06:00:00,"Str. Gării, Mediaş, Romania",4187,0.0,14.0,5.9
+2026-02-21 06:00:00,"Str. Rampei, Tarnaveni, Romania",6867,0.0,22.0,3.2
+2026-02-21 06:00:00,"Str. I Bulbuca, Timişoara, Romania",7661,56.0,17.0,7.4
+2026-02-21 06:00:00,"Bdul. Dacia, Oradea, Romania",6837,0.0,34.0,5.0
+2026-02-21 06:00:00,"Tarnów-ul. Ks. Romana Sitko, Małopolska, Poland",8690,129.0,52.0,17.9
+2026-02-21 06:00:00,"Nowa Huta, Kraków, Małopolska, Poland",3403,151.0,58.0,20.1
+2026-02-21 06:00:00,"Zegrzyńska, Legionowo, Mazowieckie, Poland",4748,123.0,42.0,19.5
+2026-02-21 06:00:00,"Beograd Ada petlja, Serbia",14567,65.0,19.0,11.0
+2026-02-21 06:00:00,"Str. Teilor, Fieni, Romania",6852,0.0,13.0,4.5
+2026-02-21 06:00:00,"Bdul Unirii, Baia Mare, Romania",4182,0.0,10.0,5.7
+2026-02-21 06:00:00,"Str. Ioan Fluieras, Arad, Romania",4164,0.0,14.0,7.9
+2026-02-21 06:00:00,"Ruse - Vazrazhdane, Bulgaria",10560,18.0,19.0,4.1
+2026-02-21 06:00:00,"Str. Hipodromului, Sibiu, Romania",6870,0.0,12.0,7.0
+2026-02-21 06:00:00,"Str. Libertăţii, Târgu Mureş, Romania",6865,0.0,23.0,4.9
+2026-02-21 06:00:00,"T. G. Masaryka, Trebisov, Slovakia",13830,53.0,17.0,3.7
+2026-02-21 06:00:00,"Szymbark, Szymbark 430, Krakow, Poland",14890,0.0,23.0,0.9
+2026-02-21 06:00:00,"odesa; Odessa Gonzales, Midland, Texas",196,30.0,0.0,0.0
+2026-02-21 06:00:00,"elpueleutodesantamalia; Rio San Pedro, Puerto Real, Spain",8448,27.0,4.0,3.2
+2026-02-21 06:00:00,"rhode-saint-genese; Ukkel, Belgium",2992,45.0,17.0,2.3
+2026-02-21 06:00:00,"telaviva; Komemiyut Train Station - Gush Dan, Israel (ישראל,רכבת קוממיות, גוש דן)",9991,84.0,0.0,1.6
+2026-02-21 06:00:00,"telaviva; The Haganah Train - Gush Dan, Israel (ישראל,רכבת ההגנה, גוש דן)",9989,75.0,0.0,4.3
+2026-02-21 06:00:00,"telaviva; Yoseftal Train - Gush Dan, Israel (ישראל,רכבת יוספטל, גוש דן)",9990,67.0,0.0,6.5
+2026-02-21 06:00:00,"telaviva; Or Yehuda - inner plain, Israel (ישראל,אור יהודה, שפלה פנימית)",9987,67.0,0.0,4.6
+2026-02-21 06:00:00,"telaviva; Antokolski Gush Dan, Israel (ישראל,אנטוקולסקי, גוש דן)",2962,64.0,0.0,4.4
+2026-02-21 06:00:00,"telaviva; The Peace Train - Gush Dan, Israel (ישראל,רכבת השלום, גוש דן)",9992,61.0,0.0,3.9
+2026-02-21 06:00:00,"telaviva; Through the D'', Gush Dan, Israel (ישראל,דרך פ''ת, גוש דן)",2963,58.0,0.0,6.3
+2026-02-21 06:00:00,"telaviva; Dan, Japheth Jaffa, Israel (ישראל,יפת יפו, גוש דן)",2987,53.0,30.0,4.7
+2026-02-21 06:00:00,"telaviva; Hint, Gush Dan, Israel (ישראל,רמז, גוש דן)",2964,53.0,30.0,24.6
+2026-02-21 06:00:00,"telaviva; Mobile stations 4, Israel (ישראל,ניידת4, תחנות ניידות)",8894,48.0,0.0,2.9
+2026-02-21 06:00:00,"telaviva; Urban D, Gush Dan, Israel (ישראל,עירוני ד, גוש דן)",2960,46.0,30.0,4.9
+2026-02-21 06:00:00,"telaviva; Holon, Gush Dan, Israel (ישראל,חולון, גוש דן)",2958,45.0,30.0,3.3
+2026-02-21 06:00:00,"telaviva; Highway 4, Gush Dan, Israel (ישראל,כביש 4, גוש דן)",2959,40.0,30.0,8.3
